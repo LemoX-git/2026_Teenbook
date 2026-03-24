@@ -1,5 +1,7 @@
 # Раздел 6. Я и цифровой мир
 
+> Шаблон общего README по разделу. Блок про участников и впечатления оставлен под заполнение вручную.
+
 ## 1. Кто работал над разделом
 
 | Участник | Роль | Что делал | Статус |
@@ -75,3 +77,24 @@
 > - [Имя]: ...
 > - [Имя]: ...
 > - [Имя]: ...
+
+
+## 8. Автоматизация выгрузки из Wikidata
+
+В папке `scripts/` лежат два служебных файла для автоматического запуска SPARQL-запросов:
+- `query_registry.json` — реестр запросов по всем подтемам;
+- `run_all_wikidata.py` — запуск запросов и сохранение результатов в `data/`.
+
+Примеры запуска:
+
+```bash
+python WORK/ya_i_cifrovoy_mir/scripts/run_all_wikidata.py --list-topics
+python WORK/ya_i_cifrovoy_mir/scripts/run_all_wikidata.py --dry-run
+python WORK/ya_i_cifrovoy_mir/scripts/run_all_wikidata.py --topic moya_zavisimost
+python WORK/ya_i_cifrovoy_mir/scripts/run_all_wikidata.py --topic moya_tehnika --force
+```
+
+После запуска для каждой подтемы появятся:
+- `data/wikidata/*.raw.json` — сырые ответы endpoint'а;
+- `data/wikidata/*.normalized.json` — упрощённые таблицы значений;
+- обновлённый `data/wikidata_export.json` — краткая сводка по теме.

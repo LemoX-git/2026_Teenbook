@@ -1,0 +1,245 @@
+{
+  "version": 1,
+  "description": "Реестр Wikidata SPARQL-запросов по темам раздела «Я и цифровой мир».",
+  "endpoint": "https://query.wikidata.org/sparql",
+  "topics": [
+    {
+      "slug": "moya_zavisimost",
+      "title": "Моя зависимость",
+      "data_dir": "../moya_zavisimost/data",
+      "query_module": "../moya_zavisimost/scripts/sparql_queries.py",
+      "seed_labels": [
+        "screen time",
+        "smartphone",
+        "sleep",
+        "attention",
+        "digital detox",
+        "social media"
+      ],
+      "queries": [
+        {
+          "name": "find_by_label",
+          "const_name": "QUERY_FIND_BY_LABEL",
+          "output_basename": "find_by_label",
+          "query": "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\nSELECT DISTINCT ?item ?itemLabel ?label WHERE {\n  VALUES ?label {\n    \"screen time\"@en\n    \"smartphone\"@en\n    \"sleep\"@en\n    \"attention\"@en\n    \"digital detox\"@en\n    \"social media\"@en\n  }\n  ?item rdfs:label ?label .\n  FILTER(LANG(?label) = \"en\")\n  SERVICE wikibase:label { bd:serviceParam wikibase:language \"ru,en\". }\n}\nLIMIT 100\n"
+        },
+        {
+          "name": "expand_class_tree",
+          "const_name": "QUERY_EXPAND_CLASS_TREE",
+          "output_basename": "expand_class_tree",
+          "query": "SELECT DISTINCT ?seed ?seedLabel ?related ?relatedLabel ?relation WHERE {\n  VALUES ?seedLabel {\n    \"screen time\"@en\n    \"smartphone\"@en\n    \"sleep\"@en\n    \"attention\"@en\n    \"digital detox\"@en\n    \"social media\"@en\n  }\n  ?seed rdfs:label ?seedLabel .\n  FILTER(LANG(?seedLabel) = \"en\")\n\n  {\n    ?related wdt:P31 ?seed .\n    BIND(\"instance of\" AS ?relation)\n  }\n  UNION\n  {\n    ?related wdt:P279 ?seed .\n    BIND(\"subclass of\" AS ?relation)\n  }\n\n  SERVICE wikibase:label { bd:serviceParam wikibase:language \"ru,en\". }\n}\nLIMIT 150\n"
+        },
+        {
+          "name": "local_graph",
+          "const_name": "QUERY_LOCAL_GRAPH",
+          "output_basename": "local_graph",
+          "query": "# Локальный граф по seed-понятиям.\nSELECT DISTINCT ?item1 ?item1Label ?p ?propLabel ?item2 ?item2Label WHERE {\n  VALUES ?startLabel {\n    \"screen time\"@en\n    \"smartphone\"@en\n    \"sleep\"@en\n    \"attention\"@en\n    \"digital detox\"@en\n    \"social media\"@en\n  }\n  ?item1 rdfs:label ?startLabel .\n  FILTER(LANG(?startLabel) = \"en\")\n  ?item1 ?p ?item2 .\n  FILTER(STRSTARTS(STR(?item2), \"http://www.wikidata.org/entity/\"))\n  ?prop wikibase:directClaim ?p .\n  SERVICE wikibase:label { bd:serviceParam wikibase:language \"ru,en\". }\n  BIND(?propLabel AS ?propLabel)\n}\nLIMIT 200\n"
+        },
+        {
+          "name": "reverse_graph",
+          "const_name": "QUERY_REVERSE_GRAPH",
+          "output_basename": "reverse_graph",
+          "query": "# Кто ссылается на найденные сущности.\nSELECT DISTINCT ?item1 ?item1Label ?p ?propLabel ?item2 ?item2Label WHERE {\n  VALUES ?targetLabel {\n    \"screen time\"@en\n    \"smartphone\"@en\n    \"sleep\"@en\n    \"attention\"@en\n    \"digital detox\"@en\n    \"social media\"@en\n  }\n  ?item2 rdfs:label ?targetLabel .\n  FILTER(LANG(?targetLabel) = \"en\")\n  ?item1 ?p ?item2 .\n  FILTER(STRSTARTS(STR(?item1), \"http://www.wikidata.org/entity/\"))\n  ?prop wikibase:directClaim ?p .\n  SERVICE wikibase:label { bd:serviceParam wikibase:language \"ru,en\". }\n  BIND(?propLabel AS ?propLabel)\n}\nLIMIT 200\n"
+        }
+      ]
+    },
+    {
+      "slug": "moi_igry",
+      "title": "Мои игры",
+      "data_dir": "../moi_igry/data",
+      "query_module": "../moi_igry/scripts/sparql_queries.py",
+      "seed_labels": [
+        "video game",
+        "esports",
+        "online game",
+        "microtransaction",
+        "gaming community"
+      ],
+      "queries": [
+        {
+          "name": "find_by_label",
+          "const_name": "QUERY_FIND_BY_LABEL",
+          "output_basename": "find_by_label",
+          "query": "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\nSELECT DISTINCT ?item ?itemLabel ?label WHERE {\n  VALUES ?label {\n    \"video game\"@en\n    \"esports\"@en\n    \"online game\"@en\n    \"microtransaction\"@en\n    \"gaming community\"@en\n  }\n  ?item rdfs:label ?label .\n  FILTER(LANG(?label) = \"en\")\n  SERVICE wikibase:label { bd:serviceParam wikibase:language \"ru,en\". }\n}\nLIMIT 100\n"
+        },
+        {
+          "name": "expand_class_tree",
+          "const_name": "QUERY_EXPAND_CLASS_TREE",
+          "output_basename": "expand_class_tree",
+          "query": "SELECT DISTINCT ?seed ?seedLabel ?related ?relatedLabel ?relation WHERE {\n  VALUES ?seedLabel {\n    \"video game\"@en\n    \"esports\"@en\n    \"online game\"@en\n    \"microtransaction\"@en\n    \"gaming community\"@en\n  }\n  ?seed rdfs:label ?seedLabel .\n  FILTER(LANG(?seedLabel) = \"en\")\n\n  {\n    ?related wdt:P31 ?seed .\n    BIND(\"instance of\" AS ?relation)\n  }\n  UNION\n  {\n    ?related wdt:P279 ?seed .\n    BIND(\"subclass of\" AS ?relation)\n  }\n\n  SERVICE wikibase:label { bd:serviceParam wikibase:language \"ru,en\". }\n}\nLIMIT 150\n"
+        },
+        {
+          "name": "local_graph",
+          "const_name": "QUERY_LOCAL_GRAPH",
+          "output_basename": "local_graph",
+          "query": "# Локальный граф по seed-понятиям.\nSELECT DISTINCT ?item1 ?item1Label ?p ?propLabel ?item2 ?item2Label WHERE {\n  VALUES ?startLabel {\n    \"video game\"@en\n    \"esports\"@en\n    \"online game\"@en\n    \"microtransaction\"@en\n    \"gaming community\"@en\n  }\n  ?item1 rdfs:label ?startLabel .\n  FILTER(LANG(?startLabel) = \"en\")\n  ?item1 ?p ?item2 .\n  FILTER(STRSTARTS(STR(?item2), \"http://www.wikidata.org/entity/\"))\n  ?prop wikibase:directClaim ?p .\n  SERVICE wikibase:label { bd:serviceParam wikibase:language \"ru,en\". }\n  BIND(?propLabel AS ?propLabel)\n}\nLIMIT 200\n"
+        },
+        {
+          "name": "reverse_graph",
+          "const_name": "QUERY_REVERSE_GRAPH",
+          "output_basename": "reverse_graph",
+          "query": "# Кто ссылается на найденные сущности.\nSELECT DISTINCT ?item1 ?item1Label ?p ?propLabel ?item2 ?item2Label WHERE {\n  VALUES ?targetLabel {\n    \"video game\"@en\n    \"esports\"@en\n    \"online game\"@en\n    \"microtransaction\"@en\n    \"gaming community\"@en\n  }\n  ?item2 rdfs:label ?targetLabel .\n  FILTER(LANG(?targetLabel) = \"en\")\n  ?item1 ?p ?item2 .\n  FILTER(STRSTARTS(STR(?item1), \"http://www.wikidata.org/entity/\"))\n  ?prop wikibase:directClaim ?p .\n  SERVICE wikibase:label { bd:serviceParam wikibase:language \"ru,en\". }\n  BIND(?propLabel AS ?propLabel)\n}\nLIMIT 200\n"
+        }
+      ]
+    },
+    {
+      "slug": "moya_informacionnaya_gigiena",
+      "title": "Моя информационная гигиена",
+      "data_dir": "../moya_informacionnaya_gigiena/data",
+      "query_module": "../moya_informacionnaya_gigiena/scripts/sparql_queries.py",
+      "seed_labels": [
+        "misinformation",
+        "news",
+        "social media",
+        "bot",
+        "recommender system",
+        "troll"
+      ],
+      "queries": [
+        {
+          "name": "find_by_label",
+          "const_name": "QUERY_FIND_BY_LABEL",
+          "output_basename": "find_by_label",
+          "query": "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\nSELECT DISTINCT ?item ?itemLabel ?label WHERE {\n  VALUES ?label {\n    \"misinformation\"@en\n    \"news\"@en\n    \"social media\"@en\n    \"bot\"@en\n    \"recommender system\"@en\n    \"troll\"@en\n  }\n  ?item rdfs:label ?label .\n  FILTER(LANG(?label) = \"en\")\n  SERVICE wikibase:label { bd:serviceParam wikibase:language \"ru,en\". }\n}\nLIMIT 100\n"
+        },
+        {
+          "name": "expand_class_tree",
+          "const_name": "QUERY_EXPAND_CLASS_TREE",
+          "output_basename": "expand_class_tree",
+          "query": "SELECT DISTINCT ?seed ?seedLabel ?related ?relatedLabel ?relation WHERE {\n  VALUES ?seedLabel {\n    \"misinformation\"@en\n    \"news\"@en\n    \"social media\"@en\n    \"bot\"@en\n    \"recommender system\"@en\n    \"troll\"@en\n  }\n  ?seed rdfs:label ?seedLabel .\n  FILTER(LANG(?seedLabel) = \"en\")\n\n  {\n    ?related wdt:P31 ?seed .\n    BIND(\"instance of\" AS ?relation)\n  }\n  UNION\n  {\n    ?related wdt:P279 ?seed .\n    BIND(\"subclass of\" AS ?relation)\n  }\n\n  SERVICE wikibase:label { bd:serviceParam wikibase:language \"ru,en\". }\n}\nLIMIT 150\n"
+        },
+        {
+          "name": "local_graph",
+          "const_name": "QUERY_LOCAL_GRAPH",
+          "output_basename": "local_graph",
+          "query": "# Локальный граф по seed-понятиям.\nSELECT DISTINCT ?item1 ?item1Label ?p ?propLabel ?item2 ?item2Label WHERE {\n  VALUES ?startLabel {\n    \"misinformation\"@en\n    \"news\"@en\n    \"social media\"@en\n    \"bot\"@en\n    \"recommender system\"@en\n    \"troll\"@en\n  }\n  ?item1 rdfs:label ?startLabel .\n  FILTER(LANG(?startLabel) = \"en\")\n  ?item1 ?p ?item2 .\n  FILTER(STRSTARTS(STR(?item2), \"http://www.wikidata.org/entity/\"))\n  ?prop wikibase:directClaim ?p .\n  SERVICE wikibase:label { bd:serviceParam wikibase:language \"ru,en\". }\n  BIND(?propLabel AS ?propLabel)\n}\nLIMIT 200\n"
+        },
+        {
+          "name": "reverse_graph",
+          "const_name": "QUERY_REVERSE_GRAPH",
+          "output_basename": "reverse_graph",
+          "query": "# Кто ссылается на найденные сущности.\nSELECT DISTINCT ?item1 ?item1Label ?p ?propLabel ?item2 ?item2Label WHERE {\n  VALUES ?targetLabel {\n    \"misinformation\"@en\n    \"news\"@en\n    \"social media\"@en\n    \"bot\"@en\n    \"recommender system\"@en\n    \"troll\"@en\n  }\n  ?item2 rdfs:label ?targetLabel .\n  FILTER(LANG(?targetLabel) = \"en\")\n  ?item1 ?p ?item2 .\n  FILTER(STRSTARTS(STR(?item1), \"http://www.wikidata.org/entity/\"))\n  ?prop wikibase:directClaim ?p .\n  SERVICE wikibase:label { bd:serviceParam wikibase:language \"ru,en\". }\n  BIND(?propLabel AS ?propLabel)\n}\nLIMIT 200\n"
+        }
+      ]
+    },
+    {
+      "slug": "moya_bezopasnost_v_seti",
+      "title": "Моя безопасность в сети, приватность, публикация",
+      "data_dir": "../moya_bezopasnost_v_seti/data",
+      "query_module": "../moya_bezopasnost_v_seti/scripts/sparql_queries.py",
+      "seed_labels": [
+        "privacy",
+        "personal data",
+        "cyberbullying",
+        "social media",
+        "digital footprint",
+        "phishing"
+      ],
+      "queries": [
+        {
+          "name": "find_by_label",
+          "const_name": "QUERY_FIND_BY_LABEL",
+          "output_basename": "find_by_label",
+          "query": "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\nSELECT DISTINCT ?item ?itemLabel ?label WHERE {\n  VALUES ?label {\n    \"privacy\"@en\n    \"personal data\"@en\n    \"cyberbullying\"@en\n    \"social media\"@en\n    \"digital footprint\"@en\n    \"phishing\"@en\n  }\n  ?item rdfs:label ?label .\n  FILTER(LANG(?label) = \"en\")\n  SERVICE wikibase:label { bd:serviceParam wikibase:language \"ru,en\". }\n}\nLIMIT 100\n"
+        },
+        {
+          "name": "expand_class_tree",
+          "const_name": "QUERY_EXPAND_CLASS_TREE",
+          "output_basename": "expand_class_tree",
+          "query": "SELECT DISTINCT ?seed ?seedLabel ?related ?relatedLabel ?relation WHERE {\n  VALUES ?seedLabel {\n    \"privacy\"@en\n    \"personal data\"@en\n    \"cyberbullying\"@en\n    \"social media\"@en\n    \"digital footprint\"@en\n    \"phishing\"@en\n  }\n  ?seed rdfs:label ?seedLabel .\n  FILTER(LANG(?seedLabel) = \"en\")\n\n  {\n    ?related wdt:P31 ?seed .\n    BIND(\"instance of\" AS ?relation)\n  }\n  UNION\n  {\n    ?related wdt:P279 ?seed .\n    BIND(\"subclass of\" AS ?relation)\n  }\n\n  SERVICE wikibase:label { bd:serviceParam wikibase:language \"ru,en\". }\n}\nLIMIT 150\n"
+        },
+        {
+          "name": "local_graph",
+          "const_name": "QUERY_LOCAL_GRAPH",
+          "output_basename": "local_graph",
+          "query": "# Локальный граф по seed-понятиям.\nSELECT DISTINCT ?item1 ?item1Label ?p ?propLabel ?item2 ?item2Label WHERE {\n  VALUES ?startLabel {\n    \"privacy\"@en\n    \"personal data\"@en\n    \"cyberbullying\"@en\n    \"social media\"@en\n    \"digital footprint\"@en\n    \"phishing\"@en\n  }\n  ?item1 rdfs:label ?startLabel .\n  FILTER(LANG(?startLabel) = \"en\")\n  ?item1 ?p ?item2 .\n  FILTER(STRSTARTS(STR(?item2), \"http://www.wikidata.org/entity/\"))\n  ?prop wikibase:directClaim ?p .\n  SERVICE wikibase:label { bd:serviceParam wikibase:language \"ru,en\". }\n  BIND(?propLabel AS ?propLabel)\n}\nLIMIT 200\n"
+        },
+        {
+          "name": "reverse_graph",
+          "const_name": "QUERY_REVERSE_GRAPH",
+          "output_basename": "reverse_graph",
+          "query": "# Кто ссылается на найденные сущности.\nSELECT DISTINCT ?item1 ?item1Label ?p ?propLabel ?item2 ?item2Label WHERE {\n  VALUES ?targetLabel {\n    \"privacy\"@en\n    \"personal data\"@en\n    \"cyberbullying\"@en\n    \"social media\"@en\n    \"digital footprint\"@en\n    \"phishing\"@en\n  }\n  ?item2 rdfs:label ?targetLabel .\n  FILTER(LANG(?targetLabel) = \"en\")\n  ?item1 ?p ?item2 .\n  FILTER(STRSTARTS(STR(?item1), \"http://www.wikidata.org/entity/\"))\n  ?prop wikibase:directClaim ?p .\n  SERVICE wikibase:label { bd:serviceParam wikibase:language \"ru,en\". }\n  BIND(?propLabel AS ?propLabel)\n}\nLIMIT 200\n"
+        }
+      ]
+    },
+    {
+      "slug": "moya_realnost_i_virtualnost",
+      "title": "Моя реальность/виртуальность",
+      "data_dir": "../moya_realnost_i_virtualnost/data",
+      "query_module": "../moya_realnost_i_virtualnost/scripts/sparql_queries.py",
+      "seed_labels": [
+        "virtual community",
+        "social network",
+        "online identity",
+        "fear of missing out",
+        "interpersonal relationship"
+      ],
+      "queries": [
+        {
+          "name": "find_by_label",
+          "const_name": "QUERY_FIND_BY_LABEL",
+          "output_basename": "find_by_label",
+          "query": "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\nSELECT DISTINCT ?item ?itemLabel ?label WHERE {\n  VALUES ?label {\n    \"virtual community\"@en\n    \"social network\"@en\n    \"online identity\"@en\n    \"fear of missing out\"@en\n    \"interpersonal relationship\"@en\n  }\n  ?item rdfs:label ?label .\n  FILTER(LANG(?label) = \"en\")\n  SERVICE wikibase:label { bd:serviceParam wikibase:language \"ru,en\". }\n}\nLIMIT 100\n"
+        },
+        {
+          "name": "expand_class_tree",
+          "const_name": "QUERY_EXPAND_CLASS_TREE",
+          "output_basename": "expand_class_tree",
+          "query": "SELECT DISTINCT ?seed ?seedLabel ?related ?relatedLabel ?relation WHERE {\n  VALUES ?seedLabel {\n    \"virtual community\"@en\n    \"social network\"@en\n    \"online identity\"@en\n    \"fear of missing out\"@en\n    \"interpersonal relationship\"@en\n  }\n  ?seed rdfs:label ?seedLabel .\n  FILTER(LANG(?seedLabel) = \"en\")\n\n  {\n    ?related wdt:P31 ?seed .\n    BIND(\"instance of\" AS ?relation)\n  }\n  UNION\n  {\n    ?related wdt:P279 ?seed .\n    BIND(\"subclass of\" AS ?relation)\n  }\n\n  SERVICE wikibase:label { bd:serviceParam wikibase:language \"ru,en\". }\n}\nLIMIT 150\n"
+        },
+        {
+          "name": "local_graph",
+          "const_name": "QUERY_LOCAL_GRAPH",
+          "output_basename": "local_graph",
+          "query": "# Локальный граф по seed-понятиям.\nSELECT DISTINCT ?item1 ?item1Label ?p ?propLabel ?item2 ?item2Label WHERE {\n  VALUES ?startLabel {\n    \"virtual community\"@en\n    \"social network\"@en\n    \"online identity\"@en\n    \"fear of missing out\"@en\n    \"interpersonal relationship\"@en\n  }\n  ?item1 rdfs:label ?startLabel .\n  FILTER(LANG(?startLabel) = \"en\")\n  ?item1 ?p ?item2 .\n  FILTER(STRSTARTS(STR(?item2), \"http://www.wikidata.org/entity/\"))\n  ?prop wikibase:directClaim ?p .\n  SERVICE wikibase:label { bd:serviceParam wikibase:language \"ru,en\". }\n  BIND(?propLabel AS ?propLabel)\n}\nLIMIT 200\n"
+        },
+        {
+          "name": "reverse_graph",
+          "const_name": "QUERY_REVERSE_GRAPH",
+          "output_basename": "reverse_graph",
+          "query": "# Кто ссылается на найденные сущности.\nSELECT DISTINCT ?item1 ?item1Label ?p ?propLabel ?item2 ?item2Label WHERE {\n  VALUES ?targetLabel {\n    \"virtual community\"@en\n    \"social network\"@en\n    \"online identity\"@en\n    \"fear of missing out\"@en\n    \"interpersonal relationship\"@en\n  }\n  ?item2 rdfs:label ?targetLabel .\n  FILTER(LANG(?targetLabel) = \"en\")\n  ?item1 ?p ?item2 .\n  FILTER(STRSTARTS(STR(?item1), \"http://www.wikidata.org/entity/\"))\n  ?prop wikibase:directClaim ?p .\n  SERVICE wikibase:label { bd:serviceParam wikibase:language \"ru,en\". }\n  BIND(?propLabel AS ?propLabel)\n}\nLIMIT 200\n"
+        }
+      ]
+    },
+    {
+      "slug": "moya_tehnika",
+      "title": "Моя техника",
+      "data_dir": "../moya_tehnika/data",
+      "query_module": "../moya_tehnika/scripts/sparql_queries.py",
+      "seed_labels": [
+        "smartphone",
+        "laptop",
+        "computer",
+        "battery",
+        "computer hardware",
+        "software"
+      ],
+      "queries": [
+        {
+          "name": "find_by_label",
+          "const_name": "QUERY_FIND_BY_LABEL",
+          "output_basename": "find_by_label",
+          "query": "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\nSELECT DISTINCT ?item ?itemLabel ?label WHERE {\n  VALUES ?label {\n    \"smartphone\"@en\n    \"laptop\"@en\n    \"computer\"@en\n    \"battery\"@en\n    \"computer hardware\"@en\n    \"software\"@en\n  }\n  ?item rdfs:label ?label .\n  FILTER(LANG(?label) = \"en\")\n  SERVICE wikibase:label { bd:serviceParam wikibase:language \"ru,en\". }\n}\nLIMIT 100\n"
+        },
+        {
+          "name": "expand_class_tree",
+          "const_name": "QUERY_EXPAND_CLASS_TREE",
+          "output_basename": "expand_class_tree",
+          "query": "SELECT DISTINCT ?seed ?seedLabel ?related ?relatedLabel ?relation WHERE {\n  VALUES ?seedLabel {\n    \"smartphone\"@en\n    \"laptop\"@en\n    \"computer\"@en\n    \"battery\"@en\n    \"computer hardware\"@en\n    \"software\"@en\n  }\n  ?seed rdfs:label ?seedLabel .\n  FILTER(LANG(?seedLabel) = \"en\")\n\n  {\n    ?related wdt:P31 ?seed .\n    BIND(\"instance of\" AS ?relation)\n  }\n  UNION\n  {\n    ?related wdt:P279 ?seed .\n    BIND(\"subclass of\" AS ?relation)\n  }\n\n  SERVICE wikibase:label { bd:serviceParam wikibase:language \"ru,en\". }\n}\nLIMIT 150\n"
+        },
+        {
+          "name": "local_graph",
+          "const_name": "QUERY_LOCAL_GRAPH",
+          "output_basename": "local_graph",
+          "query": "# Локальный граф по seed-понятиям.\nSELECT DISTINCT ?item1 ?item1Label ?p ?propLabel ?item2 ?item2Label WHERE {\n  VALUES ?startLabel {\n    \"smartphone\"@en\n    \"laptop\"@en\n    \"computer\"@en\n    \"battery\"@en\n    \"computer hardware\"@en\n    \"software\"@en\n  }\n  ?item1 rdfs:label ?startLabel .\n  FILTER(LANG(?startLabel) = \"en\")\n  ?item1 ?p ?item2 .\n  FILTER(STRSTARTS(STR(?item2), \"http://www.wikidata.org/entity/\"))\n  ?prop wikibase:directClaim ?p .\n  SERVICE wikibase:label { bd:serviceParam wikibase:language \"ru,en\". }\n  BIND(?propLabel AS ?propLabel)\n}\nLIMIT 200\n"
+        },
+        {
+          "name": "reverse_graph",
+          "const_name": "QUERY_REVERSE_GRAPH",
+          "output_basename": "reverse_graph",
+          "query": "# Кто ссылается на найденные сущности.\nSELECT DISTINCT ?item1 ?item1Label ?p ?propLabel ?item2 ?item2Label WHERE {\n  VALUES ?targetLabel {\n    \"smartphone\"@en\n    \"laptop\"@en\n    \"computer\"@en\n    \"battery\"@en\n    \"computer hardware\"@en\n    \"software\"@en\n  }\n  ?item2 rdfs:label ?targetLabel .\n  FILTER(LANG(?targetLabel) = \"en\")\n  ?item1 ?p ?item2 .\n  FILTER(STRSTARTS(STR(?item1), \"http://www.wikidata.org/entity/\"))\n  ?prop wikibase:directClaim ?p .\n  SERVICE wikibase:label { bd:serviceParam wikibase:language \"ru,en\". }\n  BIND(?propLabel AS ?propLabel)\n}\nLIMIT 200\n"
+        }
+      ]
+    }
+  ]
+}
