@@ -1,0 +1,56 @@
+{
+  "status": "draft_placeholder",
+  "topic": "Моя зависимость",
+  "note": "Это честный черновой файл-рыба. Его нужно заменить на результат реального SPARQL-запроса.",
+  "expected_sources": [
+    "Wikidata",
+    "DBpedia"
+  ],
+  "query_terms": [
+    "screen time",
+    "smartphone",
+    "sleep",
+    "attention",
+    "digital detox"
+  ],
+  "sample_nodes": [
+    "экранное время",
+    "скроллинг",
+    "уведомления",
+    "сон",
+    "внимание",
+    "привычка"
+  ],
+  "sample_relations": [
+    {
+      "source": "скроллинг",
+      "target": "экранное время",
+      "label": "увеличивает"
+    },
+    {
+      "source": "уведомления",
+      "target": "внимание",
+      "label": "отвлекают"
+    },
+    {
+      "source": "экранное время",
+      "target": "сон",
+      "label": "влияет на"
+    },
+    {
+      "source": "цифровой детокс",
+      "target": "экранное время",
+      "label": "снижает"
+    },
+    {
+      "source": "привычка",
+      "target": "день",
+      "label": "формирует"
+    },
+    {
+      "source": "отдых",
+      "target": "внимание",
+      "label": "восстанавливает"
+    }
+  ]
+}

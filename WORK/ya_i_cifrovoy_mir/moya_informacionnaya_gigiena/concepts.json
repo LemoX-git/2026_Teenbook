@@ -1,0 +1,113 @@
+{
+  "section": "Раздел 6. Я и цифровой мир",
+  "topic": "Моя информационная гигиена",
+  "slug": "moya_informacionnaya_gigiena",
+  "status": "draft",
+  "articles": [
+    {
+      "id": "kak_otlichit_fejk_ot_pravdy",
+      "title": "Как отличить фейк от правды",
+      "keywords": [
+        "фейк",
+        "правда",
+        "источник",
+        "проверка фактов"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_informacionnaya_gigiena/concepts/kak_otlichit_fejk_ot_pravdy.md"
+    },
+    {
+      "id": "pochemu_novosti_pugayut",
+      "title": "Почему новости пугают и что с этим делать",
+      "keywords": [
+        "новости",
+        "тревога",
+        "заголовки",
+        "эмоции"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_informacionnaya_gigiena/concepts/pochemu_novosti_pugayut.md"
+    },
+    {
+      "id": "informacionnyj_puzyr",
+      "title": "Информационный пузырь: почему я вижу только одно",
+      "keywords": [
+        "информационный пузырь",
+        "алгоритмы",
+        "лента",
+        "мнение"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_informacionnaya_gigiena/concepts/informacionnyj_puzyr.md"
+    },
+    {
+      "id": "kto_takie_boty_i_trolli",
+      "title": "Кто такие боты и тролли",
+      "keywords": [
+        "бот",
+        "тролль",
+        "провокация",
+        "аккаунт"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_informacionnaya_gigiena/concepts/kto_takie_boty_i_trolli.md"
+    },
+    {
+      "id": "kogda_nuzhno_vyklyuchat_uvedomleniya",
+      "title": "Когда нужно выключать уведомления",
+      "keywords": [
+        "уведомления",
+        "внимание",
+        "настройки",
+        "режим не беспокоить"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_informacionnaya_gigiena/concepts/kogda_nuzhno_vyklyuchat_uvedomleniya.md"
+    }
+  ],
+  "concept_nodes": [
+    "информация",
+    "фейк",
+    "факт",
+    "источник",
+    "новость",
+    "бот",
+    "тролль",
+    "уведомления",
+    "алгоритм",
+    "пузырь"
+  ],
+  "relations": [
+    {
+      "source": "источник",
+      "target": "факт",
+      "type": "related",
+      "label": "подтверждает"
+    },
+    {
+      "source": "фейк",
+      "target": "информация",
+      "type": "related",
+      "label": "искажает"
+    },
+    {
+      "source": "алгоритм",
+      "target": "пузырь",
+      "type": "related",
+      "label": "формирует"
+    },
+    {
+      "source": "бот",
+      "target": "шум",
+      "type": "related",
+      "label": "усиливает"
+    },
+    {
+      "source": "уведомления",
+      "target": "внимание",
+      "type": "related",
+      "label": "переключают"
+    },
+    {
+      "source": "новость",
+      "target": "эмоции",
+      "type": "related",
+      "label": "вызывает"
+    }
+  ]
+}

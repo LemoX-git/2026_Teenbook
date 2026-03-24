@@ -1,0 +1,113 @@
+{
+  "section": "Раздел 6. Я и цифровой мир",
+  "topic": "Мои игры",
+  "slug": "moi_igry",
+  "status": "draft",
+  "articles": [
+    {
+      "id": "igry_hobbi_ili_zavisimost",
+      "title": "Игры — это зависимость или хобби",
+      "keywords": [
+        "игры",
+        "хобби",
+        "зависимость",
+        "баланс"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moi_igry/concepts/igry_hobbi_ili_zavisimost.md"
+    },
+    {
+      "id": "kibersport_kak_stat_professionalom",
+      "title": "Киберспорт: как стать профессионалом",
+      "keywords": [
+        "киберспорт",
+        "команда",
+        "тренировка",
+        "игрок"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moi_igry/concepts/kibersport_kak_stat_professionalom.md"
+    },
+    {
+      "id": "igrovye_soobshchestva",
+      "title": "Игровые сообщества: друзья на всю жизнь",
+      "keywords": [
+        "сообщество",
+        "друзья",
+        "команда",
+        "токсичность"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moi_igry/concepts/igrovye_soobshchestva.md"
+    },
+    {
+      "id": "donaty_i_mikroplatezhi",
+      "title": "Донаты и микроплатежи — стоит ли тратить",
+      "keywords": [
+        "донаты",
+        "микроплатежи",
+        "покупки",
+        "игровая экономика"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moi_igry/concepts/donaty_i_mikroplatezhi.md"
+    },
+    {
+      "id": "chem_zamenit_igry_esli_nadoelo",
+      "title": "Чем заменить игры, если надоело",
+      "keywords": [
+        "замена привычки",
+        "отдых",
+        "игры",
+        "баланс"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moi_igry/concepts/chem_zamenit_igry_esli_nadoelo.md"
+    }
+  ],
+  "concept_nodes": [
+    "видеоигра",
+    "хобби",
+    "зависимость",
+    "киберспорт",
+    "команда",
+    "сообщество",
+    "донат",
+    "микроплатеж",
+    "бюджет",
+    "баланс"
+  ],
+  "relations": [
+    {
+      "source": "видеоигра",
+      "target": "хобби",
+      "type": "related",
+      "label": "может быть"
+    },
+    {
+      "source": "видеоигра",
+      "target": "зависимость",
+      "type": "related",
+      "label": "иногда превращается в"
+    },
+    {
+      "source": "киберспорт",
+      "target": "команда",
+      "type": "related",
+      "label": "требует"
+    },
+    {
+      "source": "сообщество",
+      "target": "игрок",
+      "type": "related",
+      "label": "объединяет"
+    },
+    {
+      "source": "донат",
+      "target": "бюджет",
+      "type": "related",
+      "label": "расходует"
+    },
+    {
+      "source": "баланс",
+      "target": "хобби",
+      "type": "related",
+      "label": "поддерживает"
+    }
+  ]
+}

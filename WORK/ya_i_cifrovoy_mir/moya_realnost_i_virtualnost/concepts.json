@@ -1,0 +1,113 @@
+{
+  "section": "Раздел 6. Я и цифровой мир",
+  "topic": "Моя реальность/виртуальность",
+  "slug": "moya_realnost_i_virtualnost",
+  "status": "draft",
+  "articles": [
+    {
+      "id": "zhizn_onlayn_i_v_reale",
+      "title": "Жизнь в онлайне и в реале — где я больше",
+      "keywords": [
+        "онлайн",
+        "офлайн",
+        "баланс",
+        "образ жизни"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_realnost_i_virtualnost/concepts/zhizn_onlayn_i_v_reale.md"
+    },
+    {
+      "id": "virtualnaya_lichnost",
+      "title": "Виртуальная личность: я или не я",
+      "keywords": [
+        "личность",
+        "образ",
+        "профиль",
+        "самопрезентация"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_realnost_i_virtualnost/concepts/virtualnaya_lichnost.md"
+    },
+    {
+      "id": "znakomstva_v_seti_i_v_zhizni",
+      "title": "Знакомства в сети vs в жизни",
+      "keywords": [
+        "знакомства",
+        "общение",
+        "доверие",
+        "границы"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_realnost_i_virtualnost/concepts/znakomstva_v_seti_i_v_zhizni.md"
+    },
+    {
+      "id": "strah_propustit_chto_to_fomo",
+      "title": "Страх пропустить что-то (FOMO)",
+      "keywords": [
+        "FOMO",
+        "соцсети",
+        "тревога",
+        "сравнение"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_realnost_i_virtualnost/concepts/strah_propustit_chto_to_fomo.md"
+    },
+    {
+      "id": "kak_druzhit_oflayn_kogda_privyk_online",
+      "title": "Как дружить офлайн, когда привык онлайн",
+      "keywords": [
+        "дружба",
+        "офлайн",
+        "общение",
+        "привычка"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_realnost_i_virtualnost/concepts/kak_druzhit_oflayn_kogda_privyk_online.md"
+    }
+  ],
+  "concept_nodes": [
+    "онлайн",
+    "офлайн",
+    "личность",
+    "образ",
+    "дружба",
+    "общение",
+    "FOMO",
+    "соцсеть",
+    "интерес",
+    "баланс"
+  ],
+  "relations": [
+    {
+      "source": "онлайн",
+      "target": "офлайн",
+      "type": "related",
+      "label": "дополняет"
+    },
+    {
+      "source": "образ",
+      "target": "личность",
+      "type": "related",
+      "label": "представляет"
+    },
+    {
+      "source": "соцсеть",
+      "target": "FOMO",
+      "type": "related",
+      "label": "усиливает"
+    },
+    {
+      "source": "дружба",
+      "target": "общение",
+      "type": "related",
+      "label": "строится через"
+    },
+    {
+      "source": "баланс",
+      "target": "онлайн",
+      "type": "related",
+      "label": "ограничивает"
+    },
+    {
+      "source": "баланс",
+      "target": "офлайн",
+      "type": "related",
+      "label": "поддерживает"
+    }
+  ]
+}

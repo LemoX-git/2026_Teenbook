@@ -1,0 +1,56 @@
+{
+  "status": "draft_placeholder",
+  "topic": "Моя безопасность в сети, приватность, публикация",
+  "note": "Это честный черновой файл-рыба. Его нужно заменить на результат реального SPARQL-запроса.",
+  "expected_sources": [
+    "Wikidata",
+    "DBpedia"
+  ],
+  "query_terms": [
+    "privacy",
+    "personal data",
+    "cyberbullying",
+    "online safety",
+    "digital footprint"
+  ],
+  "sample_nodes": [
+    "приватность",
+    "личные данные",
+    "пост",
+    "цифровой след",
+    "кибербуллинг",
+    "знакомство"
+  ],
+  "sample_relations": [
+    {
+      "source": "пост",
+      "target": "цифровой след",
+      "label": "оставляет"
+    },
+    {
+      "source": "приватность",
+      "target": "личные данные",
+      "label": "защищает"
+    },
+    {
+      "source": "пароль",
+      "target": "аккаунт",
+      "label": "защищает"
+    },
+    {
+      "source": "2FA",
+      "target": "аккаунт",
+      "label": "усиливает защиту"
+    },
+    {
+      "source": "кибербуллинг",
+      "target": "безопасность",
+      "label": "нарушает"
+    },
+    {
+      "source": "границы",
+      "target": "знакомство",
+      "label": "делают безопаснее"
+    }
+  ]
+}

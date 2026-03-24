@@ -1,0 +1,56 @@
+{
+  "status": "draft_placeholder",
+  "topic": "Моя информационная гигиена",
+  "note": "Это честный черновой файл-рыба. Его нужно заменить на результат реального SPARQL-запроса.",
+  "expected_sources": [
+    "Wikidata",
+    "DBpedia"
+  ],
+  "query_terms": [
+    "fake news",
+    "social bot",
+    "recommendation system",
+    "information bubble",
+    "media literacy"
+  ],
+  "sample_nodes": [
+    "информация",
+    "фейк",
+    "факт",
+    "источник",
+    "новость",
+    "бот"
+  ],
+  "sample_relations": [
+    {
+      "source": "источник",
+      "target": "факт",
+      "label": "подтверждает"
+    },
+    {
+      "source": "фейк",
+      "target": "информация",
+      "label": "искажает"
+    },
+    {
+      "source": "алгоритм",
+      "target": "пузырь",
+      "label": "формирует"
+    },
+    {
+      "source": "бот",
+      "target": "шум",
+      "label": "усиливает"
+    },
+    {
+      "source": "уведомления",
+      "target": "внимание",
+      "label": "переключают"
+    },
+    {
+      "source": "новость",
+      "target": "эмоции",
+      "label": "вызывает"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "status": "draft_placeholder",
+  "topic": "Мои игры",
+  "note": "Это честный черновой файл-рыба. Его нужно заменить на результат реального SPARQL-запроса.",
+  "expected_sources": [
+    "Wikidata",
+    "DBpedia"
+  ],
+  "query_terms": [
+    "video game",
+    "esports",
+    "online community",
+    "microtransaction",
+    "gaming"
+  ],
+  "sample_nodes": [
+    "видеоигра",
+    "хобби",
+    "зависимость",
+    "киберспорт",
+    "команда",
+    "сообщество"
+  ],
+  "sample_relations": [
+    {
+      "source": "видеоигра",
+      "target": "хобби",
+      "label": "может быть"
+    },
+    {
+      "source": "видеоигра",
+      "target": "зависимость",
+      "label": "иногда превращается в"
+    },
+    {
+      "source": "киберспорт",
+      "target": "команда",
+      "label": "требует"
+    },
+    {
+      "source": "сообщество",
+      "target": "игрок",
+      "label": "объединяет"
+    },
+    {
+      "source": "донат",
+      "target": "бюджет",
+      "label": "расходует"
+    },
+    {
+      "source": "баланс",
+      "target": "хобби",
+      "label": "поддерживает"
+    }
+  ]
+}

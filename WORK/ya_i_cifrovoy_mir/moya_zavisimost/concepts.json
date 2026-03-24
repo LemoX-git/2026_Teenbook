@@ -1,0 +1,113 @@
+{
+  "section": "Раздел 6. Я и цифровой мир",
+  "topic": "Моя зависимость",
+  "slug": "moya_zavisimost",
+  "status": "draft",
+  "articles": [
+    {
+      "id": "ekrannoe_vremya",
+      "title": "Экранное время: сколько я реально в телефоне",
+      "keywords": [
+        "экранное время",
+        "привычка",
+        "внимание",
+        "телефон"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_zavisimost/concepts/ekrannoe_vremya.md"
+    },
+    {
+      "id": "skrolling_i_dofamin",
+      "title": "Скроллинг без цели: почему это ловушка",
+      "keywords": [
+        "скроллинг",
+        "дофамин",
+        "лента",
+        "внимание"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_zavisimost/concepts/skrolling_i_dofamin.md"
+    },
+    {
+      "id": "telefon_pered_snom",
+      "title": "Телефон перед сном: что происходит с мозгом",
+      "keywords": [
+        "сон",
+        "телефон",
+        "мозг",
+        "режим дня"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_zavisimost/concepts/telefon_pered_snom.md"
+    },
+    {
+      "id": "cifrovoi_detoks",
+      "title": "Цифровой детокс — это пытка или кайф",
+      "keywords": [
+        "цифровой детокс",
+        "отдых",
+        "привычки",
+        "самоконтроль"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_zavisimost/concepts/cifrovoi_detoks.md"
+    },
+    {
+      "id": "priznaki_peregruza_ot_seti",
+      "title": "Как понять, что пора отдохнуть от сети",
+      "keywords": [
+        "перегрузка",
+        "усталость",
+        "внимание",
+        "отдых"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_zavisimost/concepts/priznaki_peregruza_ot_seti.md"
+    }
+  ],
+  "concept_nodes": [
+    "экранное время",
+    "скроллинг",
+    "уведомления",
+    "сон",
+    "внимание",
+    "привычка",
+    "цифровой детокс",
+    "телефон",
+    "день",
+    "отдых"
+  ],
+  "relations": [
+    {
+      "source": "скроллинг",
+      "target": "экранное время",
+      "type": "related",
+      "label": "увеличивает"
+    },
+    {
+      "source": "уведомления",
+      "target": "внимание",
+      "type": "related",
+      "label": "отвлекают"
+    },
+    {
+      "source": "экранное время",
+      "target": "сон",
+      "type": "related",
+      "label": "влияет на"
+    },
+    {
+      "source": "цифровой детокс",
+      "target": "экранное время",
+      "type": "related",
+      "label": "снижает"
+    },
+    {
+      "source": "привычка",
+      "target": "день",
+      "type": "related",
+      "label": "формирует"
+    },
+    {
+      "source": "отдых",
+      "target": "внимание",
+      "type": "related",
+      "label": "восстанавливает"
+    }
+  ]
+}

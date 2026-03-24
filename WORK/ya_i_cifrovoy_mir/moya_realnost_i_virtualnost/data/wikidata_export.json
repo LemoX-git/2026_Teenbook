@@ -1,0 +1,56 @@
+{
+  "status": "draft_placeholder",
+  "topic": "Моя реальность/виртуальность",
+  "note": "Это честный черновой файл-рыба. Его нужно заменить на результат реального SPARQL-запроса.",
+  "expected_sources": [
+    "Wikidata",
+    "DBpedia"
+  ],
+  "query_terms": [
+    "online identity",
+    "social network",
+    "friendship",
+    "fear of missing out",
+    "virtual community"
+  ],
+  "sample_nodes": [
+    "онлайн",
+    "офлайн",
+    "личность",
+    "образ",
+    "дружба",
+    "общение"
+  ],
+  "sample_relations": [
+    {
+      "source": "онлайн",
+      "target": "офлайн",
+      "label": "дополняет"
+    },
+    {
+      "source": "образ",
+      "target": "личность",
+      "label": "представляет"
+    },
+    {
+      "source": "соцсеть",
+      "target": "FOMO",
+      "label": "усиливает"
+    },
+    {
+      "source": "дружба",
+      "target": "общение",
+      "label": "строится через"
+    },
+    {
+      "source": "баланс",
+      "target": "онлайн",
+      "label": "ограничивает"
+    },
+    {
+      "source": "баланс",
+      "target": "офлайн",
+      "label": "поддерживает"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "section": "Раздел 6. Я и цифровой мир",
+  "topic": "Моя техника",
+  "slug": "moya_tehnika",
+  "status": "draft",
+  "articles": [
+    {
+      "id": "kak_prodlit_zhizn_telefonu_i_noutbuku",
+      "title": "Как продлить жизнь телефону/ноутбуку",
+      "keywords": [
+        "уход",
+        "смартфон",
+        "ноутбук",
+        "срок службы"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_tehnika/concepts/kak_prodlit_zhizn_telefonu_i_noutbuku.md"
+    },
+    {
+      "id": "chto_delat_esli_slomalos",
+      "title": "Что делать, если сломалось",
+      "keywords": [
+        "поломка",
+        "диагностика",
+        "ремонт",
+        "данные"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_tehnika/concepts/chto_delat_esli_slomalos.md"
+    },
+    {
+      "id": "kak_sobrat_igrovoy_komp",
+      "title": "Как собрать игровой комп",
+      "keywords": [
+        "компьютер",
+        "сборка",
+        "комплектующие",
+        "бюджет"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_tehnika/concepts/kak_sobrat_igrovoy_komp.md"
+    },
+    {
+      "id": "kakaya_tekhnika_nuzhna_v_tvoey_oblasti_interesov",
+      "title": "Какая техника нужна в твоей области интересов",
+      "keywords": [
+        "выбор техники",
+        "задачи",
+        "характеристики",
+        "интересы"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_tehnika/concepts/kakaya_tekhnika_nuzhna_v_tvoey_oblasti_interesov.md"
+    },
+    {
+      "id": "poleznye_prilozheniya_ne_tolko_igry",
+      "title": "Полезные приложения (не только игры)",
+      "keywords": [
+        "приложения",
+        "полезные инструменты",
+        "разрешения",
+        "организация"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_tehnika/concepts/poleznye_prilozheniya_ne_tolko_igry.md"
+    },
+    {
+      "id": "remont_svoimi_rukami",
+      "title": "Ремонт своими руками — это реально",
+      "keywords": [
+        "ремонт",
+        "обслуживание",
+        "данные",
+        "безопасность"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_tehnika/concepts/remont_svoimi_rukami.md"
+    },
+    {
+      "id": "apgreyd_kogda_pora_menyat",
+      "title": "Апгрейд: когда пора менять",
+      "keywords": [
+        "апгрейд",
+        "замена",
+        "ремонт",
+        "выбор"
+      ],
+      "web_path": "WEB/ya_i_cifrovoy_mir/moya_tehnika/concepts/apgreyd_kogda_pora_menyat.md"
+    }
+  ],
+  "concept_nodes": [
+    "устройство",
+    "смартфон",
+    "ноутбук",
+    "компьютер",
+    "приложение",
+    "ремонт",
+    "апгрейд",
+    "аккумулятор",
+    "память",
+    "задачи"
+  ],
+  "relations": [
+    {
+      "source": "смартфон",
+      "target": "устройство",
+      "type": "related",
+      "label": "является видом"
+    },
+    {
+      "source": "ноутбук",
+      "target": "устройство",
+      "type": "related",
+      "label": "является видом"
+    },
+    {
+      "source": "компьютер",
+      "target": "устройство",
+      "type": "related",
+      "label": "является видом"
+    },
+    {
+      "source": "приложение",
+      "target": "задачи",
+      "type": "related",
+      "label": "помогает решать"
+    },
+    {
+      "source": "ремонт",
+      "target": "устройство",
+      "type": "related",
+      "label": "восстанавливает"
+    },
+    {
+      "source": "апгрейд",
+      "target": "устройство",
+      "type": "related",
+      "label": "улучшает"
+    }
+  ]
+}
