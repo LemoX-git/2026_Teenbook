@@ -2414,16 +2414,15 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q114489344"
+          "value": "http://www.wikidata.org/entity/Q110039788"
         },
         "relation": {
           "type": "literal",
           "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
           "type": "literal",
-          "value": "Saudi government allegedly funded a ‘dry run’ for 9/11"
+          "value": "Q110039788"
         }
       },
       {
@@ -2438,7 +2437,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q114497315"
+          "value": "http://www.wikidata.org/entity/Q102352094"
         },
         "relation": {
           "type": "literal",
@@ -2447,7 +2446,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Balancing Terror and Reality in State of the Union Address"
+          "value": "Dutch Government: Only politics stands in the way of joining the TPNW"
         }
       },
       {
@@ -2462,7 +2461,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121069693"
+          "value": "http://www.wikidata.org/entity/Q105583420"
         },
         "relation": {
           "type": "literal",
@@ -2471,7 +2470,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "The Pentagon Has Never Passed An Audit. Some Senators Want To Change That"
+          "value": "The economic case for regulating social media"
         }
       },
       {
@@ -2486,7 +2485,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121072020"
+          "value": "http://www.wikidata.org/entity/Q102407368"
         },
         "relation": {
           "type": "literal",
@@ -2495,7 +2494,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Medvedev says Russia could use nuclear weapon if Ukraine's fightback succeeds in latest threat"
+          "value": "Who are Julia and Agathe Cagé, mobilized for Benoît Hamon until the end?"
         }
       },
       {
@@ -2510,7 +2509,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q117785765"
+          "value": "http://www.wikidata.org/entity/Q102423457"
         },
         "relation": {
           "type": "literal",
@@ -2519,7 +2518,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Russian court fines Wikipedia for article about Ukraine war"
+          "value": "Piketty, Hanotin, Cagé: Benoît Hamon unveils his campaign team"
         }
       },
       {
@@ -2534,7 +2533,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q117794261"
+          "value": "http://www.wikidata.org/entity/Q102426464"
         },
         "relation": {
           "type": "literal",
@@ -2543,7 +2542,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Pickon"
+          "value": "Julia Cagé, economist, \"Information is a public good\""
         }
       },
       {
@@ -2558,7 +2557,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q114728637"
+          "value": "http://www.wikidata.org/entity/Q102433110"
         },
         "relation": {
           "type": "literal",
@@ -2567,7 +2566,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Elections Approaching, Erdogan Raises the Heat Again With Greece"
+          "value": "Julia Cagé has won the Prix Pétrarque de l’Essai France Culture"
         }
       },
       {
@@ -2582,7 +2581,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121303715"
+          "value": "http://www.wikidata.org/entity/Q105713470"
         },
         "relation": {
           "type": "literal",
@@ -2591,7 +2590,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Nelson Mandela, A True Believer in Sanctions"
+          "value": "Everyone's favorite news site"
         }
       },
       {
@@ -2606,7 +2605,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q114756397"
+          "value": "http://www.wikidata.org/entity/Q102642608"
         },
         "relation": {
           "type": "literal",
@@ -2615,7 +2614,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Ukraine war: Russia buying rockets and artillery shells from North Korea, US intelligence says"
+          "value": "Julia Cagé as President of the Society of Readers of Le Monde"
         }
       },
       {
@@ -2630,7 +2629,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q114756876"
+          "value": "http://www.wikidata.org/entity/Q102653771"
         },
         "relation": {
           "type": "literal",
@@ -2639,7 +2638,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "War of 1812: Canadian identity developed in the crucible of combat"
+          "value": "Press release: Julia Cagé becomes president of the Society of readers of \"Le Monde\""
         }
       },
       {
@@ -2654,7 +2653,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q111664968"
+          "value": "http://www.wikidata.org/entity/Q102700755"
         },
         "relation": {
           "type": "literal",
@@ -2663,7 +2662,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Clash between Palestinians and Israeli forces leaves at least 155 injured"
+          "value": "Un Bout du Monde: For citizen ownership of the media!"
         }
       },
       {
@@ -2678,7 +2677,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q114771349"
+          "value": "http://www.wikidata.org/entity/Q102841103"
         },
         "relation": {
           "type": "literal",
@@ -2687,7 +2686,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Daniel Hale, who leaked information on U.S. drone warfare, sentenced to 45 months in prison"
+          "value": "We, economists, support Hollande"
         }
       },
       {
@@ -2702,7 +2701,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q111669807"
+          "value": "http://www.wikidata.org/entity/Q102847660"
         },
         "relation": {
           "type": "literal",
@@ -2711,7 +2710,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Trump walks out of Piers Morgan interview after being pressed on 2020 election"
+          "value": "For a primary for the left"
         }
       },
       {
@@ -2726,15 +2725,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q114899212"
+          "value": "http://www.wikidata.org/entity/Q102865192"
         },
         "relation": {
           "type": "literal",
           "value": "instance of"
         },
         "relatedLabel": {
+          "xml:lang": "en",
           "type": "literal",
-          "value": "Q114899212"
+          "value": "Piketty, Méda, Landais ... Economists \"for a credible and daring universal income\""
         }
       },
       {
@@ -2749,7 +2749,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121438032"
+          "value": "http://www.wikidata.org/entity/Q102872987"
         },
         "relation": {
           "type": "literal",
@@ -2758,7 +2758,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Breaking News: New Life for Local Newspapers"
+          "value": "Who makes up Benoît Hamon's campaign team?"
         }
       },
       {
@@ -2773,7 +2773,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121438095"
+          "value": "http://www.wikidata.org/entity/Q110953062"
         },
         "relation": {
           "type": "literal",
@@ -2782,7 +2782,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "When this hedge fund buys local newspapers, democracy suffers"
+          "value": "LASU Radio (95.7)"
         }
       },
       {
@@ -2797,7 +2797,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121438279"
+          "value": "http://www.wikidata.org/entity/Q102887928"
         },
         "relation": {
           "type": "literal",
@@ -2806,7 +2806,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "The vulture is hungry again: Alden Global Capital wants to buy a few hundred more newspapers"
+          "value": "Julia Cagé, the midwife of the universal income"
         }
       },
       {
@@ -2821,15 +2821,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q114901306"
+          "value": "http://www.wikidata.org/entity/Q102896770"
         },
         "relation": {
           "type": "literal",
           "value": "instance of"
         },
         "relatedLabel": {
+          "xml:lang": "en",
           "type": "literal",
-          "value": "Q114901306"
+          "value": "Piketty for a universal income ... not universal"
         }
       },
       {
@@ -2844,7 +2845,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121472616"
+          "value": "http://www.wikidata.org/entity/Q102943696"
         },
         "relation": {
           "type": "literal",
@@ -2853,7 +2854,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Influence of local media: Trust exploited"
+          "value": "Julia Cagé: \"The democratic game has been captured by private interests\""
         }
       },
       {
@@ -2868,16 +2869,15 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q114922501"
+          "value": "http://www.wikidata.org/entity/Q106659147"
         },
         "relation": {
           "type": "literal",
           "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
           "type": "literal",
-          "value": "UA student outraged at America West"
+          "value": "Q106659147"
         }
       },
       {
@@ -2892,7 +2892,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q114923316"
+          "value": "http://www.wikidata.org/entity/Q106044626"
         },
         "relation": {
           "type": "literal",
@@ -2901,7 +2901,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "U.S. rejects Taliban offer to try bin Laden"
+          "value": "Building Saddam Hussein's bomb"
         }
       },
       {
@@ -2916,7 +2916,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q114923599"
+          "value": "http://www.wikidata.org/entity/Q106145515"
         },
         "relation": {
           "type": "literal",
@@ -2925,7 +2925,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "How Bush Was Offered Bin Laden and Blew It"
+          "value": "Our Last, Best Chance to Reinvent Local News"
         }
       },
       {
@@ -2940,7 +2940,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q114964623"
+          "value": "http://www.wikidata.org/entity/Q106145869"
         },
         "relation": {
           "type": "literal",
@@ -2949,7 +2949,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "South Korean ferry captain says he warned of boat's stability problems"
+          "value": "N.J. just made a huge deal to sell 2 public television stations"
         }
       },
       {
@@ -2964,7 +2964,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q115012617"
+          "value": "http://www.wikidata.org/entity/Q106146745"
         },
         "relation": {
           "type": "literal",
@@ -2973,7 +2973,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Michael Scheuer's Meltdown"
+          "value": "New Jersey Funds the Civic Info Consortium, Recognizes the Vital Role Local News Plays During Crises"
         }
       },
       {
@@ -2988,7 +2988,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q111799680"
+          "value": "http://www.wikidata.org/entity/Q108679526"
         },
         "relation": {
           "type": "literal",
@@ -2997,7 +2997,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Nothing Stops A Bullet Like A Job"
+          "value": "The European Union Moves to Fight Terrorist Content Online"
         }
       },
       {
@@ -3012,7 +3012,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q111845607"
+          "value": "http://www.wikidata.org/entity/Q109944317"
         },
         "relation": {
           "type": "literal",
@@ -3021,7 +3021,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Joint statement by Reagan, Gorbachev"
+          "value": "To end poverty, invest in children"
         }
       },
       {
@@ -3036,7 +3036,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q111848645"
+          "value": "http://www.wikidata.org/entity/Q108806124"
         },
         "relation": {
           "type": "literal",
@@ -3045,7 +3045,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Conservative broadcaster draws line on militia talk"
+          "value": "Wasteful battle for the holy soil of Arabia"
         }
       },
       {
@@ -3060,15 +3060,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q119685158"
+          "value": "http://www.wikidata.org/entity/Q109952591"
         },
         "relation": {
           "type": "literal",
           "value": "instance of"
         },
         "relatedLabel": {
+          "xml:lang": "en",
           "type": "literal",
-          "value": "Q119685158"
+          "value": "HIV patient had COVID for over 7 months, infection mutated over 30 times"
         }
       },
       {
@@ -3083,7 +3084,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q115119570"
+          "value": "http://www.wikidata.org/entity/Q106337240"
         },
         "relation": {
           "type": "literal",
@@ -3092,7 +3093,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Golden Rule Project: Sailing for Peace in a Time of War"
+          "value": "Justin Trudeau’s claim that Castro made ‘significant improvements’ to Cuban health care and education"
         }
       },
       {
@@ -3107,7 +3108,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q111905675"
+          "value": "http://www.wikidata.org/entity/Q108895834"
         },
         "relation": {
           "type": "literal",
@@ -3116,7 +3117,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "After A Nuclear 9/11"
+          "value": "How Vietnam Killed the Great Society"
         }
       },
       {
@@ -3131,7 +3132,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121942486"
+          "value": "http://www.wikidata.org/entity/Q106354534"
         },
         "relation": {
           "type": "literal",
@@ -3140,7 +3141,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "US Wants To Bring World Closer To Nuclear War By Supplying F-16s To Ukraine: North Korea"
+          "value": "Unlocking the Covid Code"
         }
       },
       {
@@ -3155,7 +3156,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q112107939"
+          "value": "http://www.wikidata.org/entity/Q106358112"
         },
         "relation": {
           "type": "literal",
@@ -3164,7 +3165,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Reasons to support the energy innovation and carbon dividend act"
+          "value": "The Best Global Responses to the COVID-19 Pandemic, 1 Year Later"
         }
       },
       {
@@ -3179,7 +3180,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q115416616"
+          "value": "http://www.wikidata.org/entity/Q108935980"
         },
         "relation": {
           "type": "literal",
@@ -3188,7 +3189,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Olathe East HS shooting suspect arrested"
+          "value": "Paywalls work: Shawnee Mission Post"
         }
       },
       {
@@ -3203,7 +3204,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q115417291"
+          "value": "http://www.wikidata.org/entity/Q106452232"
         },
         "relation": {
           "type": "literal",
@@ -3212,7 +3213,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "School Cop, Not Black Student, Shot Principal During Olathe East Shooting"
+          "value": "Landmark New Jersey Civic Info Consortium Invites Inaugural Grant Applications to Combat State's Local-News Crisis"
         }
       },
       {
@@ -3227,7 +3228,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q112164799"
+          "value": "http://www.wikidata.org/entity/Q106463661"
         },
         "relation": {
           "type": "literal",
@@ -3236,7 +3237,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "FBI has investigated Kansas City, Kansas, Police for decades, but prosecution of bad cops is rare"
+          "value": "'Organizing for Neighborhood News' Launches in Philadelphia"
         }
       },
       {
@@ -3251,7 +3252,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q112256570"
+          "value": "http://www.wikidata.org/entity/Q106463635"
         },
         "relation": {
           "type": "literal",
@@ -3260,7 +3261,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Community Media Wins 2020 Hometown Media Award from the Alliance for Community Media Foundation"
+          "value": "News Voices: North Carolina"
         }
       },
       {
@@ -3275,7 +3276,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q112264957"
+          "value": "http://www.wikidata.org/entity/Q106471187"
         },
         "relation": {
           "type": "literal",
@@ -3284,7 +3285,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "JAG Joins the Alliance for Community Media"
+          "value": "They overcame mutual loathing, and saved a town"
         }
       },
       {
@@ -3299,7 +3300,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q115613392"
+          "value": "http://www.wikidata.org/entity/Q106485407"
         },
         "relation": {
           "type": "literal",
@@ -3308,7 +3309,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Our Target Was Terror"
+          "value": "Stop Techsploitation"
         }
       },
       {
@@ -3323,7 +3324,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122231475"
+          "value": "http://www.wikidata.org/entity/Q106489592"
         },
         "relation": {
           "type": "literal",
@@ -3332,7 +3333,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Echo Chambers Amplified: How CNN and Fox News Fuel America’s Polarization"
+          "value": "Seattle's Experiment With Campaign Funding"
         }
       },
       {
@@ -3347,7 +3348,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122260182"
+          "value": "http://www.wikidata.org/entity/Q103811302"
         },
         "relation": {
           "type": "literal",
@@ -3356,7 +3357,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "House subcommittee recommends zeroing out CPB funding for FY26"
+          "value": "Innovate for a quality press"
         }
       },
       {
@@ -3371,7 +3372,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122260508"
+          "value": "http://www.wikidata.org/entity/Q103812387"
         },
         "relation": {
           "type": "literal",
@@ -3380,7 +3381,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "APTS, CPB Commend Senate Funding Recommendations for Public Broadcasting"
+          "value": "Julia Cagé: \"Information must be considered a public good\""
         }
       },
       {
@@ -3395,7 +3396,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122260308"
+          "value": "http://www.wikidata.org/entity/Q103812955"
         },
         "relation": {
           "type": "literal",
@@ -3404,7 +3405,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Proposed House Appropriations bill eliminates federal funding for public media"
+          "value": "Is there an economic model to save the media?"
         }
       },
       {
@@ -3419,7 +3420,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q112406039"
+          "value": "http://www.wikidata.org/entity/Q103813356"
         },
         "relation": {
           "type": "literal",
@@ -3428,7 +3429,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Webstory"
+          "value": "Julia Cagé: \"We must save the media and fight for this public good\""
         }
       },
       {
@@ -3443,7 +3444,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q115826712"
+          "value": "http://www.wikidata.org/entity/Q103813693"
         },
         "relation": {
           "type": "literal",
@@ -3452,7 +3453,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Nursing shortage in Canada"
+          "value": "Julia Cagé: \"Reintroducing quality time” in the press\""
         }
       },
       {
@@ -3467,7 +3468,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q118959343"
+          "value": "http://www.wikidata.org/entity/Q103813756"
         },
         "relation": {
           "type": "literal",
@@ -3476,7 +3477,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "A judge dismissed Thursday the criminal prosecution of a..."
+          "value": "Information is a public good"
         }
       },
       {
@@ -3491,7 +3492,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q118959241"
+          "value": "http://www.wikidata.org/entity/Q103814209"
         },
         "relation": {
           "type": "literal",
@@ -3500,7 +3501,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Woman Is Acquitted in Test of Obligation to an Unborn Child"
+          "value": "Should we reinvent the media? Interview with Julia Cagé and Eric Fottorino"
         }
       },
       {
@@ -3515,7 +3516,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q118959444"
+          "value": "http://www.wikidata.org/entity/Q103817580"
         },
         "relation": {
           "type": "literal",
@@ -3524,7 +3525,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Prosecuting pregnancy loss: Why advocates fear a post-Roe surge of charges"
+          "value": "The media are becoming dancers for billionaires in need of influence"
         }
       },
       {
@@ -3539,7 +3540,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q118959434"
+          "value": "http://www.wikidata.org/entity/Q103824984"
         },
         "relation": {
           "type": "literal",
@@ -3548,7 +3549,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "US women are being jailed for having miscarriages"
+          "value": "The 2016 Assises prize winners"
         }
       },
       {
@@ -3563,7 +3564,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q115869740"
+          "value": "http://www.wikidata.org/entity/Q103826342"
         },
         "relation": {
           "type": "literal",
@@ -3572,7 +3573,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "County files Yucca lawsuit"
+          "value": "Who makes the information?"
         }
       },
       {
@@ -3587,7 +3588,7 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122588283"
+          "value": "http://www.wikidata.org/entity/Q103831119"
         },
         "relation": {
           "type": "literal",
@@ -3596,7 +3597,7 @@
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Blue Valley Northwest Student Fatally Shot By Overland Park Police"
+          "value": "Nigerian school stakes claim to have set up Africa's first printing press"
         }
       }
     ]

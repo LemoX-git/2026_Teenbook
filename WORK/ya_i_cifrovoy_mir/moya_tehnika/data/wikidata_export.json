@@ -1,7 +1,7 @@
 {
   "topic": "Моя техника",
   "topic_slug": "moya_tehnika",
-  "generated_at": "2026-03-27T15:12:23.219893+00:00",
+  "generated_at": "2026-03-27T16:13:19.406154+00:00",
   "endpoint": "https://query.wikidata.org/sparql",
   "seed_labels": [
     "smartphone",
@@ -23,8 +23,8 @@
       "normalized_file": "wikidata\\find_by_label.normalized.json",
       "skipped_reason": null,
       "error": null,
-      "started_at": "2026-03-27T15:11:59.768219+00:00",
-      "finished_at": "2026-03-27T15:12:00.256803+00:00"
+      "started_at": "2026-03-27T16:12:47.019940+00:00",
+      "finished_at": "2026-03-27T16:12:47.604395+00:00"
     },
     {
       "topic_slug": "moya_tehnika",
@@ -37,8 +37,8 @@
       "normalized_file": "wikidata\\expand_class_tree.normalized.json",
       "skipped_reason": null,
       "error": null,
-      "started_at": "2026-03-27T15:12:01.257300+00:00",
-      "finished_at": "2026-03-27T15:12:02.952084+00:00"
+      "started_at": "2026-03-27T16:12:48.605045+00:00",
+      "finished_at": "2026-03-27T16:12:50.674808+00:00"
     },
     {
       "topic_slug": "moya_tehnika",
@@ -51,8 +51,8 @@
       "normalized_file": "wikidata\\local_graph.normalized.json",
       "skipped_reason": null,
       "error": null,
-      "started_at": "2026-03-27T15:12:03.952576+00:00",
-      "finished_at": "2026-03-27T15:12:07.265054+00:00"
+      "started_at": "2026-03-27T16:12:51.675163+00:00",
+      "finished_at": "2026-03-27T16:12:54.964915+00:00"
     },
     {
       "topic_slug": "moya_tehnika",
@@ -65,8 +65,8 @@
       "normalized_file": "wikidata\\reverse_graph.normalized.json",
       "skipped_reason": null,
       "error": null,
-      "started_at": "2026-03-27T15:12:08.265503+00:00",
-      "finished_at": "2026-03-27T15:12:22.219487+00:00"
+      "started_at": "2026-03-27T16:12:55.965669+00:00",
+      "finished_at": "2026-03-27T16:13:18.405885+00:00"
     }
   ],
   "totals": {
@@ -75,6 +75,5 @@
     "empty": 0,
     "skipped": 0,
     "error": 0
-  },
-  "note": "Файл создан автоматически скриптом run_all_wikidata.py."
+  }
 }

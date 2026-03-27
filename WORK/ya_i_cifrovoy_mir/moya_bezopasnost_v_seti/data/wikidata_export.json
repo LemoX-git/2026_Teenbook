@@ -1,7 +1,7 @@
 {
   "topic": "Моя безопасность в сети, приватность, публикация",
   "topic_slug": "moya_bezopasnost_v_seti",
-  "generated_at": "2026-03-27T15:11:47.525913+00:00",
+  "generated_at": "2026-03-27T16:12:35.668743+00:00",
   "endpoint": "https://query.wikidata.org/sparql",
   "seed_labels": [
     "privacy",
@@ -23,8 +23,8 @@
       "normalized_file": "wikidata\\find_by_label.normalized.json",
       "skipped_reason": null,
       "error": null,
-      "started_at": "2026-03-27T15:11:38.797328+00:00",
-      "finished_at": "2026-03-27T15:11:39.214400+00:00"
+      "started_at": "2026-03-27T16:12:26.613731+00:00",
+      "finished_at": "2026-03-27T16:12:27.089732+00:00"
     },
     {
       "topic_slug": "moya_bezopasnost_v_seti",
@@ -37,8 +37,8 @@
       "normalized_file": "wikidata\\expand_class_tree.normalized.json",
       "skipped_reason": null,
       "error": null,
-      "started_at": "2026-03-27T15:11:40.215048+00:00",
-      "finished_at": "2026-03-27T15:11:41.063522+00:00"
+      "started_at": "2026-03-27T16:12:28.090508+00:00",
+      "finished_at": "2026-03-27T16:12:28.685404+00:00"
     },
     {
       "topic_slug": "moya_bezopasnost_v_seti",
@@ -51,8 +51,8 @@
       "normalized_file": "wikidata\\local_graph.normalized.json",
       "skipped_reason": null,
       "error": null,
-      "started_at": "2026-03-27T15:11:42.064135+00:00",
-      "finished_at": "2026-03-27T15:11:43.631220+00:00"
+      "started_at": "2026-03-27T16:12:29.685985+00:00",
+      "finished_at": "2026-03-27T16:12:30.665710+00:00"
     },
     {
       "topic_slug": "moya_bezopasnost_v_seti",
@@ -65,8 +65,8 @@
       "normalized_file": "wikidata\\reverse_graph.normalized.json",
       "skipped_reason": null,
       "error": null,
-      "started_at": "2026-03-27T15:11:44.631790+00:00",
-      "finished_at": "2026-03-27T15:11:46.525511+00:00"
+      "started_at": "2026-03-27T16:12:31.666329+00:00",
+      "finished_at": "2026-03-27T16:12:34.668520+00:00"
     }
   ],
   "totals": {
@@ -75,6 +75,5 @@
     "empty": 0,
     "skipped": 0,
     "error": 0
-  },
-  "note": "Файл создан автоматически скриптом run_all_wikidata.py."
+  }
 }

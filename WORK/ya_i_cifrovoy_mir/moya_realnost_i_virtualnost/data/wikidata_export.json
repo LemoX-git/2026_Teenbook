@@ -1,7 +1,7 @@
 {
   "topic": "Моя реальность/виртуальность",
   "topic_slug": "moya_realnost_i_virtualnost",
-  "generated_at": "2026-03-27T15:11:59.767326+00:00",
+  "generated_at": "2026-03-27T16:12:47.019154+00:00",
   "endpoint": "https://query.wikidata.org/sparql",
   "seed_labels": [
     "virtual community",
@@ -22,8 +22,8 @@
       "normalized_file": "wikidata\\find_by_label.normalized.json",
       "skipped_reason": null,
       "error": null,
-      "started_at": "2026-03-27T15:11:47.526798+00:00",
-      "finished_at": "2026-03-27T15:11:48.159088+00:00"
+      "started_at": "2026-03-27T16:12:35.669947+00:00",
+      "finished_at": "2026-03-27T16:12:36.043635+00:00"
     },
     {
       "topic_slug": "moya_realnost_i_virtualnost",
@@ -36,8 +36,8 @@
       "normalized_file": "wikidata\\expand_class_tree.normalized.json",
       "skipped_reason": null,
       "error": null,
-      "started_at": "2026-03-27T15:11:49.159860+00:00",
-      "finished_at": "2026-03-27T15:11:52.012025+00:00"
+      "started_at": "2026-03-27T16:12:37.044291+00:00",
+      "finished_at": "2026-03-27T16:12:37.936298+00:00"
     },
     {
       "topic_slug": "moya_realnost_i_virtualnost",
@@ -50,8 +50,8 @@
       "normalized_file": "wikidata\\local_graph.normalized.json",
       "skipped_reason": null,
       "error": null,
-      "started_at": "2026-03-27T15:11:53.012698+00:00",
-      "finished_at": "2026-03-27T15:11:54.145620+00:00"
+      "started_at": "2026-03-27T16:12:38.936844+00:00",
+      "finished_at": "2026-03-27T16:12:40.210108+00:00"
     },
     {
       "topic_slug": "moya_realnost_i_virtualnost",
@@ -64,8 +64,8 @@
       "normalized_file": "wikidata\\reverse_graph.normalized.json",
       "skipped_reason": null,
       "error": null,
-      "started_at": "2026-03-27T15:11:55.146478+00:00",
-      "finished_at": "2026-03-27T15:11:58.767149+00:00"
+      "started_at": "2026-03-27T16:12:41.210776+00:00",
+      "finished_at": "2026-03-27T16:12:46.018606+00:00"
     }
   ],
   "totals": {
@@ -74,6 +74,5 @@
     "empty": 0,
     "skipped": 0,
     "error": 0
-  },
-  "note": "Файл создан автоматически скриптом run_all_wikidata.py."
+  }
 }

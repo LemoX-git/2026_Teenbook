@@ -1,7 +1,7 @@
 {
   "topic": "Мои игры",
   "topic_slug": "moi_igry",
-  "generated_at": "2026-03-27T15:11:09.256875+00:00",
+  "generated_at": "2026-03-27T16:12:14.482473+00:00",
   "endpoint": "https://query.wikidata.org/sparql",
   "seed_labels": [
     "video game",
@@ -22,8 +22,8 @@
       "normalized_file": "wikidata\\find_by_label.normalized.json",
       "skipped_reason": null,
       "error": null,
-      "started_at": "2026-03-27T15:10:07.258392+00:00",
-      "finished_at": "2026-03-27T15:10:09.739508+00:00"
+      "started_at": "2026-03-27T16:11:15.441003+00:00",
+      "finished_at": "2026-03-27T16:11:15.722796+00:00"
     },
     {
       "topic_slug": "moi_igry",
@@ -36,8 +36,8 @@
       "normalized_file": "wikidata\\expand_class_tree.normalized.json",
       "skipped_reason": null,
       "error": null,
-      "started_at": "2026-03-27T15:10:10.740100+00:00",
-      "finished_at": "2026-03-27T15:10:14.704074+00:00"
+      "started_at": "2026-03-27T16:11:16.723370+00:00",
+      "finished_at": "2026-03-27T16:11:22.328804+00:00"
     },
     {
       "topic_slug": "moi_igry",
@@ -50,8 +50,8 @@
       "normalized_file": "wikidata\\local_graph.normalized.json",
       "skipped_reason": null,
       "error": null,
-      "started_at": "2026-03-27T15:10:15.704686+00:00",
-      "finished_at": "2026-03-27T15:10:18.048391+00:00"
+      "started_at": "2026-03-27T16:11:23.329592+00:00",
+      "finished_at": "2026-03-27T16:11:24.697355+00:00"
     },
     {
       "topic_slug": "moi_igry",
@@ -64,8 +64,8 @@
       "normalized_file": "wikidata\\reverse_graph.normalized.json",
       "skipped_reason": null,
       "error": null,
-      "started_at": "2026-03-27T15:10:19.048961+00:00",
-      "finished_at": "2026-03-27T15:11:08.256578+00:00"
+      "started_at": "2026-03-27T16:11:25.698058+00:00",
+      "finished_at": "2026-03-27T16:12:13.482239+00:00"
     }
   ],
   "totals": {
@@ -74,6 +74,5 @@
     "empty": 0,
     "skipped": 0,
     "error": 0
-  },
-  "note": "Файл создан автоматически скриптом run_all_wikidata.py."
+  }
 }

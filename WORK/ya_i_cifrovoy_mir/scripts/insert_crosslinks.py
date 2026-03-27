@@ -47,7 +47,7 @@ def process_file(md_path: Path, mapping: dict[str, Path]) -> None:
             if target_path.resolve() == md_path.resolve():
                 continue
 
-            rel_link = target_path.relative_to(md_path.parent).as_posix()
+            rel_link = __import__("os").path.relpath(target_path, start=md_path.parent).replace("\\", "/")
             if f"]({rel_link})" in new_line:
                 continue
 

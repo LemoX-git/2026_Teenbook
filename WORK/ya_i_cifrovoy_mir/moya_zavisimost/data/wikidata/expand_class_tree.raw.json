@@ -14,6 +14,1341 @@
         "seedLabel": {
           "xml:lang": "en",
           "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138282819"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Smash Society"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138341373"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Voxed"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "sleep"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q124089330"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sleep Hero"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "sleep"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q132047826"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q132047826"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13512376"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "investment in social media"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q355"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Facebook"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117286602"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Страдающее Средневековье"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117349381"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tal Canal"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q114240945"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Stop Gordofobia"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q97659194"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Батрахоспермум"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30950506"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Big Big Channel"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q134776942"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Carlo Social"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138750011"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Darflen"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q126912904"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Arto"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q136646469"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Miin"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15889126"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "МДК"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "sleep"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12411658"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q12411658"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20890402"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Social Web"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4281101"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Марафон"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q115270003"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q115270003"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7551246"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Social media as a public utility"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7551245"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media in the fashion industry"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q124398839"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q124398839"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16964482"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Samsung REX"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q97173495"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taiwan Roadkill Observation Network"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106816453"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q106816453"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q137800736"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Motorola Edge 60 Pro"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q32193244"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "inventaire.io"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q88995163"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "whatoplay"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q137800735"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Vivo X300 Pro"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112406039"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Webstory"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12302245"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Arto"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q115755681"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "LINE VOOM"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55697819"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Neihan Duanzi"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "sleep"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q134425197"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q134425197"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q137195840"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Travel Bloggers Community"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98907707"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chinese Non-Governmental Organizations Web Archive"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138024207"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Clicks Communicator"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q95612951"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Лентач"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120836241"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q120836241"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q135671455"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Vivo Y400"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q116174988"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Firefish"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q135747965"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Meizu 20 Infinity"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q137575626"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "xorsport"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16927779"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "AMARJIT KUMAR"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4040812"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Huawei Vision"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131573456"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q131573456"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6786983"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mekusharim"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1137514"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Indymedia"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138545935"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Vivo Y300"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q116448810"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "FakeTube"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11994082"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Origo"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56599280"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "CharacTour"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30325521"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "micro.blog"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q116817959"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Capsula Migrante"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117774872"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q117774872"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
           "value": "smartphone"
         },
         "seed": {
@@ -2248,1341 +3583,6 @@
         "relatedLabel": {
           "type": "literal",
           "value": "Q564264"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "smartphone"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q22645"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q579988"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "subclass of"
-        },
-        "relatedLabel": {
-          "type": "literal",
-          "value": "Q579988"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "smartphone"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q22645"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q487143"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "subclass of"
-        },
-        "relatedLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "LG Optimus LTE"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "smartphone"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q22645"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q487454"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "subclass of"
-        },
-        "relatedLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "Samsung Galaxy R"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "smartphone"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q22645"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q487615"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "subclass of"
-        },
-        "relatedLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "Samsung Galaxy Ace Plus"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "smartphone"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q22645"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q487634"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "subclass of"
-        },
-        "relatedLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "LG Optimus Vu"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "smartphone"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q22645"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q487639"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "subclass of"
-        },
-        "relatedLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "LG Optimus 7Q"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q138282819"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "The Smash Society"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q138341373"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Voxed"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "sleep"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q35831"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q124089330"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Sleep Hero"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "sleep"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q35831"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q132047826"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "type": "literal",
-          "value": "Q132047826"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q13512376"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "investment in social media"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q355"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Facebook"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q117286602"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "Страдающее Средневековье"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q117349381"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Tal Canal"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q114240945"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Stop Gordofobia"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q97659194"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "Батрахоспермум"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q30950506"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Big Big Channel"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q134776942"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Carlo Social"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q138750011"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "Darflen"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q126912904"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Arto"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q136646469"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Miin"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q15889126"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "МДК"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "sleep"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q35831"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q12411658"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "type": "literal",
-          "value": "Q12411658"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q20890402"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Social Web"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4281101"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "Марафон"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q115270003"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "type": "literal",
-          "value": "Q115270003"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q7551246"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Social media as a public utility"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q7551245"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media in the fashion industry"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q124398839"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "type": "literal",
-          "value": "Q124398839"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "smartphone"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q22645"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16964482"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Samsung REX"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q97173495"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Taiwan Roadkill Observation Network"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q106816453"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "type": "literal",
-          "value": "Q106816453"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "smartphone"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q22645"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q137800736"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Motorola Edge 60 Pro"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q32193244"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "inventaire.io"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q88995163"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "whatoplay"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "smartphone"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q22645"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q137800735"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Vivo X300 Pro"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q112406039"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Webstory"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q12302245"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Arto"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q115755681"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "LINE VOOM"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55697819"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Neihan Duanzi"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "sleep"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q35831"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q134425197"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "type": "literal",
-          "value": "Q134425197"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q137195840"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Travel Bloggers Community"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q98907707"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Chinese Non-Governmental Organizations Web Archive"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "smartphone"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q22645"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q138024207"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Clicks Communicator"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q95612951"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "Лентач"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q120836241"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "type": "literal",
-          "value": "Q120836241"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "smartphone"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q22645"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q135671455"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Vivo Y400"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q116174988"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "Firefish"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "smartphone"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q22645"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q135747965"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Meizu 20 Infinity"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q137575626"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "xorsport"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16927779"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "AMARJIT KUMAR"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "smartphone"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q22645"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4040812"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "Huawei Vision"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "smartphone"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q22645"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q131573456"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "type": "literal",
-          "value": "Q131573456"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q6786983"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Mekusharim"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "social media"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q202833"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q1137514"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "Indymedia"
-        }
-      },
-      {
-        "seedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "smartphone"
-        },
-        "seed": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q22645"
-        },
-        "related": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q138545935"
-        },
-        "relation": {
-          "type": "literal",
-          "value": "instance of"
-        },
-        "relatedLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Vivo Y300"
         }
       }
     ]

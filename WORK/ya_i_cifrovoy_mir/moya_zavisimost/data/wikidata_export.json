@@ -1,7 +1,7 @@
 {
   "topic": "Моя зависимость",
   "topic_slug": "moya_zavisimost",
-  "generated_at": "2026-03-27T15:10:07.257013+00:00",
+  "generated_at": "2026-03-27T16:11:15.440027+00:00",
   "endpoint": "https://query.wikidata.org/sparql",
   "seed_labels": [
     "screen time",
@@ -23,8 +23,8 @@
       "normalized_file": "wikidata\\find_by_label.normalized.json",
       "skipped_reason": null,
       "error": null,
-      "started_at": "2026-03-27T15:09:54.296346+00:00",
-      "finished_at": "2026-03-27T15:09:54.787765+00:00"
+      "started_at": "2026-03-27T16:11:00.431576+00:00",
+      "finished_at": "2026-03-27T16:11:01.116648+00:00"
     },
     {
       "topic_slug": "moya_zavisimost",
@@ -37,8 +37,8 @@
       "normalized_file": "wikidata\\expand_class_tree.normalized.json",
       "skipped_reason": null,
       "error": null,
-      "started_at": "2026-03-27T15:09:55.788347+00:00",
-      "finished_at": "2026-03-27T15:09:57.546868+00:00"
+      "started_at": "2026-03-27T16:11:02.117303+00:00",
+      "finished_at": "2026-03-27T16:11:03.155680+00:00"
     },
     {
       "topic_slug": "moya_zavisimost",
@@ -51,8 +51,8 @@
       "normalized_file": "wikidata\\local_graph.normalized.json",
       "skipped_reason": null,
       "error": null,
-      "started_at": "2026-03-27T15:09:58.547392+00:00",
-      "finished_at": "2026-03-27T15:10:02.286687+00:00"
+      "started_at": "2026-03-27T16:11:04.156042+00:00",
+      "finished_at": "2026-03-27T16:11:06.994053+00:00"
     },
     {
       "topic_slug": "moya_zavisimost",
@@ -65,8 +65,8 @@
       "normalized_file": "wikidata\\reverse_graph.normalized.json",
       "skipped_reason": null,
       "error": null,
-      "started_at": "2026-03-27T15:10:03.287455+00:00",
-      "finished_at": "2026-03-27T15:10:06.256827+00:00"
+      "started_at": "2026-03-27T16:11:07.994633+00:00",
+      "finished_at": "2026-03-27T16:11:14.439432+00:00"
     }
   ],
   "totals": {
@@ -75,6 +75,5 @@
     "empty": 0,
     "skipped": 0,
     "error": 0
-  },
-  "note": "Файл создан автоматически скриптом run_all_wikidata.py."
+  }
 }

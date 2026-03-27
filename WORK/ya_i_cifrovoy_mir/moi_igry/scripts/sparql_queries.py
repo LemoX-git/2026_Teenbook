@@ -106,21 +106,6 @@ SELECT DISTINCT ?item1 ?item1Label ?p ?propLabel ?item2 ?item2Label WHERE {
 LIMIT 200
 """)
 
-QUERY_DBPEDIA_LOOKUP = dedent("""
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-SELECT DISTINCT ?item ?label WHERE {
-  VALUES ?label {
-    "video game"@en
-    "esports"@en
-    "online game"@en
-    "microtransaction"@en
-    "gaming community"@en
-  }
-  ?item rdfs:label ?label .
-  FILTER(LANG(?label) = "en")
-}
-LIMIT 100
-""")
 
 if __name__ == "__main__":
     for name in [
@@ -128,7 +113,6 @@ if __name__ == "__main__":
         "QUERY_EXPAND_CLASS_TREE",
         "QUERY_LOCAL_GRAPH",
         "QUERY_REVERSE_GRAPH",
-        "QUERY_DBPEDIA_LOOKUP",
     ]:
         print(f"=== {name} ===")
         print(globals()[name])

@@ -825,35 +825,6 @@
         },
         "item1": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q136698902"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P31"
-        },
-        "item1Label": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "InTheRooms"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "это частный случай понятия"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "виртуальное сообщество"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q210980"
-        },
-        "item1": {
-          "type": "uri",
           "value": "http://www.wikidata.org/entity/Q18511644"
         },
         "p": {
@@ -893,6 +864,35 @@
           "xml:lang": "en",
           "type": "literal",
           "value": "Whoa.nu"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q136698902"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "InTheRooms"
         },
         "propLabel": {
           "xml:lang": "ru",
@@ -1691,7 +1691,7 @@
         },
         "item1": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q136002736"
+          "value": "http://www.wikidata.org/entity/Q96981414"
         },
         "p": {
           "type": "uri",
@@ -1700,7 +1700,7 @@
         "item1Label": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Vicilook"
+          "value": "GNU Radio Mailing List"
         },
         "propLabel": {
           "xml:lang": "ru",
@@ -1720,7 +1720,7 @@
         },
         "item1": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q96981414"
+          "value": "http://www.wikidata.org/entity/Q136002736"
         },
         "p": {
           "type": "uri",
@@ -1729,7 +1729,7 @@
         "item1Label": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "GNU Radio Mailing List"
+          "value": "Vicilook"
         },
         "propLabel": {
           "xml:lang": "ru",
@@ -2814,6 +2814,2877 @@
         },
         "item1": {
           "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121667324"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bettina Zourli"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q111243479"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Art of Gathering"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120358770"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "1911 Encyclopædia Britannica/Mate"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q113154071"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Marian Houser"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112496464"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Christopher Rolfe Agnew"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112544788"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "John Harding"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121297669"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Haley Farrar"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q115180624"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1269"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Relationship violence"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112529116"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q112529116"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112435375"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Klára Mandausová"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118153097"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Derek A. Kreager"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q119505545"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Couple relationships"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q115697328"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pubertat - Secrets, Lies, and Human Castles"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121951483"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121951483"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120616147"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q120616147"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120608080"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lucie Novotná"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121094647"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kathleen McGoey"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120615849"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Clint Pulver"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121951636"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121951636"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120616754"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q120616754"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q119505013"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "взаимоотношения в школьной среде"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120600920"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Johannes Hayers"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121946694"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121946694"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112511779"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Florence Guido-DiBrito"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118727419"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "взаимоотношения сверстников"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121953748"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121953748"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110382634"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "patrocinium"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112612587"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "партнёрские отношения"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121950749"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121950749"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121927503"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121927503"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118640896"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Linda Syllaba"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121953156"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121953156"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121948214"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121948214"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120703669"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Does female breadwinning make partnerships less healthy or less stable?"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112562736"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bonnie Weaver Battey"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121945212"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121945212"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112509768"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Manfred Frigger"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112543412"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q112543412"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112522521"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mary Holmes"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112511235"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Catherine Walker O'Neal"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120615131"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Michaela Tetzeli"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121947474"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121947474"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q119505562"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The use of telepractice in the family and relationship services sector"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112423401"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q112423401"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112542354"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Matthew Ollerton"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q114581842"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Boring Talks"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112536348"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Xavier Cornette de Saint Cyr"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121915820"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121915820"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120601939"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "E. J. Sabino"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q114151744"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "XIX. Solar Sphinx (book)"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q116267880"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Western Training Laboratory"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121954534"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121954534"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120597681"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Andrej Lukonchik"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112503252"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "William K. Rawlins"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120000281"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1269"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "don’t ask, don’t tell"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120610137"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Anela Vlk"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120595931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kim John Payne"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q116977979"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Les inséparables"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121684808"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P180"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nandemo mitsukaru yoru ni kokoro dake ga mitsukaranai"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "изображённый объект"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q116030418"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Around the Sun"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120000391"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1269"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "information exchange in relationships"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121948997"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121948997"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q114049678"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "sonhood"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112541565"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Graham Nuthall"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120609702"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jackson MacKenzie"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112514086"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Teresa Mierzwa"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110255742"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "крёстное родительство"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120600022"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q120600022"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120608083"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sébastien Sery"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112482774"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kathleen McKinney"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q115429801"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Недра Гловер Тавваб"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q119966574"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1269"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "relationship anarchy smorgasbord"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112529937"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mavis Klein"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q119505244"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "взаимоотношения школы и учащихся"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121298670"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "HEALING YOUR BROKEN HEART: 21 Proven Steps To Cope With Heartbreak In Relationship, Recover From Its Pain, And Happily Move On With Your Life"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121947368"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121947368"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q119470467"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "“It depends on what the definition of domestic violence is”: how young Australians conceptualise domestic violence and abuse"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q119470375"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Young people as agents of change in preventing violence against women"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120602604"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Will Bowen"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117399685"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "En villkorad gemenskap. Hbtq, sexualitet och kristen frikyrklighet"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120602496"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Veronika Neumannová"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121953677"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121953677"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121949483"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121949483"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118278087"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Logan Ury"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q119470457"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Reducing relationship and sexual violence: findings from reviews about the effectiveness of respectful relationships and bystander programs in school and tertiary education settings"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112558780"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Alice Vondrová"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118867535"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ann C. Crouter"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121946937"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121946937"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121937490"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121937490"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112541462"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Howard Crowhurst"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120602052"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Zuzana Filipová"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112343916"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Anna-Maija Castrén"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120615301"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Aneta Langrová"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120597212"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q120597212"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120597213"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q120597213"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120601004"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lisa Guinness"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121951305"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121951305"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121942605"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121942605"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q119459779"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Trends in partnering and fertility among the Indigenous population"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121952660"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121952660"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
           "value": "http://www.wikidata.org/entity/Q122010869"
         },
         "p": {
@@ -2879,2806 +5750,6 @@
         "item1Label": {
           "type": "literal",
           "value": "Q121995569"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121999174"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121999174"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121989276"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121989276"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122003980"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122003980"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122008181"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122008181"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121990929"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121990929"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122007586"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122007586"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121987780"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121987780"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121985534"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121985534"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121987486"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121987486"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122005336"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122005336"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121997839"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121997839"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121999041"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121999041"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121994093"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121994093"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122008200"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122008200"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122006100"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122006100"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121988854"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121988854"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121999352"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121999352"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122006405"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122006405"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121986904"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121986904"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122000556"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122000556"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121989905"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121989905"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122004009"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122004009"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121989908"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121989908"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121987363"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121987363"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121997861"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121997861"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121988414"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121988414"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122009418"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122009418"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121986618"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121986618"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121996522"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121996522"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121995623"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121995623"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122010021"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122010021"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121992321"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121992321"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122006278"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122006278"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122007177"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122007177"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121999530"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121999530"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122004777"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122004777"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122000277"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122000277"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122005982"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122005982"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122008229"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122008229"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122008380"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122008380"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122004638"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122004638"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121999985"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121999985"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122006591"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122006591"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121998191"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121998191"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121987091"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121987091"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122010041"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122010041"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121986495"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121986495"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122010645"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122010645"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121994893"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121994893"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122009296"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122009296"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121985297"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121985297"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121992658"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121992658"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122007214"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122007214"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122003913"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122003913"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122008564"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122008564"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121992964"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121992964"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122006917"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122006917"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122006617"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122006617"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122010669"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122010669"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121994317"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121994317"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122005720"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122005720"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122008126"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122008126"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121992220"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121992220"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121997775"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121997775"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121999572"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121999572"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122010825"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122010825"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121986079"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121986079"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121987431"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121987431"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122005734"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122005734"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121999134"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121999134"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122011132"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122011132"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121987429"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121987429"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121989680"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121989680"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121999439"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121999439"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121989237"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121989237"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122001543"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122001543"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122005595"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122005595"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122006793"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122006793"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121999292"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121999292"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121988641"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121988641"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121986541"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121986541"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121994047"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121994047"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121987744"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121987744"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122010548"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122010548"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122001551"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122001551"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121986245"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121986245"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122004400"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122004400"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121989702"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121989702"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121997501"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121997501"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121986854"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121986854"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122007853"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122007853"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122003953"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122003953"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122007558"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122007558"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122002908"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122002908"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q121987456"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q121987456"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122008460"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122008460"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122007865"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122007865"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122076283"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122076283"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122078380"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122078380"
-        },
-        "propLabel": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "основная тема"
-        },
-        "item2Label": {
-          "xml:lang": "ru",
-          "type": "literal",
-          "value": "межличностные отношения"
-        }
-      },
-      {
-        "item2": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q223642"
-        },
-        "item1": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122113339"
-        },
-        "p": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/prop/direct/P921"
-        },
-        "item1Label": {
-          "type": "literal",
-          "value": "Q122113339"
         },
         "propLabel": {
           "xml:lang": "ru",

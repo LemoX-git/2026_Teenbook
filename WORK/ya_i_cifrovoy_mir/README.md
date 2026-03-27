@@ -61,14 +61,13 @@
 - основной скрипт находится в `scripts/insert_crosslinks.py`;
 - для совместимости со структурой примера добавлен файл `add_cross_links.py`.
 
-## 🌐 Работа с Wikidata и DBpedia
+## 🌐 Работа с Wikidata
 
 Для каждой подтемы подготовлены:
 
 - SPARQL-запросы в `scripts/sparql_queries.py`;
 - выгрузки в `data/wikidata/`;
 - сводный файл `data/wikidata_export.json`;
-- черновой `data/dbpedia_export.json`.
 
 ## 🧩 Онтология
 
@@ -89,9 +88,9 @@
 Примеры команд:
 
 ```bash
-python WORK/ya_i_cifrovoy_mir/scripts/validate_repo.py
 python WORK/ya_i_cifrovoy_mir/scripts/run_all_wikidata.py --list-topics
 python WORK/ya_i_cifrovoy_mir/scripts/run_all_wikidata.py --topic moya_zavisimost
+python WORK/ya_i_cifrovoy_mir/scripts/populate_web_from_wikidata.py --topic moya_zavisimost
 ```
 
 ## ✅ Что уже сделано
@@ -101,7 +100,7 @@ python WORK/ya_i_cifrovoy_mir/scripts/run_all_wikidata.py --topic moya_zavisimos
 - подготовлены `concepts.json` по разделу и подтемам;
 - добавлены схемы онтологии;
 - добавлены SPARQL-запросы и шаблоны выгрузок;
-- подготовлены скрипты для валидации и автоматизации.
+- подготовлены скрипты для автоматизации выгрузки и обновления markdown-страниц.
 
 ## 📝 Что осталось заполнить вручную
 

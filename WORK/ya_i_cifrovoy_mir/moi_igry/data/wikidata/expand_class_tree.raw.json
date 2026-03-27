@@ -22,16 +22,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4704404"
+          "value": "http://www.wikidata.org/entity/Q55610"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "игровой автомат"
+          "value": "Athena"
         }
       },
       {
@@ -46,16 +46,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q73548809"
+          "value": "http://www.wikidata.org/entity/Q60102"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "несуществующая компьютерная игра"
+          "value": "Fallout"
         }
       },
       {
@@ -70,16 +70,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q61838206"
+          "value": "http://www.wikidata.org/entity/Q57270"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "shovelware video game"
+          "value": "BioShock"
         }
       },
       {
@@ -94,16 +94,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q1758804"
+          "value": "http://www.wikidata.org/entity/Q55676"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "кооперативный режим"
+          "value": "Sherlock"
         }
       },
       {
@@ -118,16 +118,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q1224999"
+          "value": "http://www.wikidata.org/entity/Q83843"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "обучающая игра"
+          "value": "Forza Horizon"
         }
       },
       {
@@ -142,16 +142,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q958821"
+          "value": "http://www.wikidata.org/entity/Q74401"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "LucasArts adventure games"
+          "value": "Indiana Jones and the Fate of Atlantis"
         }
       },
       {
@@ -166,16 +166,15 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q6561427"
+          "value": "http://www.wikidata.org/entity/Q55815"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "ru",
           "type": "literal",
-          "value": "консольная игра"
+          "value": "Q55815"
         }
       },
       {
@@ -190,16 +189,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q54767"
+          "value": "http://www.wikidata.org/entity/Q83265"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "ru",
+          "xml:lang": "en",
           "type": "literal",
-          "value": "головоломка"
+          "value": "Grand Theft Auto: San Andreas"
         }
       },
       {
@@ -214,16 +213,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q65073088"
+          "value": "http://www.wikidata.org/entity/Q63352"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "Nintendo Gateway System"
+          "value": "Ingress"
         }
       },
       {
@@ -238,16 +237,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q26692802"
+          "value": "http://www.wikidata.org/entity/Q80402"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "бесконечная компьютерная игра"
+          "value": "FishVille"
         }
       },
       {
@@ -262,16 +261,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q48835388"
+          "value": "http://www.wikidata.org/entity/Q63064"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "гача-игра"
+          "value": "NationStates"
         }
       },
       {
@@ -286,16 +285,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q1425505"
+          "value": "http://www.wikidata.org/entity/Q63266"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "launch game"
+          "value": "SimIsle"
         }
       },
       {
@@ -310,16 +309,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55588631"
+          "value": "http://www.wikidata.org/entity/Q55673"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "Pokémon video game"
+          "value": "R-Type"
         }
       },
       {
@@ -334,16 +333,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q1015325"
+          "value": "http://www.wikidata.org/entity/Q81288"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "компьютерная игра с открытым исходным кодом"
+          "value": "Dragon Quest III"
         }
       },
       {
@@ -358,16 +357,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q467880"
+          "value": "http://www.wikidata.org/entity/Q57622"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "ru",
+          "xml:lang": "en",
           "type": "literal",
-          "value": "игра для программистов"
+          "value": "All or Nothing"
         }
       },
       {
@@ -382,16 +381,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q78444225"
+          "value": "http://www.wikidata.org/entity/Q71936"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "компьютерная игра по вселенной «Звёздного пути»"
+          "value": "Wii Sports"
         }
       },
       {
@@ -406,16 +405,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q2910554"
+          "value": "http://www.wikidata.org/entity/Q87693"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "bootleg video game"
+          "value": "4 Soccer Simulators"
         }
       },
       {
@@ -430,16 +429,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16681627"
+          "value": "http://www.wikidata.org/entity/Q82050"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "компьютерная игра об альтернативной истории"
+          "value": "Tales of the Abyss"
         }
       },
       {
@@ -454,16 +453,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q5647425"
+          "value": "http://www.wikidata.org/entity/Q71910"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "handheld video game"
+          "value": "Тетрис"
         }
       },
       {
@@ -478,16 +477,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q27670585"
+          "value": "http://www.wikidata.org/entity/Q71932"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "научно-фантастическая компьютерная игра"
+          "value": "Call of Duty: Black Ops: Declassified"
         }
       },
       {
@@ -502,16 +501,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q1121542"
+          "value": "http://www.wikidata.org/entity/Q55675"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "ru",
+          "xml:lang": "en",
           "type": "literal",
-          "value": "игра для мобильных устройств"
+          "value": "The Trap Door"
         }
       },
       {
@@ -526,16 +525,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q1834370"
+          "value": "http://www.wikidata.org/entity/Q57631"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "ru",
+          "xml:lang": "en",
           "type": "literal",
-          "value": "zero player game"
+          "value": "Angler"
         }
       },
       {
@@ -550,16 +549,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q9257086"
+          "value": "http://www.wikidata.org/entity/Q88226"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "Exclusive"
+          "value": "4x4 Off-Road Racing"
         }
       },
       {
@@ -574,16 +573,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q368542"
+          "value": "http://www.wikidata.org/entity/Q55622"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "advergaming"
+          "value": "Bionic Commando"
         }
       },
       {
@@ -598,16 +597,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q11084095"
+          "value": "http://www.wikidata.org/entity/Q55620"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "историческая игра"
+          "value": "Bionic Commando"
         }
       },
       {
@@ -622,16 +621,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q1125755"
+          "value": "http://www.wikidata.org/entity/Q55537"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "ru",
+          "xml:lang": "en",
           "type": "literal",
-          "value": "Игры для Linux"
+          "value": "180"
         }
       },
       {
@@ -646,16 +645,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q208850"
+          "value": "http://www.wikidata.org/entity/Q73289"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "однопользовательская игра"
+          "value": "Himawari no Kyōkai to Nagai Natsuyasumi"
         }
       },
       {
@@ -670,16 +669,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q23916"
+          "value": "http://www.wikidata.org/entity/Q74061"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "приключенческая компьютерная игра"
+          "value": "Star Wars: Rebel Assault II: The Hidden Empire"
         }
       },
       {
@@ -694,16 +693,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q209163"
+          "value": "http://www.wikidata.org/entity/Q55216"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "дополнение к компьютерной игре"
+          "value": "LEGO Star Wars: The Video Game"
         }
       },
       {
@@ -718,16 +717,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q1041225"
+          "value": "http://www.wikidata.org/entity/Q55219"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "игра для социальных сетей"
+          "value": "Star Wars: Bounty Hunter"
         }
       },
       {
@@ -742,16 +741,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q42409239"
+          "value": "http://www.wikidata.org/entity/Q55217"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "фэнтезийная компьютерная игра"
+          "value": "Star Wars Episode I: Racer"
         }
       },
       {
@@ -766,16 +765,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q25397095"
+          "value": "http://www.wikidata.org/entity/Q55227"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "ru",
+          "xml:lang": "en",
           "type": "literal",
-          "value": "песочница"
+          "value": "Star Wars: Super Bombad Racing"
         }
       },
       {
@@ -790,16 +789,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q3288281"
+          "value": "http://www.wikidata.org/entity/Q55223"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "клон"
+          "value": "Star Wars: Racer Arcade"
         }
       },
       {
@@ -814,16 +813,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q15613992"
+          "value": "http://www.wikidata.org/entity/Q55228"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "аркада"
+          "value": "LEGO Star Wars III: The Clone Wars"
         }
       },
       {
@@ -838,16 +837,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q1493064"
+          "value": "http://www.wikidata.org/entity/Q55225"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "human-based computation game"
+          "value": "Star Wars: Starfighter"
         }
       },
       {
@@ -862,16 +861,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q744038"
+          "value": "http://www.wikidata.org/entity/Q55229"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "компьютерная ролевая игра"
+          "value": "Star Wars: Jedi Starfighter"
         }
       },
       {
@@ -886,16 +885,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q472055"
+          "value": "http://www.wikidata.org/entity/Q55237"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "ru",
+          "xml:lang": "en",
           "type": "literal",
-          "value": "стратегическая компьютерная игра"
+          "value": "Star Wars: Republic Commando: Order 66"
         }
       },
       {
@@ -910,16 +909,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q1506693"
+          "value": "http://www.wikidata.org/entity/Q55239"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "серьёзная компьютерная игра"
+          "value": "LEGO Star Wars II: The Original Trilogy"
         }
       },
       {
@@ -934,16 +933,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q29471320"
+          "value": "http://www.wikidata.org/entity/Q55246"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "карточная компьютерная игра"
+          "value": "Lego Star Wars II Mobile"
         }
       },
       {
@@ -958,16 +957,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q1050023"
+          "value": "http://www.wikidata.org/entity/Q55248"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "казуальная игра"
+          "value": "Star Wars Trilogy Arcade"
         }
       },
       {
@@ -982,16 +981,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q6895044"
+          "value": "http://www.wikidata.org/entity/Q55251"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "ru",
+          "xml:lang": "en",
           "type": "literal",
-          "value": "многопользовательская игра"
+          "value": "Star Wars: Behind the Magic"
         }
       },
       {
@@ -1006,16 +1005,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q65963104"
+          "value": "http://www.wikidata.org/entity/Q55254"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "ремастер компьютерной игры"
+          "value": "Star Wars: Force Commander"
         }
       },
       {
@@ -1030,16 +1029,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q60997816"
+          "value": "http://www.wikidata.org/entity/Q55253"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "издание компьютерной игры"
+          "value": "Star Wars: Flight of the Falcon"
         }
       },
       {
@@ -1054,16 +1053,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q7888616"
+          "value": "http://www.wikidata.org/entity/Q55259"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "компьютерная игра для компаний"
+          "value": "Star Wars: Rebel Assault"
         }
       },
       {
@@ -1078,16 +1077,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q61475894"
+          "value": "http://www.wikidata.org/entity/Q55257"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "отменённая компьютерная игра"
+          "value": "Star Wars: Masters of Teräs Käsi"
         }
       },
       {
@@ -1102,16 +1101,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q839777"
+          "value": "http://www.wikidata.org/entity/Q55263"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "Middle-earth in video games"
+          "value": "Star Wars: Shadows of the Empire"
         }
       },
       {
@@ -1126,16 +1125,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q5048771"
+          "value": "http://www.wikidata.org/entity/Q55265"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "Cashola"
+          "value": "Star Wars: Yoda Stories"
         }
       },
       {
@@ -1150,16 +1149,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q6955546"
+          "value": "http://www.wikidata.org/entity/Q74245"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "NTest"
+          "value": "GetAmped"
         }
       },
       {
@@ -1174,16 +1173,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q6149096"
+          "value": "http://www.wikidata.org/entity/Q55272"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "Shisen-Sho"
+          "value": "Star Wars Galaxies"
         }
       },
       {
@@ -1198,16 +1197,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q85341917"
+          "value": "http://www.wikidata.org/entity/Q55295"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "ru",
+          "xml:lang": "en",
           "type": "literal",
-          "value": "ЛГБТ-игра"
+          "value": "Star Wars Jedi Knight: Jedi Academy"
         }
       },
       {
@@ -1222,16 +1221,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q7832342"
+          "value": "http://www.wikidata.org/entity/Q55291"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "традиционная игра"
+          "value": "Star Wars Jedi Knight: Dark Forces II"
         }
       },
       {
@@ -1246,15 +1245,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q10682795"
+          "value": "http://www.wikidata.org/entity/Q55298"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "Q10682795"
+          "value": "Star Wars Jedi Knight II: Jedi Outcast"
         }
       },
       {
@@ -1269,16 +1269,15 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q11297254"
+          "value": "http://www.wikidata.org/entity/Q81777"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
           "type": "literal",
-          "value": "charage"
+          "value": "Q81777"
         }
       },
       {
@@ -1293,16 +1292,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q906556"
+          "value": "http://www.wikidata.org/entity/Q55314"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "додзин-игра"
+          "value": "Star Wars: X-Wing vs. TIE Fighter"
         }
       },
       {
@@ -1317,16 +1316,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q848991"
+          "value": "http://www.wikidata.org/entity/Q55315"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "браузерная игра"
+          "value": "Star Wars: Empire at War"
         }
       },
       {
@@ -1341,16 +1340,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q14411698"
+          "value": "http://www.wikidata.org/entity/Q55312"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "романтическая компьютерная игра"
+          "value": "Star Wars: TIE Fighter"
         }
       },
       {
@@ -1365,16 +1364,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q11338014"
+          "value": "http://www.wikidata.org/entity/Q55313"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "хоррор-игра"
+          "value": "Star Wars: X-Wing Alliance"
         }
       },
       {
@@ -1389,16 +1388,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4393107"
+          "value": "http://www.wikidata.org/entity/Q83115"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "ru",
+          "xml:lang": "en",
           "type": "literal",
-          "value": "ремейк"
+          "value": "Fantasy World Dizzy"
         }
       },
       {
@@ -1413,16 +1412,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q28004621"
+          "value": "http://www.wikidata.org/entity/Q74539"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "SMS TV game"
+          "value": "Star Wars: The Force Unleashed II"
         }
       },
       {
@@ -1437,16 +1436,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q15222921"
+          "value": "http://www.wikidata.org/entity/Q74545"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "Кусогэ"
+          "value": "LEGO Batman: The Videogame"
         }
       },
       {
@@ -1461,16 +1460,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q5193152"
+          "value": "http://www.wikidata.org/entity/Q74630"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "культовая компьютерная игра"
+          "value": "LEGO Indiana Jones: The Original Adventures"
         }
       },
       {
@@ -1485,16 +1484,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q60617909"
+          "value": "http://www.wikidata.org/entity/Q55287"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "health video game"
+          "value": "Star Wars: Dark Forces"
         }
       },
       {
@@ -1509,16 +1508,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q60617933"
+          "value": "http://www.wikidata.org/entity/Q74669"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "open-ended simulation video game"
+          "value": "Star Wars: Knights of the Old Republic II – The Sith Lords"
         }
       },
       {
@@ -1533,16 +1532,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q60617940"
+          "value": "http://www.wikidata.org/entity/Q74683"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "persistent world video game"
+          "value": "LEGO Indiana Jones 2: The Adventure Continues"
         }
       },
       {
@@ -1557,16 +1556,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q60617825"
+          "value": "http://www.wikidata.org/entity/Q81841"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "ru",
+          "xml:lang": "en",
           "type": "literal",
-          "value": "игра с тайнами"
+          "value": "Fracture"
         }
       },
       {
@@ -1581,16 +1580,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q3257925"
+          "value": "http://www.wikidata.org/entity/Q55535"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "программа для игры в го"
+          "value": "1943: The Battle of Midway"
         }
       },
       {
@@ -1605,16 +1604,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q7565159"
+          "value": "http://www.wikidata.org/entity/Q55538"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "source port"
+          "value": "007: Licence to Kill"
         }
       },
       {
@@ -1629,16 +1628,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q3266431"
+          "value": "http://www.wikidata.org/entity/Q55536"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "iPod game"
+          "value": "10th Frame"
         }
       },
       {
@@ -1653,16 +1652,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q192851"
+          "value": "http://www.wikidata.org/entity/Q55533"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "аркадный автомат"
+          "value": "Saboteur II: Avenging Angel"
         }
       },
       {
@@ -1677,16 +1676,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q25416247"
+          "value": "http://www.wikidata.org/entity/Q55555"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "skill-based video game"
+          "value": "19 Part One: Boot Camp"
         }
       },
       {
@@ -1701,16 +1700,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q50572288"
+          "value": "http://www.wikidata.org/entity/Q55563"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "ru",
+          "xml:lang": "en",
           "type": "literal",
-          "value": "фантастическая компьютерная игра"
+          "value": "3D Knockout"
         }
       },
       {
@@ -1725,16 +1724,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q1823737"
+          "value": "http://www.wikidata.org/entity/Q55561"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "ru",
+          "xml:lang": "en",
           "type": "literal",
-          "value": "текстовая игра"
+          "value": "3D Construction Kit"
         }
       },
       {
@@ -1749,16 +1748,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q60777418"
+          "value": "http://www.wikidata.org/entity/Q55562"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "video game retail package"
+          "value": "3D Deathchase"
         }
       },
       {
@@ -1773,16 +1772,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q270948"
+          "value": "http://www.wikidata.org/entity/Q55566"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "ru",
+          "xml:lang": "en",
           "type": "literal",
-          "value": "экшен"
+          "value": "3D Tanx"
         }
       },
       {
@@ -1797,16 +1796,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q11446445"
+          "value": "http://www.wikidata.org/entity/Q55565"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "game for women"
+          "value": "3D Monster Chase"
         }
       },
       {
@@ -1821,16 +1820,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4197725"
+          "value": "http://www.wikidata.org/entity/Q55587"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "Игровая система Pong-типа"
+          "value": "3D Tunnel"
         }
       },
       {
@@ -1845,16 +1844,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q1327648"
+          "value": "http://www.wikidata.org/entity/Q55611"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "ru",
+          "xml:lang": "en",
           "type": "literal",
-          "value": "PvE"
+          "value": "Army Moves"
         }
       },
       {
@@ -1869,16 +1868,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q27291"
+          "value": "http://www.wikidata.org/entity/Q55607"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "накигэ"
+          "value": "Bonanza Bros."
         }
       },
       {
@@ -1893,16 +1892,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q1635956"
+          "value": "http://www.wikidata.org/entity/Q55605"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "интерактивный фильм"
+          "value": "Boulder Dash"
         }
       },
       {
@@ -1917,16 +1916,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q5383567"
+          "value": "http://www.wikidata.org/entity/Q55608"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "эпизодическая компьютерная игра"
+          "value": "Atic Atac"
         }
       },
       {
@@ -1941,16 +1940,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q584105"
+          "value": "http://www.wikidata.org/entity/Q55668"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "ru",
+          "xml:lang": "en",
           "type": "literal",
-          "value": "музыкальная компьютерная игра"
+          "value": "Nether Earth"
         }
       },
       {
@@ -1965,16 +1964,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q64170203"
+          "value": "http://www.wikidata.org/entity/Q55670"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "ru",
+          "xml:lang": "en",
           "type": "literal",
-          "value": "будущая компьютерная игра"
+          "value": "Quazatron"
         }
       },
       {
@@ -1989,16 +1988,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q11555738"
+          "value": "http://www.wikidata.org/entity/Q55817"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "западная компьютерная игра"
+          "value": "Alchemist"
         }
       },
       {
@@ -2013,16 +2012,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q868217"
+          "value": "http://www.wikidata.org/entity/Q83524"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "спортивная компьютерная игра"
+          "value": "Family Guy: Back to the Multiverse"
         }
       },
       {
@@ -2037,16 +2036,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q1395577"
+          "value": "http://www.wikidata.org/entity/Q83565"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "фанатская игра"
+          "value": "Epic Mickey 2: The Power of Two"
         }
       },
       {
@@ -2061,16 +2060,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q25377700"
+          "value": "http://www.wikidata.org/entity/Q83995"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "8-bit style"
+          "value": "Warlock: Master of the Arcane"
         }
       },
       {
@@ -2085,16 +2084,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q858523"
+          "value": "http://www.wikidata.org/entity/Q56879"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "стелс"
+          "value": "Syobon Action"
         }
       },
       {
@@ -2109,16 +2108,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q1192658"
+          "value": "http://www.wikidata.org/entity/Q56939"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "мини-игра"
+          "value": "Mega Man X: Command Mission"
         }
       },
       {
@@ -2133,16 +2132,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q3495514"
+          "value": "http://www.wikidata.org/entity/Q55534"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "interactive video"
+          "value": "Cyclone"
         }
       },
       {
@@ -2157,16 +2156,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q61456428"
+          "value": "http://www.wikidata.org/entity/Q76255"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "глобальная модификация"
+          "value": "Call of Duty 4: Modern Warfare"
         }
       },
       {
@@ -2181,16 +2180,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q116634"
+          "value": "http://www.wikidata.org/entity/Q57639"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "онлайн-игра"
+          "value": "Avalon The 3D Adventure Movie"
         }
       },
       {
@@ -2205,16 +2204,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q10714182"
+          "value": "http://www.wikidata.org/entity/Q57644"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "pervasive game"
+          "value": "Back To Skool"
         }
       },
       {
@@ -2229,16 +2228,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q2762504"
+          "value": "http://www.wikidata.org/entity/Q55532"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "инди-игра"
+          "value": "1942"
         }
       },
       {
@@ -2253,16 +2252,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4449864"
+          "value": "http://www.wikidata.org/entity/Q76763"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "tile-based video game"
+          "value": "CityVille 2"
         }
       },
       {
@@ -2277,16 +2276,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4464730"
+          "value": "http://www.wikidata.org/entity/Q76794"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "трёхмерная компьютерная игра"
+          "value": "CityVille"
         }
       },
       {
@@ -2301,16 +2300,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16070115"
+          "value": "http://www.wikidata.org/entity/Q55232"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "сборник компьютерных игр"
+          "value": "Star Wars: The Clone Wars"
         }
       },
       {
@@ -2325,16 +2324,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4485157"
+          "value": "http://www.wikidata.org/entity/Q76868"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "PC-игра"
+          "value": "Assassin’s Creed III: Liberation"
         }
       },
       {
@@ -2349,16 +2348,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q61642128"
+          "value": "http://www.wikidata.org/entity/Q59154"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "video game with protagonist of selectable gender"
+          "value": "Mafia II"
         }
       },
       {
@@ -2373,16 +2372,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q64692685"
+          "value": "http://www.wikidata.org/entity/Q55616"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "религиозная компьютерная игра"
+          "value": "Battlezone"
         }
       },
       {
@@ -2397,136 +2396,136 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q1610017"
+          "value": "http://www.wikidata.org/entity/Q77596"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "симулятор"
+          "value": "Picopict"
         }
       },
       {
         "seedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "online game"
+          "value": "video game"
         },
         "seed": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q116634"
+          "value": "http://www.wikidata.org/entity/Q7889"
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q3297989"
+          "value": "http://www.wikidata.org/entity/Q88921"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "сетевая игра"
+          "value": "Cabal"
         }
       },
       {
         "seedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "esports"
+          "value": "video game"
         },
         "seed": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q300920"
+          "value": "http://www.wikidata.org/entity/Q7889"
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q12774667"
+          "value": "http://www.wikidata.org/entity/Q133992"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "Progaming"
+          "value": "X2: Wolverine's Revenge"
         }
       },
       {
         "seedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "online game"
+          "value": "video game"
         },
         "seed": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q116634"
+          "value": "http://www.wikidata.org/entity/Q7889"
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q2098992"
+          "value": "http://www.wikidata.org/entity/Q134138"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "PBEM"
+          "value": "The Lion King"
         }
       },
       {
         "seedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "esports"
+          "value": "video game"
         },
         "seed": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q300920"
+          "value": "http://www.wikidata.org/entity/Q7889"
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q115526660"
+          "value": "http://www.wikidata.org/entity/Q134208"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "Bigetron Esports"
+          "value": "X-Men Legends II: Rise of Apocalypse"
         }
       },
       {
         "seedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "esports"
+          "value": "video game"
         },
         "seed": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q300920"
+          "value": "http://www.wikidata.org/entity/Q7889"
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q115538935"
+          "value": "http://www.wikidata.org/entity/Q110607"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "Alter Ego Esports"
+          "value": "Clannad"
         }
       },
       {
@@ -2541,87 +2540,88 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q132527955"
+          "value": "http://www.wikidata.org/entity/Q88947"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "unidentified video game"
+          "value": "Renegade"
         }
       },
       {
         "seedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "esports"
+          "value": "video game"
         },
         "seed": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q300920"
+          "value": "http://www.wikidata.org/entity/Q7889"
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q65080238"
+          "value": "http://www.wikidata.org/entity/Q119538"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "Pokémon competitive play"
+          "value": "3D MineStorm"
         }
       },
       {
         "seedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "esports"
+          "value": "video game"
         },
         "seed": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q300920"
+          "value": "http://www.wikidata.org/entity/Q7889"
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q1417032"
+          "value": "http://www.wikidata.org/entity/Q93951"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "симулятор гонок"
+          "value": "Little inferno"
         }
       },
       {
         "seedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "esports"
+          "value": "video game"
         },
         "seed": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q300920"
+          "value": "http://www.wikidata.org/entity/Q7889"
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q111787403"
+          "value": "http://www.wikidata.org/entity/Q94355"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "Q111787403"
+          "value": "Cars 2: The Video Game"
         }
       },
       {
@@ -2636,16 +2636,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q137184828"
+          "value": "http://www.wikidata.org/entity/Q94460"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "contemporary history video game"
+          "value": "Grand Theft Auto 2"
         }
       },
       {
@@ -2660,40 +2660,40 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q137184867"
+          "value": "http://www.wikidata.org/entity/Q94640"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "medieval video game"
+          "value": "Grand Theft Auto: Vice City Stories"
         }
       },
       {
         "seedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "esports"
+          "value": "video game"
         },
         "seed": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q300920"
+          "value": "http://www.wikidata.org/entity/Q7889"
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q109974882"
+          "value": "http://www.wikidata.org/entity/Q94671"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "VALORANT Champions"
+          "value": "Grand Theft Auto: Vice City"
         }
       },
       {
@@ -2708,39 +2708,40 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122681242"
+          "value": "http://www.wikidata.org/entity/Q94778"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "system seller"
+          "value": "Grand Theft Auto: Liberty City Stories"
         }
       },
       {
         "seedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "esports"
+          "value": "video game"
         },
         "seed": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q300920"
+          "value": "http://www.wikidata.org/entity/Q7889"
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q326704"
+          "value": "http://www.wikidata.org/entity/Q136569"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "Q326704"
+          "value": "ZZT"
         }
       },
       {
@@ -2755,16 +2756,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q109115381"
+          "value": "http://www.wikidata.org/entity/Q94797"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "криптоигра"
+          "value": "Grand Theft Auto IV"
         }
       },
       {
@@ -2779,16 +2780,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q122766396"
+          "value": "http://www.wikidata.org/entity/Q94871"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "augmented reality video game"
+          "value": "Grand Theft Auto: Chinatown Wars"
         }
       },
       {
@@ -2803,40 +2804,40 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q106542313"
+          "value": "http://www.wikidata.org/entity/Q137802"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "NSFW video game"
+          "value": "Halo 3"
         }
       },
       {
         "seedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "online game"
+          "value": "video game"
         },
         "seed": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q116634"
+          "value": "http://www.wikidata.org/entity/Q7889"
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q1102629"
+          "value": "http://www.wikidata.org/entity/Q137924"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "облачные игры"
+          "value": "FIFA 12"
         }
       },
       {
@@ -2851,16 +2852,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q133892347"
+          "value": "http://www.wikidata.org/entity/Q137977"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "surrealistic video game"
+          "value": "FIFA 13"
         }
       },
       {
@@ -2875,16 +2876,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q133296086"
+          "value": "http://www.wikidata.org/entity/Q128561"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "video game chapter"
+          "value": "Q.U.B.E."
         }
       },
       {
@@ -2899,16 +2900,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q116236667"
+          "value": "http://www.wikidata.org/entity/Q131007"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "war-themed video game"
+          "value": "World of Warcraft"
         }
       },
       {
@@ -2923,16 +2924,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q116278114"
+          "value": "http://www.wikidata.org/entity/Q146124"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "freeware video game"
+          "value": "Excitebike"
         }
       },
       {
@@ -2947,16 +2948,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q123002395"
+          "value": "http://www.wikidata.org/entity/Q91282"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "homebrew video game"
+          "value": "Arkanoid"
         }
       },
       {
@@ -2971,16 +2972,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q123012190"
+          "value": "http://www.wikidata.org/entity/Q142908"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "unlicensed video game"
+          "value": "Tux Racer"
         }
       },
       {
@@ -2995,16 +2996,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q89691527"
+          "value": "http://www.wikidata.org/entity/Q100042"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Xbox Original"
+          "value": "Blasteroids"
         }
       },
       {
@@ -3019,16 +3020,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q137823394"
+          "value": "http://www.wikidata.org/entity/Q100096"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "dollhouse game"
+          "value": "Mega Man X2"
         }
       },
       {
@@ -3043,39 +3044,40 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q104438884"
+          "value": "http://www.wikidata.org/entity/Q144550"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "утерянная видеоигра"
+          "value": "Zak McKracken: Between Time and Space"
         }
       },
       {
         "seedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "esports"
+          "value": "video game"
         },
         "seed": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q300920"
+          "value": "http://www.wikidata.org/entity/Q7889"
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q117545994"
+          "value": "http://www.wikidata.org/entity/Q144559"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "Q117545994"
+          "value": "Zak McKracken and the Alien Mindbenders"
         }
       },
       {
@@ -3090,16 +3092,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q116680021"
+          "value": "http://www.wikidata.org/entity/Q144728"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "компьютерная игра про вождение"
+          "value": "Bad Piggies"
         }
       },
       {
@@ -3114,16 +3116,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q133892278"
+          "value": "http://www.wikidata.org/entity/Q111683"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "crime video game"
+          "value": "Chromehounds"
         }
       },
       {
@@ -3138,16 +3140,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q133892167"
+          "value": "http://www.wikidata.org/entity/Q136597"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "thriller video game"
+          "value": "Z"
         }
       },
       {
@@ -3162,16 +3164,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q133892226"
+          "value": "http://www.wikidata.org/entity/Q88828"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "noir video game"
+          "value": "Captain Blood"
         }
       },
       {
@@ -3186,40 +3188,40 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q130554037"
+          "value": "http://www.wikidata.org/entity/Q147074"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "I Like Ya Cut, G"
+          "value": "ZanZarah: The Hidden Portal"
         }
       },
       {
         "seedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "esports"
+          "value": "video game"
         },
         "seed": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q300920"
+          "value": "http://www.wikidata.org/entity/Q7889"
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q60107291"
+          "value": "http://www.wikidata.org/entity/Q147789"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "киберспорт в Казахстане"
+          "value": "Dizzy – The Ultimate Cartoon Adventure"
         }
       },
       {
@@ -3234,16 +3236,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q113574332"
+          "value": "http://www.wikidata.org/entity/Q102303"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "Roblox experience"
+          "value": "Akalabeth: World of Doom"
         }
       },
       {
@@ -3258,16 +3260,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q90181054"
+          "value": "http://www.wikidata.org/entity/Q148474"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "ru",
+          "xml:lang": "en",
           "type": "literal",
-          "value": "эпизод компьютерной игры"
+          "value": "Zauberschloß"
         }
       },
       {
@@ -3282,40 +3284,40 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q135645577"
+          "value": "http://www.wikidata.org/entity/Q149106"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "pixel game"
+          "value": "Grand Theft Auto III"
         }
       },
       {
         "seedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "esports"
+          "value": "video game"
         },
         "seed": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q300920"
+          "value": "http://www.wikidata.org/entity/Q7889"
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q123651949"
+          "value": "http://www.wikidata.org/entity/Q149612"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "e-Motorsports"
+          "value": "Трон"
         }
       },
       {
@@ -3330,16 +3332,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q110817849"
+          "value": "http://www.wikidata.org/entity/Q149998"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "компьютерная игра с пластилиновой анимацией"
+          "value": "Paper Mario"
         }
       },
       {
@@ -3354,16 +3356,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q85422949"
+          "value": "http://www.wikidata.org/entity/Q112912"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "компьютерная игра с ЛГБТ-персонажем"
+          "value": "LEGO Batman 2: DC Super Heroes"
         }
       },
       {
@@ -3378,16 +3380,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q120373196"
+          "value": "http://www.wikidata.org/entity/Q113100"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "тактическая видеоигра"
+          "value": "Cloud"
         }
       },
       {
@@ -3402,16 +3404,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q104880818"
+          "value": "http://www.wikidata.org/entity/Q113106"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "asset flip"
+          "value": "Soleil"
         }
       },
       {
@@ -3426,16 +3428,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q113939522"
+          "value": "http://www.wikidata.org/entity/Q113289"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "юмористическая компьютерная игра"
+          "value": "Chivalry: Medieval Warfare"
         }
       },
       {
@@ -3450,16 +3452,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q110948671"
+          "value": "http://www.wikidata.org/entity/Q88240"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "vanilla game"
+          "value": "720°"
         }
       },
       {
@@ -3474,16 +3476,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q87741364"
+          "value": "http://www.wikidata.org/entity/Q88255"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "ru",
+          "xml:lang": "en",
           "type": "literal",
-          "value": "игра для виртуальной реальности"
+          "value": "750cc Grand Prix"
         }
       },
       {
@@ -3498,40 +3500,40 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q85637992"
+          "value": "http://www.wikidata.org/entity/Q88273"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "DRM free video game"
+          "value": "A Jax"
         }
       },
       {
         "seedLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "online game"
+          "value": "video game"
         },
         "seed": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q116634"
+          "value": "http://www.wikidata.org/entity/Q7889"
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q15613992"
+          "value": "http://www.wikidata.org/entity/Q88456"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "аркада"
+          "value": "A Question of Sport"
         }
       },
       {
@@ -3546,16 +3548,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q117216668"
+          "value": "http://www.wikidata.org/entity/Q88486"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "адаптация видеоигры"
+          "value": "A View to a Kill"
         }
       },
       {
@@ -3570,16 +3572,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q107486718"
+          "value": "http://www.wikidata.org/entity/Q88519"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
           "xml:lang": "ru",
           "type": "literal",
-          "value": "безымянная компьютерная игра"
+          "value": "Aaargh!"
         }
       },
       {
@@ -3594,16 +3596,16 @@
         },
         "related": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q113288201"
+          "value": "http://www.wikidata.org/entity/Q88545"
         },
         "relation": {
           "type": "literal",
-          "value": "subclass of"
+          "value": "instance of"
         },
         "relatedLabel": {
-          "xml:lang": "en",
+          "xml:lang": "ru",
           "type": "literal",
-          "value": "wikigames"
+          "value": "Abyss"
         }
       }
     ]
