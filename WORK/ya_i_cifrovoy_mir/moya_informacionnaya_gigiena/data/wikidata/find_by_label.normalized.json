@@ -1,0 +1,142 @@
+[
+  {
+    "label": "social media",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q202833",
+    "item__type": "uri",
+    "itemLabel": "социальные медиа",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "bot",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q29721614",
+    "item__type": "uri",
+    "itemLabel": "bot",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "en"
+  },
+  {
+    "label": "troll",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q823267",
+    "item__type": "uri",
+    "itemLabel": "Тролли",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "news",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q17215099",
+    "item__type": "uri",
+    "itemLabel": "news",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "en"
+  },
+  {
+    "label": "troll",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q7845160",
+    "item__type": "uri",
+    "itemLabel": "troll",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "en"
+  },
+  {
+    "label": "troll",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q7845166",
+    "item__type": "uri",
+    "itemLabel": "troll",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "en"
+  },
+  {
+    "label": "troll",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q11281",
+    "item__type": "uri",
+    "itemLabel": "интернет-тролль",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "bot",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q115667438",
+    "item__type": "uri",
+    "itemLabel": "bot",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "en"
+  },
+  {
+    "label": "misinformation",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q13579947",
+    "item__type": "uri",
+    "itemLabel": "ложная информация",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "bot",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q55071871",
+    "item__type": "uri",
+    "itemLabel": "бот",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "news",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q104652479",
+    "item__type": "uri",
+    "itemLabel": "news",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "en"
+  },
+  {
+    "label": "news",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q38926",
+    "item__type": "uri",
+    "itemLabel": "новости",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "recommender system",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q554950",
+    "item__type": "uri",
+    "itemLabel": "рекомендательная система",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "troll",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q12581",
+    "item__type": "uri",
+    "itemLabel": "тролль",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  }
+]

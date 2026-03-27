@@ -1,0 +1,3599 @@
+{
+  "head": {
+    "vars": [
+      "seed",
+      "seedLabel",
+      "related",
+      "relatedLabel",
+      "relation"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q41075"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "гражданское партнёрство"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q136002736"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Vicilook"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28135300"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Workplace from Meta"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2655416"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "WELL"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22906846"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "MGTOW"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131457430"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "GSOM Family"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q111446750"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sedition Hunters"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12478418"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Catster"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q124478045"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "WikiBiblioCon"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3479859"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Seronet"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18216860"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "IndieWeb"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3495447"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Stack Exchange"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q124618885"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "dyne foundation"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q185576"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Arch Linux"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5655495"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q5655495"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20829800"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Peers Community"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4391449"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Реактивные хозяйки"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5442714"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "female-led relationship"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5704038"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q5704038"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10719919"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Whoa.nu"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12384507"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q12384507"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1722580"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "All About Jazz"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q111892196"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Google Developer Student Clubs"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108293821"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Positive Romani Stories"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118282633"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Speaker Deck"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q136698902"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "InTheRooms"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q77963526"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Startplatz"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6542723"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "libre.fm"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55290870"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Tezos"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5652129"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "360 Cities"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30945873"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q30945873"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q45341906"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "LibreHealth"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q211354"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "педерастия"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q115750508"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Сообщество MusicBrainz"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q111640294"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q111640294"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q111640308"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q111640308"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6481091"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "LambdaMOO"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q376596"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ухаживание"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11864372"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "ii2"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138610705"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q138610705"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q876040"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сообщество Википедии"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3366019"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "civil naming ceremony"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q122532367"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kudoboard"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10851730"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "MozTW"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108943604"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Hugging Face"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21504930"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ladinokomunita"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q95612951"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Лентач"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4775152"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Antiquarian Booksellers' Association of America"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4787261"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Archive Team"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q84433932"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Alexa Answers"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q32860495"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "WikiTeam"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q75852220"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "DebateArt"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q65659302"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "LezWatch.TV"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10316480"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lasuni"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56035565"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Сообщество Викимедиа"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q185911"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "временный брак"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3700238"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Vine"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17034877"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "LocalWiki"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21831105"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "WikiCite"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2406432"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Grid.org"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108052404"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q108052404"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q96101495"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Black Girl Gamers"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110245173"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Libre Wiki"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4463986"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Троцкий и Ленин"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12335047"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q12335047"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15801523"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Диссернет"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3626640"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Associazione Nazionale Alpini"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q130282487"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Peds-A-Palooza"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q123238328"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Союз татарских порталов"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1951172"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Moviepilot"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q99738163"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Badboll"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56408541"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Què llegeixes?"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104413574"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "RetroAchievements"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q113017262"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q113017262"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19801308"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Our Airports"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121993027"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q121993027"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q113558980"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "RoAPI project"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24909800"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Искусство+Феминизм"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10428826"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q10428826"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108806579"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q108806579"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22338760"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "suckless.org"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7978574"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Web community"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10593758"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q10593758"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10525087"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Hogwarts.nu"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107238711"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "BibChatDe"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q63346800"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Colectivo Indomable"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10648011"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q10648011"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4689650"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "African-American–Jewish relations"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12308776"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Dkbn"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4033826"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Alpine Linux"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27950627"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Moviepilot"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q25245470"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Open Threat Exchange"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104775895"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q104775895"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q96981414"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "GNU Radio Mailing List"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1822917"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "relationship between Friedrich Nietzsche and Max Stirner"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59591008"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Faces"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q43256019"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kialo"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9293042"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Mad Pride"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30754442"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "UBports"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117191304"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "circles UBI system for communities"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28091984"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Дружба с привилегиями"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q382798"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Committed relationship"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "online identity"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1091147"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q798599"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуал"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q115789306"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Twitter community"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27249"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Гражданский договор солидарности"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10840017"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "варез-группа"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q97368899"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "subordination link"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1070872"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "любовный треугольник"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5275945"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вражда"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50807067"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межпоколенчество"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2120548"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "patron and priest relationship"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1406917"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Отношения на расстоянии"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70363495"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "доверенное лицо"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3436958"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не-моногамия"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3449014"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "domestic partnership"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1189047"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "романтическая любовь"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q85792192"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "parasocial relationships"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q736922"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интимные отношения"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17069479"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mizpah"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50478939"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cohabitation"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q171318"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "родство"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5001927"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "business relation"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1346659"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Internet relationship"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1199677"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "отношение родства"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q124693563"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "coparenting relationship"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "online identity"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1091147"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q137268424"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "VTuber character"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28043977"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Wikidebate"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q122878994"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Collusion"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q427173"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Бостонский брак"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2782279"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сексуальные отношения"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social network"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2715623"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2059727"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mobile social network"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1751358"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "коллегиальность"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q85029180"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Виртуальная нация"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2559016"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "online collection"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55104469"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "квирплатонические отношения"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18552270"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "sugar dating"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q109037981"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "brotherhood"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98217143"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "токсичные отношения"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q491"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "дружба"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q123554774"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "online conspiracy ecosystem"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q257356"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "hanky-panky"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q132559672"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "abusive relationship"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118727419"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "взаимоотношения сверстников"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98550214"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "разнополовые отношения"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q62075416"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "client-social worker relationship"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3220391"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальная сеть"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8035069"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "отношения на рабочем месте"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1425431"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Психологический контракт"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5868822"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "братство"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal relationship"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1813415"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "teacher-student relationship"
+        }
+      }
+    ]
+  }
+}

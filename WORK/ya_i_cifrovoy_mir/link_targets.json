@@ -1,0 +1,450 @@
+[
+  {
+    "slug": "ekrannoe_vremya",
+    "title": "Экранное время: сколько я реально в телефоне",
+    "target": "ya_i_cifrovoy_mir/moya_zavisimost/concepts/ekrannoe_vremya.md",
+    "topic": "moya_zavisimost",
+    "aliases": [
+      "ekrannoe vremya",
+      "Экранное время: сколько я реально в телефоне",
+      "внимание",
+      "привычка",
+      "телефон",
+      "экранное время"
+    ]
+  },
+  {
+    "slug": "skrolling_i_dofamin",
+    "title": "Скроллинг без цели: почему это ловушка",
+    "target": "ya_i_cifrovoy_mir/moya_zavisimost/concepts/skrolling_i_dofamin.md",
+    "topic": "moya_zavisimost",
+    "aliases": [
+      "skrolling i dofamin",
+      "Скроллинг без цели: почему это ловушка",
+      "внимание",
+      "дофамин",
+      "лента",
+      "скроллинг"
+    ]
+  },
+  {
+    "slug": "telefon_pered_snom",
+    "title": "Телефон перед сном: что происходит с мозгом",
+    "target": "ya_i_cifrovoy_mir/moya_zavisimost/concepts/telefon_pered_snom.md",
+    "topic": "moya_zavisimost",
+    "aliases": [
+      "telefon pered snom",
+      "Телефон перед сном: что происходит с мозгом",
+      "мозг",
+      "режим дня",
+      "сон",
+      "телефон"
+    ]
+  },
+  {
+    "slug": "cifrovoi_detoks",
+    "title": "Цифровой детокс — это пытка или кайф",
+    "target": "ya_i_cifrovoy_mir/moya_zavisimost/concepts/cifrovoi_detoks.md",
+    "topic": "moya_zavisimost",
+    "aliases": [
+      "cifrovoi detoks",
+      "Цифровой детокс — это пытка или кайф",
+      "отдых",
+      "привычки",
+      "самоконтроль",
+      "цифровой детокс"
+    ]
+  },
+  {
+    "slug": "priznaki_peregruza_ot_seti",
+    "title": "Как понять, что пора отдохнуть от сети",
+    "target": "ya_i_cifrovoy_mir/moya_zavisimost/concepts/priznaki_peregruza_ot_seti.md",
+    "topic": "moya_zavisimost",
+    "aliases": [
+      "priznaki peregruza ot seti",
+      "Как понять, что пора отдохнуть от сети",
+      "внимание",
+      "отдых",
+      "перегрузка",
+      "усталость"
+    ]
+  },
+  {
+    "slug": "igry_hobbi_ili_zavisimost",
+    "title": "Игры — это зависимость или хобби",
+    "target": "ya_i_cifrovoy_mir/moi_igry/concepts/igry_hobbi_ili_zavisimost.md",
+    "topic": "moi_igry",
+    "aliases": [
+      "igry hobbi ili zavisimost",
+      "Игры — это зависимость или хобби",
+      "баланс",
+      "зависимость",
+      "игры",
+      "хобби"
+    ]
+  },
+  {
+    "slug": "kibersport_kak_stat_professionalom",
+    "title": "Киберспорт: как стать профессионалом",
+    "target": "ya_i_cifrovoy_mir/moi_igry/concepts/kibersport_kak_stat_professionalom.md",
+    "topic": "moi_igry",
+    "aliases": [
+      "kibersport kak stat professionalom",
+      "Киберспорт: как стать профессионалом",
+      "игрок",
+      "киберспорт",
+      "команда",
+      "тренировка"
+    ]
+  },
+  {
+    "slug": "igrovye_soobshchestva",
+    "title": "Игровые сообщества: друзья на всю жизнь",
+    "target": "ya_i_cifrovoy_mir/moi_igry/concepts/igrovye_soobshchestva.md",
+    "topic": "moi_igry",
+    "aliases": [
+      "igrovye soobshchestva",
+      "Игровые сообщества: друзья на всю жизнь",
+      "друзья",
+      "команда",
+      "сообщество",
+      "токсичность"
+    ]
+  },
+  {
+    "slug": "donaty_i_mikroplatezhi",
+    "title": "Донаты и микроплатежи — стоит ли тратить",
+    "target": "ya_i_cifrovoy_mir/moi_igry/concepts/donaty_i_mikroplatezhi.md",
+    "topic": "moi_igry",
+    "aliases": [
+      "donaty i mikroplatezhi",
+      "Донаты и микроплатежи — стоит ли тратить",
+      "донаты",
+      "игровая экономика",
+      "микроплатежи",
+      "покупки"
+    ]
+  },
+  {
+    "slug": "chem_zamenit_igry_esli_nadoelo",
+    "title": "Чем заменить игры, если надоело",
+    "target": "ya_i_cifrovoy_mir/moi_igry/concepts/chem_zamenit_igry_esli_nadoelo.md",
+    "topic": "moi_igry",
+    "aliases": [
+      "chem zamenit igry esli nadoelo",
+      "Чем заменить игры, если надоело",
+      "альтернатива",
+      "игры",
+      "отдых",
+      "хобби"
+    ]
+  },
+  {
+    "slug": "kak_otlichit_fejk_ot_pravdy",
+    "title": "Как отличить фейк от правды",
+    "target": "ya_i_cifrovoy_mir/moya_informacionnaya_gigiena/concepts/kak_otlichit_fejk_ot_pravdy.md",
+    "topic": "moya_informacionnaya_gigiena",
+    "aliases": [
+      "kak otlichit fejk ot pravdy",
+      "Как отличить фейк от правды",
+      "источник",
+      "правда",
+      "проверка",
+      "фейк"
+    ]
+  },
+  {
+    "slug": "pochemu_novosti_pugayut",
+    "title": "Почему новости пугают и что с этим делать",
+    "target": "ya_i_cifrovoy_mir/moya_informacionnaya_gigiena/concepts/pochemu_novosti_pugayut.md",
+    "topic": "moya_informacionnaya_gigiena",
+    "aliases": [
+      "pochemu novosti pugayut",
+      "Почему новости пугают и что с этим делать",
+      "информация",
+      "новости",
+      "тревога",
+      "эмоции"
+    ]
+  },
+  {
+    "slug": "informacionnyj_puzyr",
+    "title": "Информационный пузырь: почему я вижу только одно",
+    "target": "ya_i_cifrovoy_mir/moya_informacionnaya_gigiena/concepts/informacionnyj_puzyr.md",
+    "topic": "moya_informacionnaya_gigiena",
+    "aliases": [
+      "informacionnyj puzyr",
+      "Информационный пузырь: почему я вижу только одно",
+      "алгоритм",
+      "информационный пузырь",
+      "лента",
+      "мнение"
+    ]
+  },
+  {
+    "slug": "kto_takie_boty_i_trolli",
+    "title": "Кто такие боты и тролли",
+    "target": "ya_i_cifrovoy_mir/moya_informacionnaya_gigiena/concepts/kto_takie_boty_i_trolli.md",
+    "topic": "moya_informacionnaya_gigiena",
+    "aliases": [
+      "kto takie boty i trolli",
+      "Кто такие боты и тролли",
+      "бот",
+      "комментарии",
+      "провокация",
+      "тролль"
+    ]
+  },
+  {
+    "slug": "kogda_nuzhno_vyklyuchat_uvedomleniya",
+    "title": "Когда нужно выключать уведомления",
+    "target": "ya_i_cifrovoy_mir/moya_informacionnaya_gigiena/concepts/kogda_nuzhno_vyklyuchat_uvedomleniya.md",
+    "topic": "moya_informacionnaya_gigiena",
+    "aliases": [
+      "kogda nuzhno vyklyuchat uvedomleniya",
+      "Когда нужно выключать уведомления",
+      "внимание",
+      "новости",
+      "режим",
+      "уведомления"
+    ]
+  },
+  {
+    "slug": "chto_mozhno_i_nelzya_postit",
+    "title": "Что можно и нельзя постить",
+    "target": "ya_i_cifrovoy_mir/moya_bezopasnost_v_seti/concepts/chto_mozhno_i_nelzya_postit.md",
+    "topic": "moya_bezopasnost_v_seti",
+    "aliases": [
+      "chto mozhno i nelzya postit",
+      "Что можно и нельзя постить",
+      "безопасность",
+      "пост",
+      "публикация",
+      "фото"
+    ]
+  },
+  {
+    "slug": "kiberbulling",
+    "title": "Кибербуллинг: что делать, если травят",
+    "target": "ya_i_cifrovoy_mir/moya_bezopasnost_v_seti/concepts/kiberbulling.md",
+    "topic": "moya_bezopasnost_v_seti",
+    "aliases": [
+      "kiberbulling",
+      "Кибербуллинг: что делать, если травят",
+      "жалоба",
+      "кибербуллинг",
+      "помощь",
+      "травля"
+    ]
+  },
+  {
+    "slug": "opasnye_znakomstva_v_seti",
+    "title": "Опасные знакомства в сети",
+    "target": "ya_i_cifrovoy_mir/moya_bezopasnost_v_seti/concepts/opasnye_znakomstva_v_seti.md",
+    "topic": "moya_bezopasnost_v_seti",
+    "aliases": [
+      "opasnye znakomstva v seti",
+      "Опасные знакомства в сети",
+      "доверие",
+      "знакомства",
+      "обман",
+      "опасность"
+    ]
+  },
+  {
+    "slug": "nastroyki_privatnosti",
+    "title": "Настройки приватности: как защититься",
+    "target": "ya_i_cifrovoy_mir/moya_bezopasnost_v_seti/concepts/nastroyki_privatnosti.md",
+    "topic": "moya_bezopasnost_v_seti",
+    "aliases": [
+      "nastroyki privatnosti",
+      "Настройки приватности: как защититься",
+      "защита",
+      "настройки",
+      "приватность",
+      "профиль"
+    ]
+  },
+  {
+    "slug": "cifrovoi_sled",
+    "title": "Цифровой след: увидят ли внуки мои фото",
+    "target": "ya_i_cifrovoy_mir/moya_bezopasnost_v_seti/concepts/cifrovoi_sled.md",
+    "topic": "moya_bezopasnost_v_seti",
+    "aliases": [
+      "cifrovoi sled",
+      "Цифровой след: увидят ли внуки мои фото",
+      "память интернета",
+      "репутация",
+      "фото",
+      "цифровой след"
+    ]
+  },
+  {
+    "slug": "zhizn_onlayn_i_v_reale",
+    "title": "Жизнь в онлайне и в реале — где я больше",
+    "target": "ya_i_cifrovoy_mir/moya_realnost_i_virtualnost/concepts/zhizn_onlayn_i_v_reale.md",
+    "topic": "moya_realnost_i_virtualnost",
+    "aliases": [
+      "zhizn onlayn i v reale",
+      "Жизнь в онлайне и в реале — где я больше",
+      "баланс",
+      "время",
+      "онлайн",
+      "оффлайн"
+    ]
+  },
+  {
+    "slug": "virtualnaya_lichnost",
+    "title": "Виртуальная личность: я или не я",
+    "target": "ya_i_cifrovoy_mir/moya_realnost_i_virtualnost/concepts/virtualnaya_lichnost.md",
+    "topic": "moya_realnost_i_virtualnost",
+    "aliases": [
+      "virtualnaya lichnost",
+      "Виртуальная личность: я или не я",
+      "виртуальная личность",
+      "образ",
+      "профиль",
+      "самопрезентация"
+    ]
+  },
+  {
+    "slug": "znakomstva_v_seti_i_v_zhizni",
+    "title": "Знакомства в сети vs в жизни",
+    "target": "ya_i_cifrovoy_mir/moya_realnost_i_virtualnost/concepts/znakomstva_v_seti_i_v_zhizni.md",
+    "topic": "moya_realnost_i_virtualnost",
+    "aliases": [
+      "znakomstva v seti i v zhizni",
+      "Знакомства в сети vs в жизни",
+      "доверие",
+      "знакомство",
+      "общение",
+      "онлайн"
+    ]
+  },
+  {
+    "slug": "strah_propustit_chto_to_fomo",
+    "title": "Страх пропустить что-то (FOMO)",
+    "target": "ya_i_cifrovoy_mir/moya_realnost_i_virtualnost/concepts/strah_propustit_chto_to_fomo.md",
+    "topic": "moya_realnost_i_virtualnost",
+    "aliases": [
+      "FOMO",
+      "strah propustit chto to fomo",
+      "Страх пропустить что-то (FOMO)",
+      "соцсети",
+      "сравнение",
+      "тревога"
+    ]
+  },
+  {
+    "slug": "kak_druzhit_oflayn_kogda_privyk_online",
+    "title": "Как дружить офлайн, когда привык онлайн",
+    "target": "ya_i_cifrovoy_mir/moya_realnost_i_virtualnost/concepts/kak_druzhit_oflayn_kogda_privyk_online.md",
+    "topic": "moya_realnost_i_virtualnost",
+    "aliases": [
+      "kak druzhit oflayn kogda privyk online",
+      "Как дружить офлайн, когда привык онлайн",
+      "дружба",
+      "общение",
+      "оффлайн",
+      "привычка"
+    ]
+  },
+  {
+    "slug": "kak_prodlit_zhizn_telefonu_i_noutbuku",
+    "title": "Как продлить жизнь телефону/ноутбуку",
+    "target": "ya_i_cifrovoy_mir/moya_tehnika/concepts/kak_prodlit_zhizn_telefonu_i_noutbuku.md",
+    "topic": "moya_tehnika",
+    "aliases": [
+      "kak prodlit zhizn telefonu i noutbuku",
+      "Как продлить жизнь телефону/ноутбуку",
+      "аккумулятор",
+      "ноутбук",
+      "смартфон",
+      "уход"
+    ]
+  },
+  {
+    "slug": "chto_delat_esli_slomalos",
+    "title": "Что делать, если сломалось",
+    "target": "ya_i_cifrovoy_mir/moya_tehnika/concepts/chto_delat_esli_slomalos.md",
+    "topic": "moya_tehnika",
+    "aliases": [
+      "chto delat esli slomalos",
+      "Что делать, если сломалось",
+      "безопасность",
+      "диагностика",
+      "поломка",
+      "ремонт"
+    ]
+  },
+  {
+    "slug": "kak_sobrat_igrovoy_komp",
+    "title": "Как собрать игровой комп",
+    "target": "ya_i_cifrovoy_mir/moya_tehnika/concepts/kak_sobrat_igrovoy_komp.md",
+    "topic": "moya_tehnika",
+    "aliases": [
+      "kak sobrat igrovoy komp",
+      "Как собрать игровой комп",
+      "игровой компьютер",
+      "комплектующие",
+      "производительность",
+      "сборка"
+    ]
+  },
+  {
+    "slug": "kakaya_tekhnika_nuzhna_v_tvoey_oblasti_interesov",
+    "title": "Какая техника нужна в твоей области интересов",
+    "target": "ya_i_cifrovoy_mir/moya_tehnika/concepts/kakaya_tekhnika_nuzhna_v_tvoey_oblasti_interesov.md",
+    "topic": "moya_tehnika",
+    "aliases": [
+      "kakaya tekhnika nuzhna v tvoey oblasti interesov",
+      "Какая техника нужна в твоей области интересов",
+      "выбор",
+      "задачи",
+      "интересы",
+      "техника"
+    ]
+  },
+  {
+    "slug": "poleznye_prilozheniya_ne_tolko_igry",
+    "title": "Полезные приложения (не только игры)",
+    "target": "ya_i_cifrovoy_mir/moya_tehnika/concepts/poleznye_prilozheniya_ne_tolko_igry.md",
+    "topic": "moya_tehnika",
+    "aliases": [
+      "poleznye prilozheniya ne tolko igry",
+      "Полезные приложения (не только игры)",
+      "обучение",
+      "планирование",
+      "полезные сервисы",
+      "приложения"
+    ]
+  },
+  {
+    "slug": "remont_svoimi_rukami",
+    "title": "Ремонт своими руками — это реально",
+    "target": "ya_i_cifrovoy_mir/moya_tehnika/concepts/remont_svoimi_rukami.md",
+    "topic": "moya_tehnika",
+    "aliases": [
+      "remont svoimi rukami",
+      "Ремонт своими руками — это реально",
+      "безопасность",
+      "инструменты",
+      "опыт",
+      "ремонт"
+    ]
+  },
+  {
+    "slug": "apgreyd_kogda_pora_menyat",
+    "title": "Апгрейд: когда пора менять",
+    "target": "ya_i_cifrovoy_mir/moya_tehnika/concepts/apgreyd_kogda_pora_menyat.md",
+    "topic": "moya_tehnika",
+    "aliases": [
+      "apgreyd kogda pora menyat",
+      "Апгрейд: когда пора менять",
+      "апгрейд",
+      "замена",
+      "память",
+      "производительность"
+    ]
+  }
+]

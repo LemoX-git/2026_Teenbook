@@ -1,8 +1,8 @@
 {
   "topic": "Моя реальность/виртуальность",
-  "status": "template_for_real_export",
-  "source": "WikiData",
-  "note": "Этот файл — честный шаблон. Его нужно заменить на реальную выгрузку после запуска запросов.",
+  "topic_slug": "moya_realnost_i_virtualnost",
+  "generated_at": "2026-03-27T16:12:47.019154+00:00",
+  "endpoint": "https://query.wikidata.org/sparql",
   "seed_labels": [
     "virtual community",
     "social network",
@@ -10,25 +10,69 @@
     "fear of missing out",
     "interpersonal relationship"
   ],
-  "suggested_queries": [
-    "QUERY_FIND_BY_LABEL",
-    "QUERY_EXPAND_CLASS_TREE",
-    "QUERY_LOCAL_GRAPH"
-  ],
-  "expected_fields": [
-    "item",
-    "itemLabel",
-    "propLabel",
-    "relatedLabel"
-  ],
-  "sample_manual_rows": [
+  "queries": [
     {
-      "label": "virtual community",
-      "why_useful": "может стать отправной точкой для построения графа"
+      "topic_slug": "moya_realnost_i_virtualnost",
+      "topic_title": "Моя реальность/виртуальность",
+      "query_name": "find_by_label",
+      "const_name": "QUERY_FIND_BY_LABEL",
+      "status": "success",
+      "row_count": 9,
+      "raw_file": "wikidata\\find_by_label.raw.json",
+      "normalized_file": "wikidata\\find_by_label.normalized.json",
+      "skipped_reason": null,
+      "error": null,
+      "started_at": "2026-03-27T16:12:35.669947+00:00",
+      "finished_at": "2026-03-27T16:12:36.043635+00:00"
     },
     {
-      "label": "social network",
-      "why_useful": "подходит как второе стартовое понятие"
+      "topic_slug": "moya_realnost_i_virtualnost",
+      "topic_title": "Моя реальность/виртуальность",
+      "query_name": "expand_class_tree",
+      "const_name": "QUERY_EXPAND_CLASS_TREE",
+      "status": "success",
+      "row_count": 150,
+      "raw_file": "wikidata\\expand_class_tree.raw.json",
+      "normalized_file": "wikidata\\expand_class_tree.normalized.json",
+      "skipped_reason": null,
+      "error": null,
+      "started_at": "2026-03-27T16:12:37.044291+00:00",
+      "finished_at": "2026-03-27T16:12:37.936298+00:00"
+    },
+    {
+      "topic_slug": "moya_realnost_i_virtualnost",
+      "topic_title": "Моя реальность/виртуальность",
+      "query_name": "local_graph",
+      "const_name": "QUERY_LOCAL_GRAPH",
+      "status": "success",
+      "row_count": 49,
+      "raw_file": "wikidata\\local_graph.raw.json",
+      "normalized_file": "wikidata\\local_graph.normalized.json",
+      "skipped_reason": null,
+      "error": null,
+      "started_at": "2026-03-27T16:12:38.936844+00:00",
+      "finished_at": "2026-03-27T16:12:40.210108+00:00"
+    },
+    {
+      "topic_slug": "moya_realnost_i_virtualnost",
+      "topic_title": "Моя реальность/виртуальность",
+      "query_name": "reverse_graph",
+      "const_name": "QUERY_REVERSE_GRAPH",
+      "status": "success",
+      "row_count": 200,
+      "raw_file": "wikidata\\reverse_graph.raw.json",
+      "normalized_file": "wikidata\\reverse_graph.normalized.json",
+      "skipped_reason": null,
+      "error": null,
+      "started_at": "2026-03-27T16:12:41.210776+00:00",
+      "finished_at": "2026-03-27T16:12:46.018606+00:00"
     }
-  ]
+  ],
+  "totals": {
+    "planned": 4,
+    "success": 4,
+    "empty": 0,
+    "skipped": 0,
+    "error": 0
+  }
 }

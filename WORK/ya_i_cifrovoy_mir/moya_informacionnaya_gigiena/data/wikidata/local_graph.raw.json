@@ -1,0 +1,3698 @@
+{
+  "head": {
+    "vars": [
+      "item1",
+      "item1Label",
+      "p",
+      "propLabel",
+      "item2",
+      "item2Label"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12581"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42058444"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тролль"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тролль в художественном произведении"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12581"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тролль"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2579"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10334763"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "изучается в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "цифровые медиа"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1909"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13579947"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "побочный эффект"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ложная информация"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12581"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2341"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21195"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тролль"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "происходит из"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Скандинавия"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13579947"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11028"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ложная информация"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "информация"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13579947"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q29485"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ложная информация"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ошибка"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13579947"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1269"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11024"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ложная информация"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общение"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55071871"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55070019"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "бот"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "особенность компьютерной игры"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2579"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q97008347"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "изучается в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "наука о взаимодействиях"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7845160"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13581004"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "troll"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "гиганты"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13579947"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27949697"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ложная информация"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "причина нерекомендуемости в Викибазе"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2579"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q165650"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "изучается в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "медиаведение"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7845160"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1441"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5447244"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "troll"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "представлено в работе"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Fiend Folio"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P138"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12581"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "названо в честь"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тролль"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q554950"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1424"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27929177"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "рекомендательная система"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основной шаблон по теме"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Шаблон:Рекомендательные системы"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13579947"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P460"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17949"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ложная информация"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "предположительно одно и то же с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ложь"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121132955"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вид СМИ"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17215099"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P527"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5586416"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "состоит из"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Тосиюки Тэруя"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P3095"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2296674"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "практикуется"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "SMM-специалист"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q268592"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "отрасль экономики"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q483394"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "жанр"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q340169"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "медиа"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1047113"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "специальность"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5869"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19916"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "модельный элемент"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tagesthemen"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2579"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q345367"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "изучается в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальный"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q554950"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6031077"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "рекомендательная система"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "система фильтрации информации"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7845160"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1080"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18042601"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "troll"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "из вымышленного мира"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вселенная Dungeons & Dragons"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8187769"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "экономическая деятельность"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1909"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18205863"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "побочный эффект"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "кетфишинг"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q823267"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1080"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26181639"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Тролли"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "из вымышленного мира"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "мир Warcraft"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13579947"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138303935"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ложная информация"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "type of information"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7845160"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1441"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3356338"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "troll"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "представлено в работе"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Dungeons & Dragons (original edition)"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20894394"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Социальные сети"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2579"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q727825"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "изучается в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "медиасоциология"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q554950"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P366"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q63241860"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "рекомендательная система"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "используется как/для/при/в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "стриминговый сервис"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q554950"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P910"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8639174"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "рекомендательная система"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общая категория по теме"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Category:Recommender systems"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7845160"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1080"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q853499"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "troll"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "из вымышленного мира"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Forgotten Realms"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q115460164"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-пользователь"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7845160"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1441"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5315178"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "troll"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "представлено в работе"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Dungeons & Dragons Expert Set, Cook version"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13579947"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q105952144"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ложная информация"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "информационная опасность"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7845160"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P4584"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3356338"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "troll"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "первое появление"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Dungeons & Dragons (original edition)"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17215099"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18510489"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "труппа комиков"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13579947"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P11738"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59555084"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ложная информация"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обрабатывается, смягчается или управляется"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "проверка фактов"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7845160"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1441"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6902651"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "troll"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "представлено в работе"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Monster & Treasure Assortment"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2267705"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тема исследования"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q386724"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "произведение"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5008"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6173448"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "рабочий список проекта Викимедиа"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Википедия:Список статей, которые должны быть во всех языковых версиях/10000"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17215099"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P495"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "страна происхождения"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Япония"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1344569"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "шутник"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q823267"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15839082"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Тролли"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "раса в Варкрафте"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13579947"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P11738"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q105047006"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ложная информация"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обрабатывается, смягчается или управляется"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "misinformation correction"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q29721614"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P703"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q130888"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "bot"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обнаружен в таксоне"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Drosophila melanogaster"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q823267"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21192438"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Тролли"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вымышленный вид"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q176845"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Vest"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13579947"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q111175123"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ложная информация"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Малинформация"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P910"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6893208"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общая категория по теме"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Category:Social media"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q554950"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "рекомендательная система"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5707594"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новостная статья"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q823267"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42058444"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Тролли"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тролль в художественном произведении"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7845160"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1441"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1375"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "troll"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "представлено в работе"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Dungeons & Dragons"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q29721614"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7187"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "bot"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ген"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13579947"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q100151658"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ложная информация"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "режим отказа"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13579947"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121757905"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ложная информация"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обманная техника общения"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7845160"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42058444"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "troll"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тролль в художественном произведении"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q554950"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P366"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108704339"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "рекомендательная система"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "используется как/для/при/в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "автоматизированное принятие решений"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13579947"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P527"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q189656"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ложная информация"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "состоит из"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "дезинформация"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13579947"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q189656"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ложная информация"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "дезинформация"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1343"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q61070632"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "описывается в источнике"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Basque Literature Terms Dictionary"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4325628"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Новости"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13579947"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5313720"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ложная информация"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "упрощение"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P3095"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q270389"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "практикуется"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ведущий новостей"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12581"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1441"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q205882"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тролль"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "представлено в работе"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Младшая Эдда"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q268592"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "отрасль экономики"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q823267"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P144"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12581"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Тролли"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "создано на основе"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тролль"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13579947"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110314665"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ложная информация"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тип ошибки"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12581"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16513904"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тролль"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "персонаж германо-скандинавской мифологии"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5869"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q185815"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "модельный элемент"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Zeit im Bild"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P910"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8551768"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общая категория по теме"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Категория:Троллинг"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1172284"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "набор данных"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1151"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4597488"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "портал Викимедиа"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Портал:Текущие события"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12581"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P460"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210053"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тролль"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "предположительно одно и то же с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ётун"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13579947"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5008"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q87748614"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ложная информация"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "рабочий список проекта Викимедиа"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Проект:Ковид"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13579947"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1542"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1401274"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ложная информация"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вызывает"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "эффект ложной информации"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q554950"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1535"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q689141"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "рекомендательная система"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "находится в пользовании у"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Spotify"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q554950"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1535"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q907311"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "рекомендательная система"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "находится в пользовании у"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Netflix"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12737077"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "род занятий"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107307154"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное пространство"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7845166"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8102"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "troll"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сленг"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P3095"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106595127"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "практикуется"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media specialist"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q554950"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4485156"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "рекомендательная система"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "функциональность"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q115667438"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q115666783"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "bot"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "MediaWiki user right"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15961987"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "телевизионный жанр"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1343"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131935072"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "описывается в источнике"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Red Blue Translator"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7845160"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1441"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q64596999"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "troll"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "представлено в работе"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Dungeons & Dragons Basic Set, Holmes version"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7845160"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1441"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q64597405"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "troll"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "представлено в работе"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Advanced Dungeons & Dragons (1st edition)"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7845160"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1441"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q64620925"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "troll"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "представлено в работе"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Advanced Dungeons & Dragons (2nd edition)"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2283"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q75"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "использует"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Интернет"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7845160"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107765406"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "troll"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "монстр в Dungeons & Dragons"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12581"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P460"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4466392"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тролль"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "предположительно одно и то же с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "турсы"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17215099"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q231000"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "News"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P910"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7019904"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общая категория по теме"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Категория:Новости"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12581"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24534061"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тролль"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "type": "literal",
+          "value": "Q24534061"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5008"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6173448"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "рабочий список проекта Викимедиа"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Википедия:Список статей, которые должны быть во всех языковых версиях/10000"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12581"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1441"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q940563"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тролль"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "представлено в работе"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Прорицание вёльвы"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7845160"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1441"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112201671"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "troll"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "представлено в работе"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Monster Manual (1st ed.)"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9372383"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Wiadomości"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11024"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общение"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15961983"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "радиожанр"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7845160"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1441"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q113800537"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "troll"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "представлено в работе"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Forgotten Realms Campaign Set"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7845160"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1441"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q113987254"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "troll"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "представлено в работе"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Monstrous Compendium Volume One"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P425"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q64737274"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сфера деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "троллинг"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12581"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тролль"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13579947"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1343"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131935072"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ложная информация"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "описывается в источнике"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Red Blue Translator"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12581"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P361"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3039796"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тролль"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "нордский фольклор"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q340169"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "медиа"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q554950"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1269"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2374463"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "рекомендательная система"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "наука о данных"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q554950"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P366"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q241317"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "рекомендательная система"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "используется как/для/при/в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная платформа"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1909"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q189656"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "побочный эффект"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "дезинформация"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13579947"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1343"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q133280502"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ложная информация"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "описывается в источнике"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Information and Misinformation"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12581"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P910"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6371780"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тролль"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общая категория по теме"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Категория:Тролли"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q823267"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1569167"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Тролли"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "персонаж компьютерной игры"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2715623"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальная сеть"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104652479"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q628523"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сообщение"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17215099"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P527"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11479000"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "состоит из"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Хироки Кавата"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104652479"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q234460"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "текст"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12581"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27863646"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тролль"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "мифический народ"
+        }
+      }
+    ]
+  }
+}

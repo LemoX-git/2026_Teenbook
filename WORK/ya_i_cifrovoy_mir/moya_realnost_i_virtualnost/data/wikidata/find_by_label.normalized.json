@@ -1,0 +1,92 @@
+[
+  {
+    "label": "virtual community",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q14164801",
+    "item__type": "uri",
+    "itemLabel": "virtual community",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "en"
+  },
+  {
+    "label": "virtual community",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q14578196",
+    "item__type": "uri",
+    "itemLabel": "virtual community",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "en"
+  },
+  {
+    "label": "virtual community",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q14579013",
+    "item__type": "uri",
+    "itemLabel": "virtual community",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "en"
+  },
+  {
+    "label": "virtual community",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q210980",
+    "item__type": "uri",
+    "itemLabel": "виртуальное сообщество",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "fear of missing out",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q16753510",
+    "item__type": "uri",
+    "itemLabel": "Боязнь пропустить интересное",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "social network",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q2715623",
+    "item__type": "uri",
+    "itemLabel": "социальная сеть",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "social network",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q17164759",
+    "item__type": "uri",
+    "itemLabel": "social network",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "en"
+  },
+  {
+    "label": "interpersonal relationship",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q223642",
+    "item__type": "uri",
+    "itemLabel": "межличностные отношения",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "online identity",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q1091147",
+    "item__type": "uri",
+    "itemLabel": "сетевая идентичность",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  }
+]

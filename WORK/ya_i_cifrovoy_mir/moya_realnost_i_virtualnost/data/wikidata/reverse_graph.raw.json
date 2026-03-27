@@ -1,0 +1,5767 @@
+{
+  "head": {
+    "vars": [
+      "item1",
+      "item1Label",
+      "p",
+      "propLabel",
+      "item2",
+      "item2Label"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56408541"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Què llegeixes?"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107238711"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "BibChatDe"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q84433932"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Alexa Answers"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q125465130"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P178"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Викилямбда"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "разработчик"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q75852220"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "DebateArt"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108463381"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "peer-production community"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q114444599"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "network state"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10316480"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lasuni"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121993027"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121993027"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104775895"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q104775895"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104413574"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "RetroAchievements"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10593758"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q10593758"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28043977"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Wikidebate"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30945873"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q30945873"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q63346800"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Colectivo Indomable"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55290870"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Tezos"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q43256019"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kialo"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q45341906"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "LibreHealth"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19801308"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Our Airports"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27950627"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Moviepilot"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22906846"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "MGTOW"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q111446750"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sedition Hunters"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11864372"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "ii2"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21504930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ladinokomunita"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q123238328"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Союз татарских порталов"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10525087"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Hogwarts.nu"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17034877"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "LocalWiki"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138610705"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q138610705"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18511644"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "IRC-сервер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10719919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Whoa.nu"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q136698902"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "InTheRooms"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117191304"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "circles UBI system for communities"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102018972"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Anita L. Blanchard"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q124618885"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "dyne foundation"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q123554774"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "online conspiracy ecosystem"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21831105"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "WikiCite"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q85029180"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Виртуальная нация"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/L740736-S1"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5137"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "L740736-S1"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "элемент для значения"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12308776"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Dkbn"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28401290"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Сообщество файтингов"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131343097"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P178"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Wikibase Suite"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "разработчик"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16252636"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P452"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Imedexchange"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "отрасль"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104184744"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Красавица и дракон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q111640294"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q111640294"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q113558980"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "RoAPI project"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51213808"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1479"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "QAnon"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "способствовавшим фактором является"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q115789306"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Twitter community"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q123229574"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bibliotheks- und InformationswissenschaftlerInnen in der Twittersphäre: Gekürzte und überarbeitete Fassung einer Bachelorarbeit"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59591008"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Faces"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15801523"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Диссернет"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q111892196"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Google Developer Student Clubs"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108052404"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q108052404"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q99738163"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Badboll"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56035565"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Сообщество Викимедиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110245173"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Libre Wiki"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16465919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "community website"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q125018717"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1479"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "transvestigation"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "способствовавшим фактором является"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q111640308"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q111640308"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q96981414"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "GNU Radio Mailing List"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q136002736"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Vicilook"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10851730"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "MozTW"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q130282487"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Peds-A-Palooza"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131457430"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "GSOM Family"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108806579"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q108806579"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16577004"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P178"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "iDempiere"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "разработчик"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q122731820"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q122731820"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q125700098"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cyber Sufis: Virtual Expressions of the American Muslim Experience"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10840017"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "варез-группа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30754442"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "UBports"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28135300"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Workplace from Meta"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10428826"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q10428826"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18207539"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "scientific collaboration network"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20829800"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Peers Community"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22338760"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "suckless.org"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7978574"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Web community"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q32860495"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "WikiTeam"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q95612951"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Лентач"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10648011"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q10648011"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/L11248-S2"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5137"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "L11248-S2"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "элемент для значения"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9293042"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Mad Pride"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12384507"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q12384507"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/L465191-S1"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5137"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "L465191-S1"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "элемент для значения"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18216860"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "IndieWeb"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q65659302"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "LezWatch.TV"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q124478045"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "WikiBiblioCon"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q77963526"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Startplatz"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118282633"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Speaker Deck"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13512432"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P360"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "list of virtual communities with more than 1 million users"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "в этом списке перечисляются"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q96101495"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Black Girl Gamers"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108943604"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Hugging Face"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108293821"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Positive Romani Stories"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q122532367"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kudoboard"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24909800"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Искусство+Феминизм"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12478418"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Catster"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q113017262"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q113017262"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q115750508"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Сообщество MusicBrainz"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q25245470"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Open Threat Exchange"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121667324"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bettina Zourli"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q111243479"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Art of Gathering"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120358770"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "1911 Encyclopædia Britannica/Mate"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q113154071"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Marian Houser"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112496464"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Christopher Rolfe Agnew"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112544788"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "John Harding"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121297669"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Haley Farrar"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q115180624"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1269"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Relationship violence"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112529116"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q112529116"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112435375"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Klára Mandausová"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118153097"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Derek A. Kreager"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q119505545"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Couple relationships"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q115697328"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pubertat - Secrets, Lies, and Human Castles"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121951483"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121951483"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120616147"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q120616147"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120608080"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lucie Novotná"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121094647"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kathleen McGoey"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120615849"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Clint Pulver"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121951636"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121951636"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120616754"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q120616754"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q119505013"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "взаимоотношения в школьной среде"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120600920"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Johannes Hayers"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121946694"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121946694"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112511779"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Florence Guido-DiBrito"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118727419"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "взаимоотношения сверстников"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121953748"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121953748"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110382634"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "patrocinium"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112612587"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "партнёрские отношения"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121950749"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121950749"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121927503"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121927503"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118640896"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Linda Syllaba"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121953156"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121953156"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121948214"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121948214"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120703669"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Does female breadwinning make partnerships less healthy or less stable?"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112562736"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bonnie Weaver Battey"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121945212"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121945212"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112509768"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Manfred Frigger"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112543412"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q112543412"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112522521"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mary Holmes"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112511235"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Catherine Walker O'Neal"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120615131"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Michaela Tetzeli"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121947474"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121947474"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q119505562"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The use of telepractice in the family and relationship services sector"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112423401"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q112423401"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112542354"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Matthew Ollerton"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q114581842"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Boring Talks"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112536348"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Xavier Cornette de Saint Cyr"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121915820"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121915820"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120601939"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "E. J. Sabino"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q114151744"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "XIX. Solar Sphinx (book)"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q116267880"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Western Training Laboratory"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121954534"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121954534"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120597681"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Andrej Lukonchik"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112503252"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "William K. Rawlins"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120000281"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1269"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "don’t ask, don’t tell"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120610137"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Anela Vlk"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120595931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kim John Payne"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q116977979"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Les inséparables"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121684808"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P180"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nandemo mitsukaru yoru ni kokoro dake ga mitsukaranai"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "изображённый объект"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q116030418"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Around the Sun"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120000391"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1269"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "information exchange in relationships"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121948997"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121948997"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q114049678"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "sonhood"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112541565"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Graham Nuthall"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120609702"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jackson MacKenzie"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112514086"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Teresa Mierzwa"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110255742"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "крёстное родительство"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120600022"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q120600022"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120608083"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sébastien Sery"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112482774"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kathleen McKinney"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q115429801"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Недра Гловер Тавваб"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q119966574"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1269"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "relationship anarchy smorgasbord"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112529937"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mavis Klein"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q119505244"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "взаимоотношения школы и учащихся"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121298670"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "HEALING YOUR BROKEN HEART: 21 Proven Steps To Cope With Heartbreak In Relationship, Recover From Its Pain, And Happily Move On With Your Life"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121947368"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121947368"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q119470467"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "“It depends on what the definition of domestic violence is”: how young Australians conceptualise domestic violence and abuse"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q119470375"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Young people as agents of change in preventing violence against women"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120602604"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Will Bowen"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117399685"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "En villkorad gemenskap. Hbtq, sexualitet och kristen frikyrklighet"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120602496"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Veronika Neumannová"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121953677"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121953677"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121949483"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121949483"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118278087"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Logan Ury"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q119470457"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Reducing relationship and sexual violence: findings from reviews about the effectiveness of respectful relationships and bystander programs in school and tertiary education settings"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112558780"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Alice Vondrová"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118867535"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ann C. Crouter"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121946937"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121946937"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121937490"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121937490"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112541462"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Howard Crowhurst"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120602052"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Zuzana Filipová"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112343916"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Anna-Maija Castrén"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120615301"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Aneta Langrová"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120597212"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q120597212"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120597213"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q120597213"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120601004"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lisa Guinness"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121951305"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121951305"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121942605"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121942605"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q119459779"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Trends in partnering and fertility among the Indigenous population"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121952660"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121952660"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q122010869"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q122010869"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121993022"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121993022"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121995569"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121995569"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        }
+      }
+    ]
+  }
+}

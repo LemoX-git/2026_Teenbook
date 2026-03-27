@@ -1,0 +1,42 @@
+[
+  {
+    "label": "video game",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q56312618",
+    "item__type": "uri",
+    "itemLabel": "видеоигра",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "esports",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q300920",
+    "item__type": "uri",
+    "itemLabel": "киберспорт",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "online game",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q116634",
+    "item__type": "uri",
+    "itemLabel": "онлайн-игра",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "video game",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q7889",
+    "item__type": "uri",
+    "itemLabel": "компьютерная игра",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  }
+]

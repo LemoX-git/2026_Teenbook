@@ -1,8 +1,8 @@
 {
   "topic": "Мои игры",
-  "status": "template_for_real_export",
-  "source": "WikiData",
-  "note": "Этот файл — честный шаблон. Его нужно заменить на реальную выгрузку после запуска запросов.",
+  "topic_slug": "moi_igry",
+  "generated_at": "2026-03-27T16:12:14.482473+00:00",
+  "endpoint": "https://query.wikidata.org/sparql",
   "seed_labels": [
     "video game",
     "esports",
@@ -10,25 +10,69 @@
     "microtransaction",
     "gaming community"
   ],
-  "suggested_queries": [
-    "QUERY_FIND_BY_LABEL",
-    "QUERY_EXPAND_CLASS_TREE",
-    "QUERY_LOCAL_GRAPH"
-  ],
-  "expected_fields": [
-    "item",
-    "itemLabel",
-    "propLabel",
-    "relatedLabel"
-  ],
-  "sample_manual_rows": [
+  "queries": [
     {
-      "label": "video game",
-      "why_useful": "может стать отправной точкой для построения графа"
+      "topic_slug": "moi_igry",
+      "topic_title": "Мои игры",
+      "query_name": "find_by_label",
+      "const_name": "QUERY_FIND_BY_LABEL",
+      "status": "success",
+      "row_count": 4,
+      "raw_file": "wikidata\\find_by_label.raw.json",
+      "normalized_file": "wikidata\\find_by_label.normalized.json",
+      "skipped_reason": null,
+      "error": null,
+      "started_at": "2026-03-27T16:11:15.441003+00:00",
+      "finished_at": "2026-03-27T16:11:15.722796+00:00"
     },
     {
-      "label": "esports",
-      "why_useful": "подходит как второе стартовое понятие"
+      "topic_slug": "moi_igry",
+      "topic_title": "Мои игры",
+      "query_name": "expand_class_tree",
+      "const_name": "QUERY_EXPAND_CLASS_TREE",
+      "status": "success",
+      "row_count": 150,
+      "raw_file": "wikidata\\expand_class_tree.raw.json",
+      "normalized_file": "wikidata\\expand_class_tree.normalized.json",
+      "skipped_reason": null,
+      "error": null,
+      "started_at": "2026-03-27T16:11:16.723370+00:00",
+      "finished_at": "2026-03-27T16:11:22.328804+00:00"
+    },
+    {
+      "topic_slug": "moi_igry",
+      "topic_title": "Мои игры",
+      "query_name": "local_graph",
+      "const_name": "QUERY_LOCAL_GRAPH",
+      "status": "success",
+      "row_count": 142,
+      "raw_file": "wikidata\\local_graph.raw.json",
+      "normalized_file": "wikidata\\local_graph.normalized.json",
+      "skipped_reason": null,
+      "error": null,
+      "started_at": "2026-03-27T16:11:23.329592+00:00",
+      "finished_at": "2026-03-27T16:11:24.697355+00:00"
+    },
+    {
+      "topic_slug": "moi_igry",
+      "topic_title": "Мои игры",
+      "query_name": "reverse_graph",
+      "const_name": "QUERY_REVERSE_GRAPH",
+      "status": "success",
+      "row_count": 200,
+      "raw_file": "wikidata\\reverse_graph.raw.json",
+      "normalized_file": "wikidata\\reverse_graph.normalized.json",
+      "skipped_reason": null,
+      "error": null,
+      "started_at": "2026-03-27T16:11:25.698058+00:00",
+      "finished_at": "2026-03-27T16:12:13.482239+00:00"
     }
-  ]
+  ],
+  "totals": {
+    "planned": 4,
+    "success": 4,
+    "empty": 0,
+    "skipped": 0,
+    "error": 0
+  }
 }

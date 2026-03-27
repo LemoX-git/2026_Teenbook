@@ -1,16 +1,5 @@
 from textwrap import dedent
 
-"""
-SPARQL-запросы для темы: Моя безопасность в сети, приватность, публикация
-
-Как использовать:
-1. Открыть Wikidata Query Service.
-2. Скопировать один из запросов ниже.
-3. При необходимости уточнить seed-метки или заменить их на QID.
-4. Сохранить реальную выгрузку в папку data/.
-
-Фокусные свойства/отношения: instance of, subclass of, has part(s), part of, main subject
-"""
 
 SEED_LABELS = [
     "privacy",
@@ -111,22 +100,6 @@ SELECT DISTINCT ?item1 ?item1Label ?p ?propLabel ?item2 ?item2Label WHERE {
 LIMIT 200
 """)
 
-QUERY_DBPEDIA_LOOKUP = dedent("""
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-SELECT DISTINCT ?item ?label WHERE {
-  VALUES ?label {
-    "privacy"@en
-    "personal data"@en
-    "cyberbullying"@en
-    "social media"@en
-    "digital footprint"@en
-    "phishing"@en
-  }
-  ?item rdfs:label ?label .
-  FILTER(LANG(?label) = "en")
-}
-LIMIT 100
-""")
 
 if __name__ == "__main__":
     for name in [
@@ -134,7 +107,6 @@ if __name__ == "__main__":
         "QUERY_EXPAND_CLASS_TREE",
         "QUERY_LOCAL_GRAPH",
         "QUERY_REVERSE_GRAPH",
-        "QUERY_DBPEDIA_LOOKUP",
     ]:
         print(f"=== {name} ===")
         print(globals()[name])

@@ -1,0 +1,5794 @@
+{
+  "head": {
+    "vars": [
+      "item1",
+      "item1Label",
+      "p",
+      "propLabel",
+      "item2",
+      "item2Label"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3815274"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1382"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "seclusion"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "частично совпадает с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7763978"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Short List"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5164712"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "consumer privacy"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q54870417"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P180"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q54870417"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "изображённый объект"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30593443"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Privacy in Education"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5164712"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1269"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "consumer privacy"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102243100"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jaap Henk Hoepman"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3815274"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P3712"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "seclusion"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "цель проекта или миссии"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30589117"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Digital Content Next"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5164837"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P366"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "contact magazine"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "используется как/для/при/в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13288715"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P971"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Category:Privacy in France"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "категория объединяет темы"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q85764357"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "GrapheneOS"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7246032"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P366"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение неприкосновенности частной жизни"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "используется как/для/при/в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13288713"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P971"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Category:Privacy in Australia"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "категория объединяет темы"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q85764357"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "GrapheneOS"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13288718"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P971"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Category:Privacy in Canada"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "категория объединяет темы"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106699256"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Facebook Container"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q78165023"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "личный аккаунт Steam"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q78680253"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P366"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "protected Twitter account"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "используется как/для/при/в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28136929"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "конфиденциальность генетических данных"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1902129"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Commission for the protection of privacy"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16848217"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Интернет-ассоциация"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8035068"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "workplace privacy"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20343729"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1423"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Template:Privacy"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема шаблона"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7246015"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Privacy Lost"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20826835"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P106"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "idiotes"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "род занятий"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1999831"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "privacy policy"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q54759628"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P180"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Emmanuel Macron's speech at the United States Congress"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "изображённый объект"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q100945634"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Market Snapshot. COVID-19 Contact Tracing: Consumer Perspectives"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60998263"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P3712"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "\"noPolGBbg\" Demonstration Potsdam 10-11-2018"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "цель проекта или миссии"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q96028395"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mauro Conti"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106488865"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q106488865"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13288719"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P971"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Категория:Конфиденциальность в США"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "категория объединяет темы"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20921526"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P12913"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "protection of privacy"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "класс объекта воздействия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50818671"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P3712"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "federated learning"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "цель проекта или миссии"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1808459"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Somebody’s Watching Me"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58370623"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "закрытый профиль"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q91407836"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1269"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "privacy preservation"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58370623"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P366"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "закрытый профиль"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "используется как/для/при/в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68544272"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sushmita Ruj"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60998282"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P3712"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "\"Unheimlich Sicher\" Demonstration"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "цель проекта или миссии"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19296289"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Майкл Бэкес"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19892239"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P3712"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "CoinJoin"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "цель проекта или миссии"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16728031"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chris Hoofnagle"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3397639"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Open Rights Group"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q54864928"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P180"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q54864928"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "изображённый объект"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30685117"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P971"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Category:Privacy in Sweden"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "категория объединяет темы"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59695893"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2650"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "MyData Geneva"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область интересов"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60750379"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual assistant privacy"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q105482677"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Privacy Interest Group"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q65063396"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "neuroprivacy"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27490367"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q27490367"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15957900"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P971"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Category:Privacy in Germany"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "категория объединяет темы"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16731279"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P800"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kenneth C. Laudon"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "известная работа"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21006490"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Minds"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q84713944"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jake Goldenfein"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107088371"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P3712"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Privacy Sandbox"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "цель проекта или миссии"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19902828"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Understanding Privacy"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68970248"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "More Encryption Is Not the Solution: Cryptography as privacy works only if both ends work at it in good faith"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59764480"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Michael Friedewald"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38125851"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Protection of Personal Information Act, 2013"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2351759"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P3712"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Stop1984"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "цель проекта или миссии"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104830162"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P3712"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Global Privacy Control"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "цель проекта или миссии"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60461088"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Manfred Touron"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q96716062"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Journal of Intellectual Freedom and Privacy"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17052099"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "digital privacy"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1865620"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Младший брат"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10949535"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Real-name policy"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60743024"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1269"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "privacy and blockchain"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q66740600"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "HAK_MTL"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7023209"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P301"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Категория:Неприкосновенность личной жизни"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общая тема категории"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4672520"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Access Now"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19867132"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Danielle K. Citron"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2476929"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1382"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "конфиденциальность"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "частично совпадает с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q99687149"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q99687149"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q95120480"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P6477"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "публичный аккаунт"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7002058"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P527"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "психологические границы"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "состоит из"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102078492"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Wei Qi Yan"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q48782440"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "post-mortem privacy"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19902728"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Naked Society"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6417070"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Камера поцелуев"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q105124371"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Die Daten, die ich rief"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102343278"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Zhipeng Cai"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10185347"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P301"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Category:Year of birth nondisclosure"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общая тема категории"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7246021"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Privacy for research participants"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1844938"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "personal message"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q25961579"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P138"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "privacy movement"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "названо в честь"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q100691575"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1269"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Закон о цифровых услугах (ЕС)"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3041219"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Дункан Кэмпбелл"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q76869050"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Queer privacy"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5059580"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Center for Democracy and Technology"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2136141"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Association Electronique Libre"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q99736080"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q99736080"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q85261195"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P547"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "голограмма Сноудена"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "в память о"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q64391859"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Culture(s) Numérique(s) : les cafés vie privée"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q31884708"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1269"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q31884708"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28457028"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Contextual integrity"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20948776"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Marit Hansen"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108735865"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Counteracting Diminished Privacy in an Augmented Reality: Protecting Geolocation Privacy"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108735867"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Decrypting the Fourth Amendment: Applying Fourth Amendment Principles to Evolving Privacy Expectations in Encryption Technologies"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108736803"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Property, Persons, and Institutionalized Police Interdiction in Byrd v. United States"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q133305311"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edoardo Celeste"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q119479672"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Data availability and use: issues paper"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q135098248"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Data Protection and Privacy in South Sudan"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q136323346"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P366"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "camera privacy cover"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "используется как/для/при/в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108735866"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Dark Side of Social Media Romance: Civil Recourse for Catfish Victims"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121987780"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121987780"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131370947"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Law No. 14874 of May 28, 2024"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131729838"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q131729838"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108736781"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Dear Yahoo: A Comment on In Re Yahoo Mail Litigation"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q122294979"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1269"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "privacy washing"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131306672"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P366"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "DuckDuckGo AI Chat"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "используется как/для/при/в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q116752929"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Black Women Under State: Surveillance, Poverty & the Violence of Social Assistance"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q122012552"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q122012552"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q122898859"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jo Ann Oravec"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q119471934"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "My Health Records Amendment (Strengthening Privacy) Bill 2018"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131371289"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Law No. 14132 of March 31, 2021"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q116678812"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1269"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Регламент о предотвращении и противодействии сексуальному насилию над детьми"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118978626"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Ужасная Джоан"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q114705458"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mental privacy"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q136753021"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "VPN Mon Ami"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q122831472"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Katherine O'Keefe"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131371128"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Law No. 14847 of April 25, 2024"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q113564044"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Spanish Association of Privacy Professionals"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108735516"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Outed At School: Student Privacy Rights And Preventing Unwanted Disclosures Of Sexual Orientation"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q124633065"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "W. L. Weinstein"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q135969928"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2650"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Juniper Lovato"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область интересов"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q115449527"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "private website"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q109822700"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "family affair"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q119461606"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Comprehensive revision of the Telecommunications (Interception and Access) Act 1979"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q113003308"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Wikipedia:Remain mysterious"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q123165041"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1269"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "privacy typology (Koops, 2017)"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117304892"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Go Incognito"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131244182"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P366"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "tateshige"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "используется как/для/при/в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q124749157"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "geo-privacy"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/L1370566-S1"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5137"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "L1370566-S1"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "элемент для значения"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108689909"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Balancing the Scales: Reinstating Home Privacy Without  Violence in Indiana"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q119461577"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Eyes in the sky: Inquiry into drones and the regulation of air safety and privacy"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q113866317"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Privacy Studies Journal"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/L1370567-S1"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5137"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "L1370567-S1"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "элемент для значения"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138559613"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "An AI Pattern Language"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138358465"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P828"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kasper v. Pacific Bell Telephone Company"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "причиной является"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q128794231"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P3712"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Coalition Against Stalkerware"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "цель проекта или миссии"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121999416"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121999416"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q137431093"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "National day for the protection of personal data"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q126488424"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "switching.software"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q109627642"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Stephen Bates"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q125691645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Amy Gajda"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112519554"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Addi Rull"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q135096994"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "2020 Niger Law on the Interception of Communications"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108736324"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Balancing Disclosure and Privacy Interests in Campaign Finance"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117788244"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P366"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "undisclosed by choice"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "используется как/для/при/в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q115824031"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1269"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Regulation (EU) 2018/1725"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q122072943"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q122072943"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q122889088"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Xbox One mandatory Kinect sensor controversy"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107123820"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1269"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Data Governance Act"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q122011589"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q122011589"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108564566"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Privacy and smart cities: A Canadian survey"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q132643068"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jan Czarnocki"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121985794"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q121985794"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108736789"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Need for Informed Consent in the Age of Ubiquitous Human Testing"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131191746"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P366"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "kōshi-mado"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "используется как/для/при/в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q124134926"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Wiki-Wetenschappers; Data Protection Impact Assessment (DPIA)"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112345591"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "private Internet forum"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q123295830"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "collective privacy"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112345591"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P366"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "private Internet forum"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "используется как/для/при/в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108735587"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Whose Rights Matter More—Police Privacy or a Defendant’s Right to a Fair Trial?"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q130541359"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P3712"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q130541359"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "цель проекта или миссии"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108689943"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Boundaries of Privacy Harm"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q119461832"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "My Health Record system: final report"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q130356366"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Anu G. Bourgeois"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q135458358"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Zashi"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q137271752"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Known Citizen: A History of Privacy in Modern America"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117816674"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "practical obscurity"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q137342799"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P452"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Opn CoLabs"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "отрасль"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q137920751"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jennifer B. Cox"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q135642166"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Magda Švarcová"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q136753380"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mapping Urban Biodiversity on the Web. Debates, Perceptions, and Engagement (2025 edition)"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q137575626"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "xorsport"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q137770206"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jennifer Pallian"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q136089290"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q136089290"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q136237232"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Danica Radovanović"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q137363210"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P366"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media age restriction"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "используется как/для/при/в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q136752828"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mapping Urban Biodiversity on the Web. Debates, Perceptions, and Engagement"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q136089306"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q136089306"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138649714"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q138649714"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q136159664"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Calum TM Nicholson"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q136375042"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Brooke Erin Duffy"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138660416"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P452"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "8club"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "отрасль"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q136407468"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "David Laufer"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138750011"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Darflen"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q136652777"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Prince Chaala"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q136350726"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Márton Bene"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q137172179"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q137172179"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q136089330"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q136089330"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q137919371"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "JuelDiCamillo"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q137785992"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Katarina Perić"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138675894"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Michal Vondruška"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138282819"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Smash Society"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q136158695"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Wencke Sabrina Schacht"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      }
+    ]
+  }
+}

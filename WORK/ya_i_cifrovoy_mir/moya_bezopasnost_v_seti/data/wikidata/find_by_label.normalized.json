@@ -1,0 +1,72 @@
+[
+  {
+    "label": "social media",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q202833",
+    "item__type": "uri",
+    "itemLabel": "социальные медиа",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "personal data",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q3702971",
+    "item__type": "uri",
+    "itemLabel": "персональные данные",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "cyberbullying",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q494348",
+    "item__type": "uri",
+    "itemLabel": "интернет-травля",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "digital footprint",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q845916",
+    "item__type": "uri",
+    "itemLabel": "цифровой след",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "phishing",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q135005",
+    "item__type": "uri",
+    "itemLabel": "фишинг",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "personal data",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q63981718",
+    "item__type": "uri",
+    "itemLabel": "personal data",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "en"
+  },
+  {
+    "label": "privacy",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q188728",
+    "item__type": "uri",
+    "itemLabel": "неприкосновенность частной жизни",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  }
+]

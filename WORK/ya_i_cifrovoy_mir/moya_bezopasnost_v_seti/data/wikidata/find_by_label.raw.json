@@ -1,0 +1,125 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "itemLabel",
+      "label"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "персональные данные"
+        }
+      },
+      {
+        "label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cyberbullying"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q494348"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-травля"
+        }
+      },
+      {
+        "label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "digital footprint"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q845916"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "цифровой след"
+        }
+      },
+      {
+        "label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "phishing"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q135005"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "фишинг"
+        }
+      },
+      {
+        "label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q63981718"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        }
+      },
+      {
+        "label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "privacy"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неприкосновенность частной жизни"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1435 @@
+{
+  "head": {
+    "vars": [
+      "item1",
+      "item1Label",
+      "p",
+      "propLabel",
+      "item2",
+      "item2Label"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1091147"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P361"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сетевая идентичность"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14164801"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P421"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6985"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "часовой пояс"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "UTC+8:00"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14579013"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P421"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6985"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "часовой пояс"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "UTC+8:00"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2715623"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P910"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5835305"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальная сеть"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общая категория по теме"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Категория:Социальные сети"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14578196"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14578197"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "административно-территориальная единица"
+        },
+        "item2Label": {
+          "type": "literal",
+          "value": "Q14578197"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1091147"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3604202"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сетевая идентичность"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "учётная запись"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2715623"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5008"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6173448"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальная сеть"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "рабочий список проекта Викимедиа"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Википедия:Список статей, которые должны быть во всех языковых версиях/10000"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14164801"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q148"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "государство"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Китай"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14579013"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q148"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "государство"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Китай"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16753510"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P461"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q61927257"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Боязнь пропустить интересное"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "противоположно"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Joy of Missing Out"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14164801"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50231"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "административное деление Китайской Народной Республики"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14579013"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50231"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "административное деление Китайской Народной Республики"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17164759"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q383340"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social network"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "языковое сообщество"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P460"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6576792"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "предположительно одно и то же с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-сообщество"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5008"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6173448"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "рабочий список проекта Викимедиа"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Википедия:Список статей, которые должны быть во всех языковых версиях/10000"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1091147"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1269"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9418"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сетевая идентичность"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "психология"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1091147"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1269"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21201"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сетевая идентичность"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социология"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35127"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сайт"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P910"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7141946"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общая категория по теме"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Категория:Сетевые сообщества"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16753510"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q154430"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Боязнь пропустить интересное"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тревога"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16753510"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1557"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q253405"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Боязнь пропустить интересное"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является воплощением"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "связность"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1091147"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q33104129"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сетевая идентичность"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социологическое понятие"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14164801"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10898932"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "административно-территориальная единица"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Qianhai Subdistrict"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14579013"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P131"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14579014"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "административно-территориальная единица"
+        },
+        "item2Label": {
+          "type": "literal",
+          "value": "Q14579014"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q130324710"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тип отношения"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1424"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20333655"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основной шаблон по теме"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Template:Interpersonal relationships footer"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16753510"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q101244"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Боязнь пропустить интересное"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "акроним"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14578196"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P421"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6985"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "часовой пояс"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "UTC+8:00"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q853725"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общественные отношения"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1424"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7641127"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основной шаблон по теме"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Шаблон:Межличностные отношения"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2715623"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3220391"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальная сеть"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальная сеть"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1382"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q921513"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "частично совпадает с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальное поведение"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5008"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6173448"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "рабочий список проекта Викимедиа"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Википедия:Список статей, которые должны быть во всех языковых версиях/10000"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14578196"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P17"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q148"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "государство"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Китай"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1091147"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q96634632"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сетевая идентичность"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "психологический термин"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2715623"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16334295"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальная сеть"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "группа людей"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5125"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7112715"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обзорная статья Викимедиа"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "outline of relationships"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2715623"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1269"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q149584"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальная сеть"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "теория организаций"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2715623"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2579"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7551269"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальная сеть"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "изучается в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "анализ социальных сетей"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14578196"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50231"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual community"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "административное деление Китайской Народной Республики"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P910"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7237794"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общая категория по теме"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Категория:Межличностные отношения"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1091147"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q844569"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сетевая идентичность"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "идентичность"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2715623"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q211606"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальная сеть"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальная структура"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q177634"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сообщество"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2715623"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальная сеть"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2715623"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15836559"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальная сеть"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpersonal networking"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210980"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131164"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное сообщество"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Веб 2.0"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1343"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q867541"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "описывается в источнике"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Британская энциклопедия, 1910—1911"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2715623"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1424"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19304784"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальная сеть"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основной шаблон по теме"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Template:Social networking"
+        }
+      }
+    ]
+  }
+}

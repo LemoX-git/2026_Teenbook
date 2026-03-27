@@ -1,0 +1,5811 @@
+{
+  "head": {
+    "vars": [
+      "item1",
+      "item1Label",
+      "p",
+      "propLabel",
+      "item2",
+      "item2Label"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1172400"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "оконечное оборудование данных"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P461"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "противоположно"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "аппаратное обеспечение"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1662611"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "информационно-техническая система"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q179310"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вычислительная техника"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2283"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q184550"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "использует"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "механическая энергия"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1781447"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "конфигурация компьютера"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q241317"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная платформа"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17517"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "мобильный телефон"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36253"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "длина"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35059"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ширина"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P527"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2384798"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "состоит из"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "устройство ввода-вывода"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3181395"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "информационный процессор"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P527"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5295"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ноутбук"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "состоит из"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "запоминающее устройство с произвольным доступом"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P6104"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6526225"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "относится к вики-проекту"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Проект:Информационные технологии"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12579633"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "изобретение"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1424"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5616658"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основной шаблон по теме"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Шаблон:Компьютер"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q716676"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "класс компьютеров"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P6104"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15659621"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "относится к вики-проекту"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Проект:Программное обеспечение"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P6104"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15730590"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "относится к вики-проекту"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Проект:Информационные технологии"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2959"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55744235"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "постоянный дубликат"
+        },
+        "item2Label": {
+          "type": "literal",
+          "value": "Q55744235"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P527"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q76824186"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ноутбук"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "состоит из"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "шарнир ноутбука"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P186"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11426"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сделано из"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "металл"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P186"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11474"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сделано из"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "пластмасса"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P186"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11456"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сделано из"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "полупроводник"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P6104"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19604131"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "относится к вики-проекту"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "WikiProject Home Living"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P186"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11469"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сделано из"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "стекло"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5008"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5460604"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "рабочий список проекта Викимедиа"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Википедия:Список статей, которые должны быть во всех языковых версиях"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P6104"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21829808"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "относится к вики-проекту"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Computer hardware task force"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P6104"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21829810"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "относится к вики-проекту"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Early computers task force"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5008"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6173448"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "рабочий список проекта Викимедиа"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Википедия:Список статей, которые должны быть во всех языковых версиях/10000"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P910"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6061304"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общая категория по теме"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Категория:Компьютеры"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5125"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7112590"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обзорная статья Викимедиа"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "outline of computers"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11019"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "машина"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P527"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q250"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "состоит из"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная клавиатура"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P527"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "состоит из"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P527"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "состоит из"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "аппаратное обеспечение"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P527"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5300"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "состоит из"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "центральный процессор"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5290"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "монитор"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2579"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21198"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "изучается в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "информатика"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2283"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11650"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "использует"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "электроника"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P527"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q267298"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ноутбук"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "состоит из"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "батарея"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2283"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12725"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "использует"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "электричество"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5300"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "центральный процессор"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P527"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q193395"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ноутбук"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "состоит из"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "запоминающее устройство"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1419"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1532758"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ноутбук"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "имеет форму"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "раскладушка"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2789"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1233773"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ноутбук"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "соединяется с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "док-станция"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P527"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q494756"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "состоит из"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "данные"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P6104"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8485882"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "относится к вики-проекту"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Проект:Компьютерные игры"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q128751"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "исходный код"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q63981612"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "продуктовая категория"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2424752"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "продукт"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104851"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "встроенное программное обеспечение"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23808"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интерфейс"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4485156"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "функциональность"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P6104"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9497549"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "относится к вики-проекту"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Проект:Технологии"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12774177"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "средство"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P527"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q165233"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ноутбук"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "состоит из"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сетевая плата"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P361"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1194864"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "EDA"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1307327"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "software testability"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P6104"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15884720"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "относится к вики-проекту"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Проект:Инженерное дело"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1820120"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ноутбук"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "переносной компьютер"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1412670"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "качество программного обеспечения"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P6104"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21830857"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "относится к вики-проекту"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Проект:Системы"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11019"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "машина"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1067263"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "информационная бытовая электроника"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3589038"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "толщина"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q31087"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "электронный калькулятор"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2297604"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Software (группа)"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17155032"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тип программного обеспечения"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q123588392"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тип инструмента"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16917685"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ноутбук"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "мобильный компьютер"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1151"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15021033"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "портал Викимедиа"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Портал:Программное обеспечение"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q581105"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ноутбук"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "бытовая электроника"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1542"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1192297"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вызывает"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подрывные инновации"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17537576"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "творческая работа"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12579633"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ноутбук"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "изобретение"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1148887"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ноутбук"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "форм-фактор компьютерной техники"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P737"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6719084"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "оказали влияние"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "MUSASINO-1"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11253473"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "умное устройство"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q162768"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "карманный персональный компьютер"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19723451"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "модель смартфона"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1424"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5621231"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основной шаблон по теме"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Шаблон:Программа"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12538706"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "разрешение дисплея"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q115517465"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer file location"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2858615"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "электронное устройство"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q846636"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "архитектура программного обеспечения"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P910"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5113858"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ноутбук"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общая категория по теме"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Категория:Ноутбуки"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P910"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4105269"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общая категория по теме"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Категория:Программное обеспечение"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16917685"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "мобильный компьютер"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P527"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q183484"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "состоит из"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "графический процессор"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16338"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ноутбук"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "персональный компьютер"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P527"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q250"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ноутбук"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "состоит из"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная клавиатура"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P527"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5290"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ноутбук"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "состоит из"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "монитор"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P527"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4321"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ноутбук"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "состоит из"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "материнская плата"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1197550"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вычислительная мощность компьютера"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q610398"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "cистема на кристалле"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1963"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P408"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "свойства у этого класса"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "движок"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1963"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P18"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "свойства у этого класса"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "изображение"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1963"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P275"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "свойства у этого класса"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "лицензия"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1963"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P154"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "свойства у этого класса"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "логотип"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1963"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P400"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "свойства у этого класса"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "платформа"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1963"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P943"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "свойства у этого класса"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программист"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1963"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P178"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "свойства у этого класса"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "разработчик"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1963"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P348"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "свойства у этого класса"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "версия"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1963"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1032"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "свойства у этого класса"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "технические средства защиты авторских прав"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1963"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1073"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "свойства у этого класса"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "может создавать файлы формата"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1963"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1072"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "свойства у этого класса"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "читаемый формат файла"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1963"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P306"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "свойства у этого класса"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "операционная система"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1963"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P277"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "свойства у этого класса"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "язык программирования"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1963"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1365"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "свойства у этого класса"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "заменил"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1963"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1366"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "свойства у этого класса"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "заменён на"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1963"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1324"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "свойства у этого класса"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "репозиторий исходного кода"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1963"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1547"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "свойства у этого класса"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "зависит от"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1963"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1482"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "свойства у этого класса"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "метка Stack Exchange"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1963"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1414"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "свойства у этого класса"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "фреймворк GUI"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1963"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1833"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "свойства у этого класса"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "число зарегистрированных участников"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1963"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2078"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "свойства у этого класса"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ссылка на руководство пользователя"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1963"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P407"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "свойства у этого класса"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "язык произведения или названия"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1963"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P571"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "свойства у этого класса"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "дата возникновения"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1963"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P479"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "свойства у этого класса"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "способ ввода"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1963"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P856"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "свойства у этого класса"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "официальный сайт"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P527"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q40056"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "состоит из"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная программа"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P361"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P61"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q46633"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "первооткрыватель или изобретатель"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Чарльз Бэббидж"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47461344"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "письменная работа"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P910"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6483807"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общая категория по теме"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Категория:Смартфоны"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q716676"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ноутбук"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "класс компьютеров"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3283617"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1796687"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "оскорбление действием"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "побои"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5869"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11248"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "модельный элемент"
+        },
+        "item2Label": {
+          "type": "literal",
+          "value": "Q11248"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P6186"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7462480"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "категория-эпоним"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Категория:Категории программного обеспечения"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q267298"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1424"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10806496"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основной шаблон по теме"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Шаблон:Батарея"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q267298"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1344937"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cutoff voltage"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11202952"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28640"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вычислитель"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "профессия"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q267298"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1753139"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "источник питания"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q267298"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q209440"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "гальванический элемент"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q267298"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1977384"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "паспортный ток"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q57306483"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q66050470"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "таблица спряжения для французского глагола"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1796687"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q83267"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "побои"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "преступление"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1796687"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q124490"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "побои"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "насилие"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q267298"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q125517960"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тип электронного компонента"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q267298"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3023293"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "удельная энергия"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1796687"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q267298"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "побои"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "батарея"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1796687"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q365680"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "побои"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "нападение"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1535"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1033951"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "аппаратное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "находится в пользовании у"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "драйвер"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q267298"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q390700"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Номинальное напряжение"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q267298"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3283617"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "оскорбление действием"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q267298"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2184"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3630500"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "история темы"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "история батарей"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104851"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "аппаратное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "встроенное программное обеспечение"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2670"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104851"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "аппаратное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "состоит из представителей класса"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "встроенное программное обеспечение"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q240313"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1343"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q123625363"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "артиллерийская батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "описывается в источнике"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Армянская советская энциклопедия, том 7"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1796687"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11515013"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "побои"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "type": "literal",
+          "value": "Q11515013"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q267298"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5368536"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "state of charge"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q240313"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P361"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3740974"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "артиллерийская батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "артиллерийский батальон"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1796687"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1343"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108732786"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "побои"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "описывается в источнике"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "English-Chinese Dictionary of Anglo-American Law"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q267298"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q828402"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Плотность энергии"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q267298"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P366"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q837718"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "используется как/для/при/в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "хранилище энергии"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11202952"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5008"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60687720"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вычислитель"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "рабочий список проекта Викимедиа"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Проект:Гендерный разрыв в голландской Википедии"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q445019"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4167410"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "software"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "страница значений в проекте Викимедиа"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11202952"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q738142"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вычислитель"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "делопроизводитель"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2184"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q186148"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "аппаратное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "история темы"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "история вычислительной техники"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11202952"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1382"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q326653"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вычислитель"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "частично совпадает с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "бухгалтер"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q267298"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P618"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q82682"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "источник энергии"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "окислительно-восстановительные реакции"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5869"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q698"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "модельный элемент"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Mozilla Firefox"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3283617"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q81672"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "оскорбление действием"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "попытка убийства"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q267298"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5008"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6173448"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "рабочий список проекта Викимедиа"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Википедия:Список статей, которые должны быть во всех языковых версиях/10000"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3283617"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q25245124"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "оскорбление действием"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "посягательство на личность"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11202952"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P425"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q622821"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вычислитель"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сфера деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вычисление"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2858615"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "аппаратное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "электронное устройство"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1796687"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P155"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q365680"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "побои"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "предыдущее по порядку"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "нападение"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q240313"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30129212"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "артиллерийская батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "артиллерийское подразделение"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1796687"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3283617"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "побои"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "оскорбление действием"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q240313"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1343"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2041543"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "артиллерийская батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "описывается в источнике"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Научная энциклопедия Отто"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q267298"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60229413"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "battery level"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q810930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P361"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q66739595"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "шахматная терминология"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5869"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q94"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "модельный элемент"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Android"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q267298"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1343"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16082057"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "описывается в источнике"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "The New Student's Reference Work"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q267298"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1343"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q602358"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "описывается в источнике"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Энциклопедический словарь Брокгауза и Ефрона, 1890—1907"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q267298"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1343"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19219752"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "описывается в источнике"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Энциклопедический словарь Мейера (1888–1889)"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1424"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5857050"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "аппаратное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основной шаблон по теме"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Шаблон:Оборудование"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5869"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q171477"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "модельный элемент"
+        },
+        "item2Label": {
+          "type": "literal",
+          "value": "Q171477"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5869"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q319417"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "модельный элемент"
+        },
+        "item2Label": {
+          "type": "literal",
+          "value": "Q319417"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q267298"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P910"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8888123"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общая категория по теме"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Категория:Электрические батареи"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11202952"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q207434"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вычислитель"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "человеко-компьютерное взаимодействие"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7397"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2959"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12715472"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "постоянный дубликат"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "программное обеспечение"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1796687"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P910"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7949913"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "побои"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общая категория по теме"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Категория:Побои"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q267298"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56344492"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "артиллерийская батарея"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q811909"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "аппаратное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "технологический компонент"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1424"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6405082"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "аппаратное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основной шаблон по теме"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Шаблон:Компоненты компьютера"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24574728"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "аппаратное обеспечение"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "форм-фактор"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q240313"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1343"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q602358"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "артиллерийская батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "описывается в источнике"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Энциклопедический словарь Брокгауза и Ефрона, 1890—1907"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q240313"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23905071"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "артиллерийская батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "класс военного подразделения по типо-размеру"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q810930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P641"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q718"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вид спорта"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "шахматы"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q240313"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56344492"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "артиллерийская батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "артиллерийская батарея"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2891692"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P641"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5369"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "battery"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вид спорта"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "бейсбол"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11202952"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1269"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2735691"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вычислитель"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "history of computing"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q240313"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P910"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9423294"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "артиллерийская батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общая категория по теме"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Category:Artillery batteries"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11202952"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q372646"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вычислитель"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "феноменальный счётчик"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q267298"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1343"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q867541"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "описывается в источнике"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Британская энциклопедия, 1910—1911"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11202952"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4164871"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вычислитель"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "должность"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q810930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055911"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "батарея"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "шахматная тактика"
+        }
+      }
+    ]
+  }
+}

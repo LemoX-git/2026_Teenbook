@@ -1,0 +1,132 @@
+[
+  {
+    "label": "social media",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q202833",
+    "item__type": "uri",
+    "itemLabel": "социальные медиа",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "attention",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q6501338",
+    "item__type": "uri",
+    "itemLabel": "внимание",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "sleep",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q123859984",
+    "item__type": "uri",
+    "itemLabel": "sleep",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "en"
+  },
+  {
+    "label": "attention",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q4818205",
+    "item__type": "uri",
+    "itemLabel": "attention",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "en"
+  },
+  {
+    "label": "attention",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q4818209",
+    "item__type": "uri",
+    "itemLabel": "attention",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "en"
+  },
+  {
+    "label": "screen time",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q28130149",
+    "item__type": "uri",
+    "itemLabel": "Экранное время",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "attention",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q103701642",
+    "item__type": "uri",
+    "itemLabel": "attention",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "en"
+  },
+  {
+    "label": "sleep",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q1318283",
+    "item__type": "uri",
+    "itemLabel": "sleep",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "en"
+  },
+  {
+    "label": "digital detox",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q18351772",
+    "item__type": "uri",
+    "itemLabel": "цифровой детокс",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "sleep",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q693387",
+    "item__type": "uri",
+    "itemLabel": "sleep",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "sleep",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q4683692",
+    "item__type": "uri",
+    "itemLabel": "sleep()",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "smartphone",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q22645",
+    "item__type": "uri",
+    "itemLabel": "смартфон",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "sleep",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q35831",
+    "item__type": "uri",
+    "itemLabel": "сон",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  }
+]

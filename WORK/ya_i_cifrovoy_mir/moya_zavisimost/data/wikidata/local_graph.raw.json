@@ -1,0 +1,3264 @@
+{
+  "head": {
+    "vars": [
+      "item1",
+      "item1Label",
+      "p",
+      "propLabel",
+      "item2",
+      "item2Label"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P3095"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2296674"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "практикуется"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "SMM-специалист"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q268592"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "отрасль экономики"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q483394"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "жанр"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q340169"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "медиа"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1047113"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "специальность"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P186"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11426"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сделано из"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "металл"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2579"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q345367"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "изучается в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальный"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P186"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11474"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сделано из"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "пластмасса"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P186"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11456"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сделано из"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "полупроводник"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P186"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11469"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сделано из"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "стекло"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1343"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4532138"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "описывается в источнике"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Энциклопедический словарь Гранат"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1343"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q602358"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "описывается в источнике"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Энциклопедический словарь Брокгауза и Ефрона, 1890—1907"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1343"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19085957"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "описывается в источнике"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Американская энциклопедия, 1920"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1343"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19180675"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "описывается в источнике"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Малый энциклопедический словарь Брокгауза и Ефрона"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1269"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12147"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "здоровье"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4818205"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1269"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37038"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "attention"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "реклама"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6501338"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P361"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110620109"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "внимание"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "memory and attention"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q693387"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P361"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1348204"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "sleep"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "GNU Coreutils"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8187769"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "экономическая деятельность"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1909"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18205863"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "побочный эффект"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "кетфишинг"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q123859984"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P136"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q972634"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "sleep"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "жанр"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "африканская популярная музыка"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6501338"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P361"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q77468620"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "внимание"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является частью"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "психологическая терминология"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20894394"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Социальные сети"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18351772"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210978"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "цифровой детокс"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "воздержание"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1343"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q867541"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "описывается в источнике"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Британская энциклопедия, 1910—1911"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2579"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q727825"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "изучается в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "медиасоциология"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6501338"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1542"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q136774336"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "внимание"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вызывает"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "focus"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6501338"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108458"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "внимание"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "медитация"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103701642"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P366"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q192776"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "attention"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "используется как/для/при/в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "искусственная нейронная сеть"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6501338"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2200417"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "внимание"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "познание"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q123859984"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q134556"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "sleep"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сингл"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6501338"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1995"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7867"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "внимание"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "медицинская специальность"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "психиатрия"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103701642"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6501338"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "attention"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "внимание"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q123859984"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P175"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21280581"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "sleep"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "исполнитель"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Adekunle Gold"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2267705"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тема исследования"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103701642"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1557"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6501338"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "attention"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "является воплощением"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "внимание"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5008"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6173448"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "рабочий список проекта Викимедиа"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Википедия:Список статей, которые должны быть во всех языковых версиях/10000"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q123859984"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7302866"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "sleep"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "аудиотрек"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P910"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6893208"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общая категория по теме"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Category:Social media"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1067263"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "информационная бытовая электроника"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3589038"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "толщина"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4683692"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q722192"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "sleep()"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Системный вызов"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6501338"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P460"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1423044"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "внимание"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "предположительно одно и то же с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Концентрация внимания"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1542"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1192297"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вызывает"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подрывные инновации"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1343"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56441911"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "описывается в источнике"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Домашняя энциклопедия, или Словарь фактов и полезных знаний"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28130149"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Экранное время"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q693387"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18343316"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "sleep"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "утилита UNIX"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6501338"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P460"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2275149"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "внимание"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "предположительно одно и то же с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "муракаба"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11253473"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "умное устройство"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q162768"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "карманный персональный компьютер"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1343"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q101314624"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "описывается в источнике"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Бережливая логика"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q693387"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P4810"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47517764"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "sleep"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "использует переменную окружения"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "LANG"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19723451"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "модель смартфона"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18351772"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P366"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47496130"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "цифровой детокс"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "используется как/для/при/в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "уменьшение"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6501338"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P527"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4818236"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "внимание"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "состоит из"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "attentional control"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12538706"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "разрешение дисплея"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1299"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131627560"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "изображается на/в"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Sleeper"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2858615"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "электронное устройство"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4683692"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1269"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9135"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "sleep()"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "операционная система"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6501338"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q781413"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "внимание"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "познавательный процесс"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P461"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q246710"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "противоположно"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "бодрствование"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1343"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106727050"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "описывается в источнике"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Словарь тегов Метрополитен-музея"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1542"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12946962"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вызывает"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "sleeping"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103701642"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P366"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q25325414"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "attention"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "используется как/для/при/в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "нейронная машина Тьюринга"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1299"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131628763"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "изображается на/в"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Sleeping woman"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107307154"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "виртуальное пространство"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16917685"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "мобильный компьютер"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P3095"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106595127"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "практикуется"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media specialist"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1382"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20980706"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "частично совпадает с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "покой"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103701642"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P366"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28324912"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "attention"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "используется как/для/при/в"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "differentiable neural computer"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q610398"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "cистема на кристалле"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2579"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1752583"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "изучается в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Сомнология"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2283"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q75"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "использует"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Интернет"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6501338"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5008"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6173448"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "внимание"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "рабочий список проекта Викимедиа"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Википедия:Список статей, которые должны быть во всех языковых версиях/10000"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q693387"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P4810"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47517765"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "sleep"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "использует переменную окружения"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "LC_ALL"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q693387"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P4810"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47517768"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "sleep"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "использует переменную окружения"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "LC_CTYPE"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q693387"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P4810"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47517769"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "sleep"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "использует переменную окружения"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "LC_MESSAGES"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q693387"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P4810"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47517774"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "sleep"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "использует переменную окружения"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "NLSPATH"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6501338"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1343"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2041543"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "внимание"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "описывается в источнике"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Научная энциклопедия Отто"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1424"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13548500"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основной шаблон по теме"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Шаблон:Сон"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P910"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6483807"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общая категория по теме"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Категория:Смартфоны"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2996394"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "жизнедеятельность"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6501338"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P910"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8275282"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "внимание"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общая категория по теме"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Категория:Внимание"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6501338"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1343"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19219752"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "внимание"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "описывается в источнике"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Энциклопедический словарь Мейера (1888–1889)"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q340169"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "медиа"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6501338"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1343"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20096917"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "внимание"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "описывается в источнике"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Британская энциклопедия (1875—1889)"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1909"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q189656"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "побочный эффект"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "дезинформация"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22299433"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "процесс в многоклеточном организме"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103701642"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P366"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q85810444"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "attention"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "используется как/для/при/в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "трансформер"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17517"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "мобильный телефон"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2715623"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальная сеть"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36253"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "длина"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1552"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35059"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "смартфон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "обладает свойством"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ширина"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P156"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21296557"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "следующее по порядку"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "awakening"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103701642"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1269"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2539"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "attention"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "машинное обучение"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6501338"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1343"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q867541"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "внимание"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "описывается в источнике"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Британская энциклопедия, 1910—1911"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1318283"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "sleep"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сон"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P910"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7012670"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общая категория по теме"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Категория:Сон"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2579"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10334763"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "изучается в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "цифровые медиа"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1909"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13579947"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "побочный эффект"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ложная информация"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5008"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6173448"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "рабочий список проекта Викимедиа"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Википедия:Список статей, которые должны быть во всех языковых версиях/10000"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1343"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1768721"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "описывается в источнике"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Гуцзинь тушу цзичэн"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2579"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q97008347"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "изучается в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "наука о взаимодействиях"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1343"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1970746"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "описывается в источнике"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Толковый словарь В. Даля"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9332"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "поведение"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15788410"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "состояние сознания"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2579"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q165650"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "изучается в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "медиаведение"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q123859984"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P264"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q123859796"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "sleep"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "лейбл звукозаписи"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "afro urban records"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1542"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36348"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сон"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вызывает"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сновидение"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4818209"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1547148"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "attention"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "песенный сигнал"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121132955"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальные медиа"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "вид СМИ"
+        }
+      },
+      {
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103701642"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P366"
+        },
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108281205"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "attention"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "используется как/для/при/в"
+        },
+        "item2Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Perceiver"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,3584 @@
+{
+  "head": {
+    "vars": [
+      "seed",
+      "seedLabel",
+      "related",
+      "relatedLabel",
+      "relation"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104864977"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "CID-201"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q99356246"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Apple One"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q122600977"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q122600977"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q122601145"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q122601145"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q122601244"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q122601244"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q122601314"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q122601314"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q122601859"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q122601859"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3926523"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Toshiba Qosmio"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q123945709"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Терминал для самостоятельного заказа"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131762278"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q131762278"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17770417"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "FREDERIC"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q134498537"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "ER 56"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21654815"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Олимпик"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q97166814"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mansfeld MPC"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q25209376"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "VUK"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5155578"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Compaq Contura"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q65697911"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "G3"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20430779"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "CET 500"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17993355"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Amstrad Sinclair ZX Spectrum"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q127687940"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "IBM PS/2 Model 50"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16082924"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q16082924"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47530327"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Types of computers"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q46998793"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "DP100"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131611425"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nerdminer"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102071241"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "ZX Nucleon 512K"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q123495478"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q123495478"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131674302"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Commodore 64 in the Museo della Scienza e della Tecnologia \"Leonardo da Vinci\""
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131748782"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sinclair ZX Spectrum in Museo scienza tecnologia Milano"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q52152799"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q52152799"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3400854"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "PowerBook 190, PowerBook 190cs"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3400857"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "PowerBook 520c"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108060211"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "SOLO"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q54841571"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "CAB 500 computer - CnAM 22358"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q123915796"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q123915796"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23831218"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Diagram"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16081611"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "SMT Goupil 3"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16114013"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "TRS-716"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16114028"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "TRS 713"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q128601702"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "IBM PS/2 Model 60"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q128602453"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "IBM PS/2 Model 80"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q133306487"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q133306487"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106511763"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q106511763"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q136705862"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Wegematic 1000"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q124418353"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q124418353"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q128904411"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q128904411"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19203304"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Z25"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q128720282"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "IBM PS/2 Model 70"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3400853"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q3400853"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q128790424"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "IBM PS/2 Model 55 SX"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q189611"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Zenith Minisport"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118609774"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Zuse Z22"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18745907"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "EPOS"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q132560637"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Majorana 1"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q83981577"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Gepard computer"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q80061396"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q80061396"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118754402"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Butale infotech"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55442718"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "E-Ball Technology"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q111488100"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q111488100"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138505191"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q138505191"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118976188"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "IGR learning center at Bayero University Kano state"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q116056735"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Machine"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20182750"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cobold"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112628425"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "MicroOffice RoadRunner"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q122601422"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "EC 1025"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q122601169"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tesla 200"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107476723"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q107476723"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16796074"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Microserver"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112679112"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Albert (computer)"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q116055567"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Intel NUC7CJYHN2"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103821919"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Цзючжан"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q134511378"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q134511378"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3738901"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "PowerBook G3 Kanga"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16909315"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "NCR 304"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q125999984"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "XIGMATEK Aquarius Plus"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16980521"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "FatPipe Networks"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q45358488"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q45358488"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q130283505"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q130283505"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17016468"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "IBM 4020 Military Computer"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108045358"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q108045358"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q477700"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pedion"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17081538"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Biological computer"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17091767"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Next Unit of Computing"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18752609"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q18752609"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30015097"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "\"BeeZy\" BG-1000"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30028602"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Logitech LG-10-Musée Bolo"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1486822"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "GRiD Compass"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59248259"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q59248259"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59248267"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q59248267"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q113411819"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ЦИМ-1"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2413691"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "PowerBook Duo 2300c"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23828032"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "CUB"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q135457378"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q135457378"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19841911"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "LLC2"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q135525626"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q135525626"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24964906"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hollerith Electronic Computer"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q134451419"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Telmac"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24035766"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q24035766"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17561375"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "TRASK"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107298458"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "IBM Leapfrog"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q68"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28691839"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q28691839"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q123537536"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Acer Aspire 4752"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer hardware"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q502600"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Amiga Chip RAM"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11251028"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "ThinkPad A series"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11251922"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "UL20A"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q93476932"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Surface Book 3"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer hardware"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3097841"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "доступность компьютера"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer hardware"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2495511"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Universal Audio Architecture"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer hardware"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6964127"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nanoroute"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer hardware"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q184736"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "character generator"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50283603"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "MateBook X"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104857229"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Compaq Armada"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50347624"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "HP Envy X2"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer hardware"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4033611"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "AirPort Express"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer hardware"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4039793"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "HASP"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer hardware"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5153197"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Commodore 64 joystick adapters"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer hardware"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5153200"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Commodore 64 peripherals"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer hardware"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4053436"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Yamaha V9990"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer hardware"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7171593"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "PetaBox"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer hardware"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q647840"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "MagicJack"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer hardware"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q649146"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "IDE64"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer hardware"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30913939"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "KCS Power PC"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer hardware"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q175848"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "microsequencer"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer hardware"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7277804"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "RT.X100"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7392447"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "SPARCbook"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51954707"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q51954707"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer hardware"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7360331"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Roland MPU-IPC-T"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q123421859"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Walkabout"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer hardware"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4036792"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "CyberVision"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q86318494"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "ThinkPad X62"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer hardware"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7418955"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sansa Fuze"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q86347738"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "ThinkPad X120e"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q86348037"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "ThinkPad X200s"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q86348211"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "ThinkPad X201i"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q86350829"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "ThinkPad X61 Tablet"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q86351010"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "ThinkPad X41 Tablet"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q86351210"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "ThinkPad X220 Tablet"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q86351360"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "ThinkPad X240"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q86351468"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "ThinkPad X61"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q86358812"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "ThinkPad X20"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer hardware"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1340308"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "unified threat management"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer hardware"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q909109"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Sega System 16"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q86373875"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "ThinkPad X32"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q86374045"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "ThinkPad X31"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q86374335"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "ThinkPad X220"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer hardware"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1129239"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "контроллер"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer hardware"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q668123"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hard Rectangular Drive"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer hardware"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5514651"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "GScube"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "computer hardware"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3966"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1135572"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "таксометр"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q111915601"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tandy 1400LT"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "laptop"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3962"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18515626"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bobst Graphic Scrib Portable"
+        }
+      }
+    ]
+  }
+}

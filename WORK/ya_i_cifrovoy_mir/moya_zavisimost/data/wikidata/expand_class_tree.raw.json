@@ -1,0 +1,3590 @@
+{
+  "head": {
+    "vars": [
+      "seed",
+      "seedLabel",
+      "related",
+      "relatedLabel",
+      "relation"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138282819"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Smash Society"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138341373"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Voxed"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "sleep"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q124089330"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sleep Hero"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "sleep"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q132047826"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q132047826"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13512376"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "investment in social media"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q355"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Facebook"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117286602"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Страдающее Средневековье"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117349381"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tal Canal"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q114240945"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Stop Gordofobia"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q97659194"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Батрахоспермум"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30950506"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Big Big Channel"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q134776942"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Carlo Social"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138750011"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Darflen"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q126912904"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Arto"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q136646469"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Miin"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15889126"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "МДК"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "sleep"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12411658"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q12411658"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20890402"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Social Web"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4281101"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Марафон"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q115270003"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q115270003"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7551246"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Social media as a public utility"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7551245"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media in the fashion industry"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q124398839"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q124398839"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16964482"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Samsung REX"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q97173495"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taiwan Roadkill Observation Network"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106816453"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q106816453"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q137800736"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Motorola Edge 60 Pro"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q32193244"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "inventaire.io"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q88995163"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "whatoplay"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q137800735"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Vivo X300 Pro"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112406039"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Webstory"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12302245"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Arto"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q115755681"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "LINE VOOM"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55697819"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Neihan Duanzi"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "sleep"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35831"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q134425197"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q134425197"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q137195840"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Travel Bloggers Community"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98907707"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chinese Non-Governmental Organizations Web Archive"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138024207"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Clicks Communicator"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q95612951"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Лентач"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120836241"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q120836241"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q135671455"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Vivo Y400"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q116174988"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Firefish"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q135747965"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Meizu 20 Infinity"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q137575626"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "xorsport"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16927779"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "AMARJIT KUMAR"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4040812"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Huawei Vision"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131573456"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q131573456"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6786983"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mekusharim"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1137514"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Indymedia"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138545935"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Vivo Y300"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q116448810"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "FakeTube"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11994082"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Origo"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56599280"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "CharacTour"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30325521"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "micro.blog"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q116817959"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Capsula Migrante"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117774872"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q117774872"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q488035"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Samsung Wave II"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q617418"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Huawei Ascend W1"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q489846"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Samsung Galaxy 550"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q490110"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Samsung ATIV S"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q490473"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Samsung Galaxy S III mini"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q171819"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "BlackBerry"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q264059"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Samsung Galaxy S"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q492367"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "PRADA LG 3.0"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q492585"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Samsung Galaxy S II LTE"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q492647"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "LG Optimus Chat"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q494226"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "LG GT540"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q494372"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "LG Optimus 4X HD"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q494698"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Samsung Galaxy Note"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q494845"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "LG Optimus 3D"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q494879"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Samsung Galaxy 580"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q495926"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Samsung Galaxy Ace"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q496923"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "LG GW620"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q497247"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Omnia II"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q497751"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "LG Optimus L9"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q498360"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Samsung Galaxy Fit"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q626250"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Samsung SGH-i907"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q628901"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "HTC Artemis"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q76905"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "HTC Windows Phone 8X"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q284505"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "IPAQ"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q631790"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "HTC Touch HD"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q25498"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Samsung Galaxy S Advance"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118523"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Meizu M8"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26228"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "LG Optimus L3"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26230"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "LG Optimus L5"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223895"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Nokia N95"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q524628"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Nokia 5250"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q526252"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Palm Treo"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26851"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Samsung S8000 Jet"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2766"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q2766"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3849"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q3849"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26211"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q26211"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q31384"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q31384"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49047"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q49047"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49054"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q49054"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26984"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Samsung Galaxy Pocket"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27209"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Samsung Galaxy i7500"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49046"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Galaxy Nexus"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49050"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Google Nexus"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49051"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Nexus One"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49052"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Nexus S"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q136473"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ZTE Blade"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q521097"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "фаблет"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q400356"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Sony Xperia J"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q495946"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Samsung Wave"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q553814"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Motorola Droid Pro"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q140944"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Samsung Galaxy S III"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q665229"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "HTC One S"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q185926"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "HTC HD2"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q676153"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Intel AZ210"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q679776"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "HTC 7 Mozart"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q249255"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "HTC Evo 3D"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q250825"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Samsung Galaxy Note II"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q578663"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "HTC HD7"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q580154"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Nokia C5-03"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q580170"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "HTC J Butterfly"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q582165"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Samsung Galaxy S Plus"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q339089"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "HTC Explorer"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q261079"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Sony Xperia U"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q696371"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "HTC One X"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q696618"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "HTC Desire"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q696923"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "HTC Magic"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q697425"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "HTC Sensation"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q698479"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "HTC Legend"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q698826"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "HTC Hero"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q698832"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "HTC Desire HD"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q699268"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "HTC Desire Z"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q348819"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "LG Optimus G"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q263558"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "HTC HD Mini"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q154851"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q154851"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q155668"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q155668"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q287674"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q287674"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q391918"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q391918"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q440947"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q440947"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q488583"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q488583"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q482636"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "LG Optimus 2X"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q482844"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Samsung i8910"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q483084"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Samsung Galaxy Y"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q483475"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Samsung Galaxy Mini"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q483479"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "LG Optimus One"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q483484"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "LG Optimus Black"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q483845"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Samsung Galaxy Gio"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q483987"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "LG Optimus 7"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q484687"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Samsung Galaxy W"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q484691"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Samsung Galaxy Spica"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q548987"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q548987"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q549095"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q549095"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q549272"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q549272"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q485216"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Samsung Omnia 7"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "smartphone"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22645"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q564264"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q564264"
+        }
+      }
+    ]
+  }
+}

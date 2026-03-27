@@ -1,0 +1,3605 @@
+{
+  "head": {
+    "vars": [
+      "seed",
+      "seedLabel",
+      "related",
+      "relatedLabel",
+      "relation"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "troll"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1054235"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Джон Тайтор"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5400982"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Yle News in plain Finnish"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q31294130"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "ANS Press"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18169406"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Splash Fm Ibadan"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q64226035"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Daniel Ellsberg Reveals He was a Nuclear War Planner, Warns of Nuclear Winter & Global Starvation"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q88306915"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Whistle-Blower's Fight For Pension Drags On"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q88309584"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "They sold out the world for an F-16 sale"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q88310866"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "America fails the IQ test"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q88312707"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The man who knew too much"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q88317062"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The spider's stratagem"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q94578896"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bakana Tori"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q91342270"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "AFX News Limited: \"Saudi Arabia working on secret nuclear program with Pakistan help - report\""
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q91342138"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Turkey has U.S. nuclear weapons, Now it says it should be allowed to have some of its own"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q91343477"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Israel ‘is selling nuclear information’ to Saudi Arabia"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q94656763"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Manhattan Mayor, Usha Reddi, suspends Senate campaign"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q97927022"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mail it in: More voters are asking for mail ballots"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q91459264"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Student Plans Complete Nuclear Bomb"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q91478587"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Both Saudi Arabia and the United States Are Probably Guilty of War Crimes in Yemen"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q91521732"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Plutonium is missing, but the government says nothing"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q562578"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Allkpop"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q54988513"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Football: Canada, Mexico and US wins joint bid to host 2026 FIFA World Cup"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q97392531"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q97392531"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28921000"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "El presidente Trump es más popular que el Congreso, los partidos y los medios"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "troll"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12581"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q622108"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Грила"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q88675191"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Antim Vikalp News"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q88728168"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Turkey ban on Wikipedia lifted after court ruling"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23692112"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Racunalo"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98386065"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Revealed: conservative group fighting to restrict voting tied to powerful dark money network"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q61918664"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Game Critic Totalbiscuit Says He's Retiring: 'I Don't Have Long Left'"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98399911"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "What America can learn from Nordic police"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q29207374"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "MicNode News"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q92101761"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Everyone knows the 2020 election will be divisive. But will it also be violent?"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q92133972"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Michael Cohen: ‘I fear’ Trump won’t peacefully give up the White House if he loses the 2020 election"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1799159"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "RTL Regional"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q78243342"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Slovenci v Angliji"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q48792241"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Yen.com.gh"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q78338709"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The flawed social science behind Extinction Rebellion’s change strategy"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5727381"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Musicema"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98754715"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Republican Party Emerges From Decades of Court Supervision"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4736468"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Alternative Press in Nigeria"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17883408"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q17883408"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98786065"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "What alleged voter fraud in Paterson, N.J., tells us about November — and what it doesn’t"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98807374"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "More than 500,000 mail ballots were rejected in the primaries. That could make the difference in battleground states this fall."
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q65127192"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "RTL Direkt"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98834567"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Missouri Amendment 3 receives third ballot title from state Court of Appeals"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98834676"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Missouri court says redistricting plan’s summary language has ‘major problems’"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17960375"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q17960375"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55401885"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Flash"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q78511305"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "A World Free of Nuclear Weapons"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55753212"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "2017 Vodacom Journalist of the Year Awards"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98940324"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "A Coded Word From the Far Right Roils France’s Political Mainstream"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q72200169"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Yeahflix"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98969322"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Frontier Times"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q95767347"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan’s nuclear father, master spy"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "troll"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12581"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1789846"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bøyg"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q95770244"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Man Who Designed Pakistan’s Bomb"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6954975"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "NOV"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "troll"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12581"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2481558"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Fin"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q99306075"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Subscribers, advertisers of some local news outlets could get tax credit under bill in Congress"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q99306310"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Local Journalism Sustainability Act Needs Your Help, Now!"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q99306323"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "U.S. Representatives file Local Journalism Sustainability Act"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q99306399"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Local Journalism Sustainability Act needs your support"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q62625503"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pacifica Settles NYC Tower Dispute"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56220632"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "National winners announced for 2017 Vodacom Journalist of the Year Awards"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q63363018"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q63363018"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q96101853"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "What a deal: Vanderbilt’s new collection on cards and card games"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q96112160"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kansas City councilman, mayoral candidate Quinton Lucas arrested for DUI in Douglas County"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q96112965"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "KC mayor threatens council members with ethics complaints for leaks"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q76854427"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q76854427"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q33112846"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kura-kura Leher Ular Rote Kembali ke Habitat"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56219686"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "GuptaLeaks team wins SA’s biggest journalism award"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56221018"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jacob Zuma Resigns as South Africa’s President"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q99542749"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Missouri Secretary Of State Sued Over Absentee And Mail-In Ballot Rules"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5407507"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q5407507"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56251056"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Coinmarketcap"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q99581649"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Local Journalism Under Siege"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q99658489"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Local Journalism Sustainability Act would encourage subscriptions and discourage layoffs at local newspapers"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q99658549"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Don’t Waste Stimulus Money on Newspapers"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q99676175"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "How to commit mail-in voting fraud (It's nearly impossible)"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27508196"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "XStarsNews"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q96329847"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lynching Victim Memorial Broken Off And Tossed Down Cliff In Kansas City, Missouri"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22080463"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legit.ng"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12165151"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Факты (ICTV)"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2461733"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Bhutan Observer"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q99828406"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "CEO Statement: The News Media Alliance Supports the Local Journalism Sustainability Act"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q63079751"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Small Minority of Protestors Can Cause Big Trouble"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "troll"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q600230"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "веб-бригады"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q63169455"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nuclear Winter Theorists Pull Back"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11236491"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "netkeiba.com"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6966099"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Народные новости Витебска"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q63255981"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nuclear missile base security failed takeover drill"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "troll"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12581"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1715040"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Йоласвейнары"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56756526"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Game-DNA"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q33038920"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q33038920"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7063018"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Noticias Caracol"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q33113982"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q33113982"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30643923"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mwebantu"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50351309"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Angelo Bissessarsingh has died"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q43897916"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tuko.co.ke"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q97341972"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "These 5 things help make sense of North Korea’s nuclear tests and missile launch"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110039788"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q110039788"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102352094"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Dutch Government: Only politics stands in the way of joining the TPNW"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q105583420"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The economic case for regulating social media"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102407368"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Who are Julia and Agathe Cagé, mobilized for Benoît Hamon until the end?"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102423457"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Piketty, Hanotin, Cagé: Benoît Hamon unveils his campaign team"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102426464"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Julia Cagé, economist, \"Information is a public good\""
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102433110"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Julia Cagé has won the Prix Pétrarque de l’Essai France Culture"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q105713470"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Everyone's favorite news site"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102642608"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Julia Cagé as President of the Society of Readers of Le Monde"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102653771"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Press release: Julia Cagé becomes president of the Society of readers of \"Le Monde\""
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102700755"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Un Bout du Monde: For citizen ownership of the media!"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102841103"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "We, economists, support Hollande"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102847660"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "For a primary for the left"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102865192"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Piketty, Méda, Landais ... Economists \"for a credible and daring universal income\""
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102872987"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Who makes up Benoît Hamon's campaign team?"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110953062"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "LASU Radio (95.7)"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102887928"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Julia Cagé, the midwife of the universal income"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102896770"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Piketty for a universal income ... not universal"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102943696"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Julia Cagé: \"The democratic game has been captured by private interests\""
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106659147"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q106659147"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106044626"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Building Saddam Hussein's bomb"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106145515"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Our Last, Best Chance to Reinvent Local News"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106145869"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "N.J. just made a huge deal to sell 2 public television stations"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106146745"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "New Jersey Funds the Civic Info Consortium, Recognizes the Vital Role Local News Plays During Crises"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108679526"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The European Union Moves to Fight Terrorist Content Online"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q109944317"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "To end poverty, invest in children"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108806124"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Wasteful battle for the holy soil of Arabia"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q109952591"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "HIV patient had COVID for over 7 months, infection mutated over 30 times"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106337240"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Justin Trudeau’s claim that Castro made ‘significant improvements’ to Cuban health care and education"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108895834"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "How Vietnam Killed the Great Society"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106354534"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Unlocking the Covid Code"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106358112"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Best Global Responses to the COVID-19 Pandemic, 1 Year Later"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108935980"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Paywalls work: Shawnee Mission Post"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106452232"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landmark New Jersey Civic Info Consortium Invites Inaugural Grant Applications to Combat State's Local-News Crisis"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106463661"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "'Organizing for Neighborhood News' Launches in Philadelphia"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106463635"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "News Voices: North Carolina"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106471187"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "They overcame mutual loathing, and saved a town"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106485407"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Stop Techsploitation"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106489592"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Seattle's Experiment With Campaign Funding"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103811302"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Innovate for a quality press"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103812387"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Julia Cagé: \"Information must be considered a public good\""
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103812955"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Is there an economic model to save the media?"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103813356"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Julia Cagé: \"We must save the media and fight for this public good\""
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103813693"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Julia Cagé: \"Reintroducing quality time” in the press\""
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103813756"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Information is a public good"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103814209"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Should we reinvent the media? Interview with Julia Cagé and Eric Fottorino"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103817580"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The media are becoming dancers for billionaires in need of influence"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103824984"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The 2016 Assises prize winners"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103826342"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Who makes the information?"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "news"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103831119"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nigerian school stakes claim to have set up Africa's first printing press"
+        }
+      }
+    ]
+  }
+}

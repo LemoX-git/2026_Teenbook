@@ -1,0 +1,142 @@
+[
+  {
+    "label": "battery",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q2891692",
+    "item__type": "uri",
+    "itemLabel": "battery",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "en"
+  },
+  {
+    "label": "computer",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q11202952",
+    "item__type": "uri",
+    "itemLabel": "вычислитель",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "computer",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q57306483",
+    "item__type": "uri",
+    "itemLabel": "computer",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "en"
+  },
+  {
+    "label": "battery",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q3283617",
+    "item__type": "uri",
+    "itemLabel": "оскорбление действием",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "battery",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q267298",
+    "item__type": "uri",
+    "itemLabel": "батарея",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "battery",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q810930",
+    "item__type": "uri",
+    "itemLabel": "батарея",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "battery",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q240313",
+    "item__type": "uri",
+    "itemLabel": "артиллерийская батарея",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "software",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q445019",
+    "item__type": "uri",
+    "itemLabel": "software",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "battery",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q1796687",
+    "item__type": "uri",
+    "itemLabel": "побои",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "computer",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q68",
+    "item__type": "uri",
+    "itemLabel": "компьютер",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "laptop",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q3962",
+    "item__type": "uri",
+    "itemLabel": "ноутбук",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "software",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q7397",
+    "item__type": "uri",
+    "itemLabel": "программное обеспечение",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "computer hardware",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q3966",
+    "item__type": "uri",
+    "itemLabel": "аппаратное обеспечение",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  },
+  {
+    "label": "smartphone",
+    "label__type": "literal",
+    "label__lang": "en",
+    "item": "http://www.wikidata.org/entity/Q22645",
+    "item__type": "uri",
+    "itemLabel": "смартфон",
+    "itemLabel__type": "literal",
+    "itemLabel__lang": "ru"
+  }
+]

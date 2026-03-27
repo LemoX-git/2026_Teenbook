@@ -1,0 +1,3075 @@
+{
+  "head": {
+    "vars": [
+      "seed",
+      "seedLabel",
+      "related",
+      "relatedLabel",
+      "relation"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138282819"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Smash Society"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "phishing"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q135005"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7156555"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "PayPaI"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q41710"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "этническая группа"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138341373"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Voxed"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cyberbullying"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q494348"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138081223"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q138081223"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13512376"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "investment in social media"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q355"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Facebook"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117286602"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Страдающее Средневековье"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117349381"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tal Canal"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q114240945"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Stop Gordofobia"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q97659194"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Батрахоспермум"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30950506"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Big Big Channel"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q134776942"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Carlo Social"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138750011"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Darflen"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q126912904"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Arto"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P140"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "религия или мировоззрение"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "privacy"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106699256"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Facebook Container"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q136646469"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Miin"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15889126"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "МДК"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20890402"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Social Web"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4281101"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Марафон"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1287505"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personnel file"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q115270003"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q115270003"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7551246"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Social media as a public utility"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7551245"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media in the fashion industry"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q124398839"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q124398839"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q97173495"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taiwan Roadkill Observation Network"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106816453"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q106816453"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q32193244"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "inventaire.io"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q88995163"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "whatoplay"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112406039"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Webstory"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12302245"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Arto"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q115755681"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "LINE VOOM"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cyberbullying"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q494348"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11313213"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Smiley Kikuchi's defamation case"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1324077"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "медицинская карта"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "privacy"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60750379"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "virtual assistant privacy"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55697819"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Neihan Duanzi"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q109836479"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q109836479"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q137195840"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Travel Bloggers Community"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98907707"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chinese Non-Governmental Organizations Web Archive"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q95612951"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Лентач"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120836241"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q120836241"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cyberbullying"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q494348"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5197668"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cyber-aggression in the workplace"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q116174988"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Firefish"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q137575626"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "xorsport"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16927779"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "AMARJIT KUMAR"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6786983"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mekusharim"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1137514"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Indymedia"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "privacy"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q109822700"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "family affair"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q116448810"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "FakeTube"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11994082"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Origo"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56599280"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "CharacTour"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30325521"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "micro.blog"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q116817959"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Capsula Migrante"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117774872"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q117774872"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "phishing"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q135005"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2571495"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "instance of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Смишинг"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3204768"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Brazilian identity card"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1960678"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q1960678"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "phishing"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q135005"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q109923223"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "malicious e-mail"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q161157"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "пароль"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q109351824"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q109351824"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "privacy"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30593443"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Privacy in Education"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q135932177"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "sensitive personal data"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "privacy"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5164712"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "consumer privacy"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "privacy"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8035068"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "workplace privacy"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5249975"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deed of change of name"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1070100"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "справка о наличии или отсутствии судимости"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "phishing"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q135005"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q125149693"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "фишинговый QR"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "privacy"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28136929"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "конфиденциальность генетических данных"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1071027"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "полное имя"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "privacy"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7246021"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Privacy for research participants"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cyberbullying"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q494348"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2129858"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q2129858"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cyberbullying"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q494348"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13506405"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cyberbaiting"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16828775"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "anonymous social media"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "phishing"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q135005"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1259334"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Drive-by Pharming"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1076693"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "личная информация"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q185836"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "возраст человека"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "privacy"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q114705458"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mental privacy"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "privacy"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117816674"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "practical obscurity"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30849"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "блог"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q214995"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "телефонный номер"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1273217"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "адрес электронной почты"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q319608"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "почтовый адрес"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47988"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "удостоверение личности"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q674050"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "PIN-код"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "privacy"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6417070"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Камера поцелуев"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q105724547"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "correspondence address"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188952"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "история болезни"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "privacy"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q124749157"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "geo-privacy"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cyberbullying"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q494348"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15901411"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "доксинг"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q216177"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Социальные закладки"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q109594644"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social VR"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18748141"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "дата смерти"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q113578744"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "video sharing"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120123828"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q120123828"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q168210"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "веб-форум"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7978558"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "веб-аннотации"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "phishing"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q135005"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4019220"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "CEO fraud"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3220391"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальная сеть"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112393619"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kundschaftsbriefe"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1423967"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Катамнез"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cyberbullying"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q494348"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q29055131"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Синий кит"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "privacy"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q456632"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "защита персональных данных"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "privacy"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q48782440"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "post-mortem privacy"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11854279"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "биометрический идентификатор"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5172494"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "corporate social media"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11862252"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "личная история"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4088258"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Блог-литература"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117399367"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Социальные сети и вторжение России на Украину"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q354869"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "фотохостинг"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q83900"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Свидетельство о рождении"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q64001169"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "кампания в социальных сетях"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16572632"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "логин"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3391957"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "online community platform"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "privacy"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q65063396"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "neuroprivacy"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "phishing"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q135005"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3492809"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "спеар-фишинг"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17888"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сексуальная ориентация"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1140371"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "национальный идентификационный номер"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2389905"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "дата рождения"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "privacy"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17052099"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "digital privacy"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11186"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "частный IP-адрес"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108085334"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social audio"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "privacy"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10949535"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Real-name policy"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "phishing"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q135005"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q132132212"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "DeepPhish"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "privacy"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188728"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q123295830"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "collective privacy"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30324372"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social profiling"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "social media"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202833"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21095111"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "uc"
+        }
+      },
+      {
+        "seedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "personal data"
+        },
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3702971"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q113462290"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q113462290"
+        }
+      }
+    ]
+  }
+}

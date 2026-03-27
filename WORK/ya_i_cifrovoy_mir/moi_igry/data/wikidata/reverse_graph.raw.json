@@ -1,0 +1,5809 @@
+{
+  "head": {
+    "vars": [
+      "item1",
+      "item1Label",
+      "p",
+      "propLabel",
+      "item2",
+      "item2Label"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q636246"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Sparkster"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q623083"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Contact"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q634615"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Pushmo"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q630033"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Tenchu Z"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q628362"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Knights and Merchants: The Shattered Kingdom"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q618010"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Dominions: Priests, Prophets and Pretenders"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q615211"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Gex 3: Deep Cover Gecko"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q617336"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Secret Files 3"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q632633"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Fist of the North Star: Ken's Rage 2"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q628911"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P366"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "пароль"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "используется как/для/при/в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q619025"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "R-Type III: The Third Lightning"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q626699"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "DJ Max Trilogy"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q623868"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Astonishia Story"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q637763"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Chaos: The Battle of Wizards"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q618266"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Payday: The Heist"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q634457"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Underwurlde"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q637312"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "World of Goo"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q628652"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1056"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "American Video Entertainment"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "продукция"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q622115"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "In the Hunt"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q629400"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Dark Earth"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q631331"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Super Mario Bros.: The Lost Levels"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q635707"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "50 Mission Crush"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q615990"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Gotham City Impostors"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q623628"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Secret Weapons of the Luftwaffe"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q624526"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "I, Robot"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q631704"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Arcanum: Of Steamworks and Magick Obscura"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q625278"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Pocket Bomberman"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q625283"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Double Dribble"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q622124"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "R-Type II"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q626318"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "CrazyRacing AirRider"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q615420"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Kimi ga Aruji de Shitsuji ga Ore De"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q633461"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "FIFA Soccer 96"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q634893"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Command & Conquer 4: Tiberian Twilight"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q632256"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Might and Magic V: Darkside of Xeen"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q634393"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Sine Mora"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q636219"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Gears of War"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q618610"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Apidya"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q624964"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "R2Beat"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q626993"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "HarmoKnight"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q615251"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Nakajima Satoru Kanshū F1 Super License"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q622386"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Konami Krazy Racers"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q615921"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "3D Lemmings"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q626470"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "DJMax Portable 2"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q631367"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Mortal Kombat vs. DC Universe"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q617841"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "X-Wars"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q621579"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Pump It Up Fiesta"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q625305"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Golden Axe III"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q634293"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Magic Carpet"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q634502"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Takahashi Meijin no Boken Jima IV"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q634069"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Silent Hunter"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q632632"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Scurge: Hive"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q627877"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Unreal Tournament"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q615883"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Brink"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q628953"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "The 7th Guest"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q624088"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Planetarion"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q618121"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Ape Escape 2"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q635989"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Dragon Ball Z: Idainaru Dragon Ball Densetsu"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q635706"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "V-Rally"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q630596"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Guitar Hero: Aerosmith"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q634300"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "TNN Bass Tournament of Champions"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q625317"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Jurassic Park III: The DNA Factor"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q620733"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Adventure Time: Hey Ice King! Why’d You Steal Our Garbage?!"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q636984"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "QWOP"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q630393"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Wacky Races"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q623421"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Sudden Attack"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q634943"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jill of the Jungle"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q631275"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Arcade Game Construction Kit"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q627021"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Wonder Boy III: The Dragon's Trap"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q618100"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Zettai Zetsumei Toshi 3: Kowareyuku Machi to Kanojo no Uta"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q629626"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Medieval II: Total War"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q633046"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Command & Conquer 3: Tiberium Wars"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q626765"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "DJMax Portable"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q624319"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tartaros Online"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q615573"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Slam Dunk 2: IH Yosen Kanzenban!!"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q622336"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Resident Evil"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q622081"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Marvel Avengers: Battle for Earth"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q636012"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Europa Universalis III"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q636411"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Might and Magic Book One: The Secret of the Inner Sanctum"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q621616"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Tomb Raider: The Angel of Darkness"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q617303"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Castlevania Chronicles"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q633011"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Final Fantasy X-2"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q629055"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Crimson Skies: High Road to Revenge"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q637698"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "The Games: Summer Challenge"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q615588"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Mobile Suit Gundam"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q637271"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "RIFT"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q625926"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Karma II"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q623111"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Aquaria"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q616830"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "F355 Challenge"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q626802"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Kingdom Hearts II"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q616512"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Battle Squadron"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q629577"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Neverwinter Nights 2"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q617065"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Dance Dance Revolution Disney Dancing Museum"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q625946"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Age of Wanderer"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q627491"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "God Medicine"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q623479"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Властелин Колец Онлайн"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q619427"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Injustice: Gods Among Us"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q617257"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Devil Summoner 2: Raidou Kuzunoha vs. King Abaddon"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q630026"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Lil cal 64"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q625063"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Legend of Illusion Starring Mickey Mouse"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q626822"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Phantasy Star IV: The End of the Millennium"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q198092"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "The King of Fighters 2002"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q226805"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Torchlight II"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q198096"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "The King of Fighters '98"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202210"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1056"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "GameStop"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "продукция"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200864"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Assassin’s Creed"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q193581"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Half-Life 2"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q189784"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Doom"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q191404"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q191404"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q225912"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Kingdom Hearts"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q205508"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Ballblazer"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q217638"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Project Snowblind"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q207784"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1056"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Square Enix"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "продукция"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q194673"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Fight for Life"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q192851"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "аркадный автомат"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q229436"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "3D Dot Game Heroes"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q193559"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1056"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Valve"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "продукция"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q211858"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "DK: King of Swing"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q225861"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Professor Layton and the Unwound Future"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q191965"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Zero Wing"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q220216"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Boin"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q220665"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Space Invaders"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q211229"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Black Mesa"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q216293"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Pong"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q187339"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Zelda II: The Adventure of Link"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q226815"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Zorro"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q211735"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Assassin’s Creed II"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210275"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Destiny"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q222473"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Hearts of Iron III"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q201792"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Torchlight"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210844"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Spore"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q213911"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "The Legend of Zelda: Ocarina of Time"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q187732"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "RuneScape"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q195158"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Lionheart: Legacy of the Crusader"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q187351"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Split/Second"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q211096"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q211096"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q217493"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1056"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Paradox Interactive"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "продукция"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q207922"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1056"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Atari"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "продукция"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q184816"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "The Sims"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q207948"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Warcraft III: Reign of Chaos"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q224905"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "SameGame"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q203310"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q203310"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223381"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Final Fantasy X"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q227804"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P360"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "list of WildTangent games"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "в этом списке перечисляются"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q220767"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Age of Empires"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q219119"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ZombiU"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188273"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1056"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q188273"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "продукция"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q216995"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Super Mario 64"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q195764"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Project X Zone"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q217423"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q217423"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q220960"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Diablo"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q219743"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "OGame"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q204350"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Modern Combat 2: Black Pegasus"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q207986"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Call of Duty: Black Ops"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q220107"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Zoo Tycoon 2"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q214232"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Final Fantasy VII"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q187116"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Time Zone"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223341"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "League of Legends"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q213217"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Mafia: The City of Lost Heaven"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q207885"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Warcraft: Orcs & Humans"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q219985"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "XBlast"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q214142"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q214142"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q215861"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "S.T.A.L.K.E.R.: Тень Чернобыля"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q220365"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Need for Speed: Most Wanted"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q196255"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Street Fighter II: Hyper Fighting"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q187894"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Robin Hood: The Legend of Sherwood"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q198583"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P360"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Список игр на движке Unreal Engine"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "в этом списке перечисляются"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q206653"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q206653"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210271"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "The Karate Kid"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q185482"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Sims 3"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q201390"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "SimTown"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q221164"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Fallout 3"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q183590"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "TOCA Race Driver 2"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q211007"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Last Bullet"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q220102"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Zoo Tycoon"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210298"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Call of Duty 2"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q186089"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Эрнё Рубик"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q195300"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Conquiztador"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q220965"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Heroes of Might and Magic III"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210552"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Darwinia"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q220174"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Zool"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q209045"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Insane"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202934"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Hattrick"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q219795"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Need for Speed: Carbon"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q195280"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Toy Story 3"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q204105"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Dig Dug"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223629"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Half-Life 2: Lost Coast"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202810"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "1869"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q226865"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Fate"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q218568"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Super Hexagon"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q212076"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1056"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "2015, Inc."
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "продукция"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q198081"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "The King of Fighters '94"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q207797"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Call of Duty: World at War"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q227612"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Fate: Undiscovered Realms"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q208850"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "однопользовательская игра"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q217241"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "24: The Game"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q209163"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "дополнение к компьютерной игре"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q219804"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Zombies Ate My Neighbors"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q209163"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1547"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "дополнение к компьютерной игре"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "зависит от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q195739"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Twinity"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7889"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q207786"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Тамагочи"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "компьютерная игра"
+        }
+      }
+    ]
+  }
+}

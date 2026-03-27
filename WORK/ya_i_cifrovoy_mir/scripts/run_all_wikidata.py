@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Запускает все зарегистрированные SPARQL-запросы к Wikidata и сохраняет результаты в data/.
 
 Что делает скрипт:
@@ -8,12 +7,6 @@
    - raw JSON-ответы в data/wikidata/*.raw.json
    - упрощённые ответы в data/wikidata/*.normalized.json
    - сводный файл в data/wikidata_export.json
-
-Примеры:
-    python WORK/ya_i_cifrovoy_mir/scripts/run_all_wikidata.py --list-topics
-    python WORK/ya_i_cifrovoy_mir/scripts/run_all_wikidata.py --dry-run
-    python WORK/ya_i_cifrovoy_mir/scripts/run_all_wikidata.py --topic moya_zavisimost
-    python WORK/ya_i_cifrovoy_mir/scripts/run_all_wikidata.py --topic moya_tehnika --force
 """
 
 from __future__ import annotations
@@ -237,7 +230,7 @@ def main() -> int:
                 continue
 
             if raw_path.exists() and normalized_path.exists() and not args.force:
-                print(f"[SKIP] {topic_slug}:{query_name} — файлы уже есть, используйте --force")
+                print(f"[ SKIP ] {topic_slug}:{query_name} — файлы уже есть, используйте --force")
                 result = QueryResult(
                     topic_slug=topic_slug,
                     topic_title=topic_title,
@@ -254,7 +247,7 @@ def main() -> int:
                 summary_queries.append(result.__dict__)
                 continue
 
-            print(f"[RUN ] {topic_slug}:{query_name}")
+            print(f"[ RUN ] {topic_slug}:{query_name}")
             started_at = utc_now()
             try:
                 raw_response = execute_sparql(
@@ -281,7 +274,7 @@ def main() -> int:
                     finished_at=utc_now(),
                 )
                 print(f"[ OK ] {topic_slug}:{query_name} — строк: {len(normalized_rows)}")
-            except Exception as exc:  # noqa: BLE001
+            except Exception as exc:
                 result = QueryResult(
                     topic_slug=topic_slug,
                     topic_title=topic_title,
@@ -292,7 +285,7 @@ def main() -> int:
                     started_at=started_at,
                     finished_at=utc_now(),
                 )
-                print(f"[ERR ] {topic_slug}:{query_name} — {exc}")
+                print(f"[ ERR ] {topic_slug}:{query_name} — {exc}")
 
             overall_results.append(result)
             summary_queries.append(result.__dict__)
@@ -312,8 +305,7 @@ def main() -> int:
                     "empty": sum(1 for item in summary_queries if item.get("status") == "empty"),
                     "skipped": sum(1 for item in summary_queries if item.get("status") == "skipped"),
                     "error": sum(1 for item in summary_queries if item.get("status") == "error"),
-                },
-                "note": "Файл создан автоматически скриптом run_all_wikidata.py."
+                }
             }
             save_json(data_dir / "wikidata_export.json", summary)
 

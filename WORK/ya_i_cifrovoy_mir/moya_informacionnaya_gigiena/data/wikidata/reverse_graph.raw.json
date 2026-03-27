@@ -1,0 +1,5793 @@
+{
+  "head": {
+    "vars": [
+      "item1",
+      "item1Label",
+      "p",
+      "propLabel",
+      "item2",
+      "item2Label"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q125251587"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1269"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q125251587"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q114854256"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P366"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "troll army"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "используется как/для/при/в"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q124031138"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P106"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Three Year Letterman"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "род занятий"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60735209"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P106"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Oobah Butler"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "род занятий"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51678674"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "First Workshop on Trolling, Aggression and Cyberbullying"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12581"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/L497277-S1"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5137"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "L497277-S1"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "элемент для значения"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q62391975"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Great Replacement"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1054235"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Джон Тайтор"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12339810"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1268"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Троллфейс"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "представляет"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3567066"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P106"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "weev"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "род занятий"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117328231"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P106"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Matan Even"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "род занятий"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58100203"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P106"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jacob Wohl"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "род занятий"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/L1525260-S1"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5137"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "L1525260-S1"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "элемент для значения"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q136388299"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P3095"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "слопаганда"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "практикуется"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26898123"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Южный Парк (20-й сезон)"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q134237546"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Trads"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12339810"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P138"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Троллфейс"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "названо в честь"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49102236"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Trolljägarna"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20970406"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P106"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Joshua Ryne Goldberg"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "род занятий"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8551768"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P301"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Категория:Троллинг"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общая тема категории"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12581"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/L28963-S1"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5137"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "L28963-S1"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "элемент для значения"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12581"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/L40682-S1"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5137"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "L40682-S1"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "элемент для значения"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q31888777"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q31888777"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q122961651"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P106"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "JUNlPER"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "род занятий"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q87961783"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jenseits des Anstandsgürtels"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q115363507"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P106"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Catturd"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "род занятий"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7771016"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The U.S. Poet Laureate"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1713180"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P106"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Юлия Борисовна Рабинович"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "род занятий"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5681313"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1382"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "хейтер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "частично совпадает с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q600230"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2283"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "веб-бригады"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "использует"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12581"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/L584183-S1"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5137"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "L584183-S1"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "элемент для значения"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q444316"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "грифер"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q76509383"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jonathan Bishop"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q95018861"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Groypers"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38271407"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P106"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Baked Alaska"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "род занятий"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110776932"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1269"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "don't feed the trolls"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тематически относится к"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59623463"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P106"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Josh Seiter"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "род занятий"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q105761624"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P106"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Testoviron"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "род занятий"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12581"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/L171574-S1"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5137"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "L171574-S1"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "элемент для значения"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q600230"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "веб-бригады"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28405423"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P106"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ken M"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "род занятий"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12581"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1889"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тролль"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "не путать с"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q85933163"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Does Unleashing a Neo-Nazi 'Troll Army' Count as Free Speech?"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q81891719"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2283"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "фабрика троллей"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "использует"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120146556"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P106"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rafał Kosno"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "род занятий"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q189656"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1535"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "дезинформация"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "находится в пользовании у"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12581"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/L1209499-S2"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5137"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "L1209499-S2"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "элемент для значения"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q64737274"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P3095"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "троллинг"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "практикуется"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1059844"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P138"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "патентный тролль"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "названо в честь"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11281"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q29097737"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P279"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "AK Trolls"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подкласс от"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интернет-тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12581"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/L226625-S1"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5137"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "L226625-S1"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "элемент для значения"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "тролль"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106146745"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "New Jersey Funds the Civic Info Consortium, Recognizes the Vital Role Local News Plays During Crises"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104819595"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Why the Civic Info Consortium Is Such a Huge Deal"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104777201"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "News"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106463661"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "'Organizing for Neighborhood News' Launches in Philadelphia"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q105583420"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The economic case for regulating social media"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102700755"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Un Bout du Monde: For citizen ownership of the media!"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106933407"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Facing Defamation, Sidney Powell Says 'No Reasonable Person' Thought Her Election Fraud Claims Were Fact"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106528474"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Covert World of People Trying to Edit Wikipedia—for Pay"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104834591"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Colta.ru"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106463635"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "News Voices: North Carolina"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107185406"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Prosports.ru"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104777421"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Akhbaar"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106691371"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nothing stops a bullet like a job"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106044626"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Building Saddam Hussein's bomb"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106145869"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "N.J. just made a huge deal to sell 2 public television stations"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106893579"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislators have reintroduced a bill to examine the state of local journalism"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q105184954"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q105184954"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102872987"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Who makes up Benoît Hamon's campaign team?"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106451735"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P138"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q106451735"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "названо в честь"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106452232"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landmark New Jersey Civic Info Consortium Invites Inaugural Grant Applications to Combat State's Local-News Crisis"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107001281"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The CIA's fake vaccination drive has damaged the battle against polio"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106358112"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Best Global Responses to the COVID-19 Pandemic, 1 Year Later"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106337240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Justin Trudeau’s claim that Castro made ‘significant improvements’ to Cuban health care and education"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q105904614"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Štěpánka Čechová"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106893177"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Future of Local News Act reintroduced"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q105013453"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Trump Electoral college win certified despite Democratic objections"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103812387"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Julia Cagé: \"Information must be considered a public good\""
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104759432"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tahrir News"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106893536"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Press Release Public Knowledge Commends Congress for Bill Establishing Independent Committee to Bolster Local News"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103814209"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Should we reinvent the media? Interview with Julia Cagé and Eric Fottorino"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103813756"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Information is a public good"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106891714"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Congress Proposes Panel To Study State Of Local News"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107342259"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P452"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "DealStreetAsia"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "отрасль"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107014196"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taking ‘Extraordinary Measures,’ Biden Backs Suspending Patents on Vaccines"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103824984"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The 2016 Assises prize winners"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102896770"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Piketty for a universal income ... not universal"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107001525"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Polio cases jump in Pakistan as clerics declare vaccination an American plot"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107221825"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "How Humanity Gave Itself an Extra Life"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106471187"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "They overcame mutual loathing, and saved a town"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106354534"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Unlocking the Covid Code"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107607776"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Kansas City Star to move from downtown building, shift printing operations"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107001363"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bin Laden death: 'CIA doctor' accused of treason"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102847660"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "For a primary for the left"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106489592"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Seattle's Experiment With Campaign Funding"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106574191"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P138"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q106574191"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "названо в честь"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106647701"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Collaborative Conundrum: Do Wikis Have a Place in the Newsroom?"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107521835"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P136"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "RTL Direkt"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "жанр"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q105620930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Balistrad"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107230334"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Petroleum Broadcast System Owes Us an Apology"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104815072"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Prostoprosport.ru"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106485407"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Stop Techsploitation"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102943696"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Julia Cagé: \"The democratic game has been captured by private interests\""
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106730635"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Johann Georg Schleder"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103826342"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Who makes the information?"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107062102"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Lancet: Latest global disease estimates reveal perfect storm of rising chronic diseases and public health failures fuelling COVID-19 pandemic"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102841103"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "We, economists, support Hollande"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106703560"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P138"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Les Nouvelles de St Martin"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "названо в честь"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107447988"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "СМИ: Президент Гаити Жовенель Моиз смертельно ранен"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107125305"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Disease Detective"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106890986"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "US Sen. Schatz Reintroduces Legislation to Bolster Struggling Local News Industry"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106673990"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P138"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q106673990"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "названо в честь"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107585861"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Mediafax"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106869832"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ao Ponto"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106390364"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P415"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Radio Al-Hikmah FM"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "формат радио"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106286930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P452"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Дружковка сити"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "отрасль"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106775674"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Samoyiki"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103813356"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Julia Cagé: \"We must save the media and fight for this public good\""
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q105175291"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "MABAPOST"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107474761"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Inopressa.ru"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106659147"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q106659147"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103853965"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Julia Cagé, winner of the 8th edition of the Pétrarque Prize of the France Culture-Le Monde Essay"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103851263"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The 2019 Ethical Awards and Corruption Ceremony"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107000553"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "53% of Republicans view Trump as true U.S. president -Reuters/Ipsos"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107301289"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P828"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "reporting group"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "причиной является"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104777425"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "liferdefempire"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107013936"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mutations could render current Covid vaccines ineffective in a year or less, epidemiologists warn"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107010775"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Why the New National Wastewater Surveillance System Matters"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107385180"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Andres Oppenheimer: Pope carrying out silent diplomacy in Argentina"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102865192"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Piketty, Méda, Landais ... Economists \"for a credible and daring universal income\""
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107385989"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The journey of Pope Francis: Argentina embraces Francis, its pauper Pope"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107321173"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1546"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "TeluguStop"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "описание девиза"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106145515"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Our Last, Best Chance to Reinvent Local News"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106587149"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P138"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q106587149"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "названо в честь"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103751981"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "guns.com"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104243378"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q104243378"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102887928"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Julia Cagé, the midwife of the universal income"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q105713470"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Everyone's favorite news site"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103811302"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Innovate for a quality press"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102653771"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Press release: Julia Cagé becomes president of the Society of readers of \"Le Monde\""
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103812955"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Is there an economic model to save the media?"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104243387"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q104243387"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104899954"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P452"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Better Dwelling"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "отрасль"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104865614"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Broadcasting Corporation of Abia State"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103813693"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Julia Cagé: \"Reintroducing quality time” in the press\""
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104666631"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "With 30 days to get 13,713 signatures, effort to recall Kansas City mayor falls short"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106893474"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sen. Cantwell to ask Biden Administration to include $2.3 billion for newspapers, broadcasters in infrastructure plan"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103817580"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The media are becoming dancers for billionaires in need of influence"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104167991"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Former Star reporter forms online news outlet"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103831119"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nigerian school stakes claim to have set up Africa's first printing press"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107036210"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Social Programs Can Sometimes Turn a Profit for Taxpayers"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112553158"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jack Lule"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112514430"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Daniel Erasmus"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110095624"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Drone Whistleblower Gets 45 Months in Prison for Revealing Ongoing US War Crimes"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110270756"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jaromír Marek"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q111664968"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Clash between Palestinians and Israeli forces leaves at least 155 injured"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112545825"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Henrik Örnebring"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q109603061"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P452"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bunka Tsushinsha"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "отрасль"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110952991"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bond fm"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q111427290"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P136"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Daniel Greene"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "жанр"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108806124"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Wasteful battle for the holy soil of Arabia"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110495122"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Academic Research | North Korea portal"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112540860"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Curtis Prendergast"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q109251863"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "William Astore, America's Hollow Foreign Legions"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112412321"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Monika Horsáková"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q111145224"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "How to Stop a Nuclear War"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q109042073"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P136"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q109042073"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "жанр"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q111011203"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Five of world’s most powerful nations pledge to avoid nuclear war"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112546788"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Colleen Murrell"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110953062"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "LASU Radio (95.7)"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110953036"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Yabatech fm"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110039788"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q110039788"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q109413035"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "IFF News"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110768951"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P452"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Prism Reports"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "отрасль"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112518847"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Elizabeth Green"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110613135"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Can you trust Wikipedia?"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112539053"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Anthony Olcott"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108170523"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Фергана"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110362885"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P452"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Lallantop"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "отрасль"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112534427"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chris Paterson"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q109332882"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Goldsboro revisited: account of hydrogen bomb near-disaster over North Carolina – declassified document"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q111905675"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "After A Nuclear 9/11"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112564774"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Craig R. Whitney"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q109507814"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P136"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "InfluenceWatch Podcast"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "жанр"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q109599756"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nezarat"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112264957"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "JAG Joins the Alliance for Community Media"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112546182"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Weidong Cheng"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110948982"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lagos Talk fm"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112556532"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chung Min Lee"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q109944317"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "To end poverty, invest in children"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110677179"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P452"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "republika.rs"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "отрасль"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112543653"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Paul David Bolls"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q109599756"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nezarat"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "это частный случай понятия"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107738509"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ABC 7 Chicago"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112546562"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Andrea Kábelová"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108284412"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P136"
+        },
+        "item1Label": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "watson"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "жанр"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108920205"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P921"
+        },
+        "item1Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Волжский.ру"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "основная тема"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112548488"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q112548488"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112565292"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q112565292"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "область деятельности"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      },
+      {
+        "item2": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926"
+        },
+        "item1": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q109071315"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P452"
+        },
+        "item1Label": {
+          "type": "literal",
+          "value": "Q109071315"
+        },
+        "propLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "отрасль"
+        },
+        "item2Label": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "новости"
+        }
+      }
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "topic": "Моя информационная гигиена",
-  "status": "template_for_real_export",
-  "source": "WikiData",
-  "note": "Этот файл — честный шаблон. Его нужно заменить на реальную выгрузку после запуска запросов.",
+  "topic_slug": "moya_informacionnaya_gigiena",
+  "generated_at": "2026-03-27T16:12:26.612837+00:00",
+  "endpoint": "https://query.wikidata.org/sparql",
   "seed_labels": [
     "misinformation",
     "news",
@@ -11,25 +11,69 @@
     "recommender system",
     "troll"
   ],
-  "suggested_queries": [
-    "QUERY_FIND_BY_LABEL",
-    "QUERY_EXPAND_CLASS_TREE",
-    "QUERY_LOCAL_GRAPH"
-  ],
-  "expected_fields": [
-    "item",
-    "itemLabel",
-    "propLabel",
-    "relatedLabel"
-  ],
-  "sample_manual_rows": [
+  "queries": [
     {
-      "label": "misinformation",
-      "why_useful": "может стать отправной точкой для построения графа"
+      "topic_slug": "moya_informacionnaya_gigiena",
+      "topic_title": "Моя информационная гигиена",
+      "query_name": "find_by_label",
+      "const_name": "QUERY_FIND_BY_LABEL",
+      "status": "success",
+      "row_count": 14,
+      "raw_file": "wikidata\\find_by_label.raw.json",
+      "normalized_file": "wikidata\\find_by_label.normalized.json",
+      "skipped_reason": null,
+      "error": null,
+      "started_at": "2026-03-27T16:12:14.483509+00:00",
+      "finished_at": "2026-03-27T16:12:14.802378+00:00"
     },
     {
-      "label": "news",
-      "why_useful": "подходит как второе стартовое понятие"
+      "topic_slug": "moya_informacionnaya_gigiena",
+      "topic_title": "Моя информационная гигиена",
+      "query_name": "expand_class_tree",
+      "const_name": "QUERY_EXPAND_CLASS_TREE",
+      "status": "success",
+      "row_count": 150,
+      "raw_file": "wikidata\\expand_class_tree.raw.json",
+      "normalized_file": "wikidata\\expand_class_tree.normalized.json",
+      "skipped_reason": null,
+      "error": null,
+      "started_at": "2026-03-27T16:12:15.803056+00:00",
+      "finished_at": "2026-03-27T16:12:16.633450+00:00"
+    },
+    {
+      "topic_slug": "moya_informacionnaya_gigiena",
+      "topic_title": "Моя информационная гигиена",
+      "query_name": "local_graph",
+      "const_name": "QUERY_LOCAL_GRAPH",
+      "status": "success",
+      "row_count": 127,
+      "raw_file": "wikidata\\local_graph.raw.json",
+      "normalized_file": "wikidata\\local_graph.normalized.json",
+      "skipped_reason": null,
+      "error": null,
+      "started_at": "2026-03-27T16:12:17.634265+00:00",
+      "finished_at": "2026-03-27T16:12:19.788897+00:00"
+    },
+    {
+      "topic_slug": "moya_informacionnaya_gigiena",
+      "topic_title": "Моя информационная гигиена",
+      "query_name": "reverse_graph",
+      "const_name": "QUERY_REVERSE_GRAPH",
+      "status": "success",
+      "row_count": 200,
+      "raw_file": "wikidata\\reverse_graph.raw.json",
+      "normalized_file": "wikidata\\reverse_graph.normalized.json",
+      "skipped_reason": null,
+      "error": null,
+      "started_at": "2026-03-27T16:12:20.789450+00:00",
+      "finished_at": "2026-03-27T16:12:25.612679+00:00"
     }
-  ]
+  ],
+  "totals": {
+    "planned": 4,
+    "success": 4,
+    "empty": 0,
+    "skipped": 0,
+    "error": 0
+  }
 }
