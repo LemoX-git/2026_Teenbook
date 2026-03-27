@@ -1,16 +1,5 @@
 from textwrap import dedent
 
-"""
-SPARQL-запросы для темы: Моя техника
-
-Как использовать:
-1. Открыть Wikidata Query Service.
-2. Скопировать один из запросов ниже.
-3. При необходимости уточнить seed-метки или заменить их на QID.
-4. Сохранить реальную выгрузку в папку data/.
-
-Фокусные свойства/отношения: instance of, subclass of, has part(s), part of, used for
-"""
 
 SEED_LABELS = [
     "smartphone",

@@ -1,16 +1,5 @@
 from textwrap import dedent
 
-"""
-SPARQL-запросы для темы: Моя безопасность в сети, приватность, публикация
-
-Как использовать:
-1. Открыть Wikidata Query Service.
-2. Скопировать один из запросов ниже.
-3. При необходимости уточнить seed-метки или заменить их на QID.
-4. Сохранить реальную выгрузку в папку data/.
-
-Фокусные свойства/отношения: instance of, subclass of, has part(s), part of, main subject
-"""
 
 SEED_LABELS = [
     "privacy",

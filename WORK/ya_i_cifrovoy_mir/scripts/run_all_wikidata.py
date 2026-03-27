@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Запускает все зарегистрированные SPARQL-запросы к Wikidata и сохраняет результаты в data/.
 
 Что делает скрипт:
@@ -8,12 +7,6 @@
    - raw JSON-ответы в data/wikidata/*.raw.json
    - упрощённые ответы в data/wikidata/*.normalized.json
    - сводный файл в data/wikidata_export.json
-
-Примеры:
-    python WORK/ya_i_cifrovoy_mir/scripts/run_all_wikidata.py --list-topics
-    python WORK/ya_i_cifrovoy_mir/scripts/run_all_wikidata.py --dry-run
-    python WORK/ya_i_cifrovoy_mir/scripts/run_all_wikidata.py --topic moya_zavisimost
-    python WORK/ya_i_cifrovoy_mir/scripts/run_all_wikidata.py --topic moya_tehnika --force
 """
 
 from __future__ import annotations
